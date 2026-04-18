@@ -9,7 +9,8 @@ desktop.ini
 # VS Code
 # =========================
 .vscode/
-*.code-workspace
+*.code-
+.history/
 
 # =========================
 # Logs & temp files
