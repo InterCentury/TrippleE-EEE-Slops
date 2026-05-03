@@ -152,10 +152,10 @@ CHARGER-RELATED OVERCHARGING
     CAUSE 2: Charger Fails to Stop
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Normal: Charger stops when battery reaches 4.2V          │
-    │   Fault: Charger continues applying voltage                │
+    │   Normal: Charger stops when battery reaches 4.2V           │
+    │   Fault: Charger continues applying voltage                 │
     │                                                             │
-    │   Result: Battery voltage rises beyond safe limit          │
+    │   Result: Battery voltage rises beyond safe limit           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
