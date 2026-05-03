@@ -733,8 +733,8 @@ IMMEDIATE ACTIONS
     STEP 1: DISCONNECT!
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Unplug charger immediately                               │
-    │   (Do not touch battery if very hot)                       │
+    │   Unplug charger immediately                                │
+    │   (Do not touch battery if very hot)                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -742,10 +742,10 @@ IMMEDIATE ACTIONS
     STEP 2: MOVE TO SAFE LOCATION
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   If safe to handle: Move battery to non-flammable surface │
-    │   Concrete floor, ceramic pot, metal tray                  │
-    │   Away from flammable materials                            │
-    │   Away from occupied areas                                 │
+    │   If safe to handle: Move battery to non-flammable surface  │
+    │   Concrete floor, ceramic pot, metal tray                   │
+    │   Away from flammable materials                             │
+    │   Away from occupied areas                                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -754,11 +754,11 @@ IMMEDIATE ACTIONS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Watch for:                                                │
-    │   ├── Smoke emission                                       │
-    │   ├── Flames                                               │
-    │   ├── Swelling (Li-ion)                                    │
-    │   ├── Hissing sound                                        │
-    │   └── Extreme heat                                         │
+    │   ├── Smoke emission                                        │
+    │   ├── Flames                                                │
+    │   ├── Swelling (Li-ion)                                     │
+    │   ├── Hissing sound                                         │
+    │   └── Extreme heat                                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
