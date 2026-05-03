@@ -246,13 +246,13 @@ TEMPERATURE EFFECTS ON OVERCHARGING
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Internal resistance increases greatly                     │
-    │   Voltage rises faster (false full indication)             │
-    │   Lithium plating occurs (even at normal voltage)          │
-    │   Charger may not detect true state of charge              │
+    │   Voltage rises faster (false full indication)              │
+    │   Lithium plating occurs (even at normal voltage)           │
+    │   Charger may not detect true state of charge               │
     │                                                             │
-    │   RISK: Severe Li-ion damage, capacity loss, short circuits│
+    │   RISK: Severe Li-ion damage, capacity loss, short circuits │
     │                                                             │
-    │   RULE: Never charge Li-ion below 0°C!                     │
+    │   RULE: Never charge Li-ion below 0°C!                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
