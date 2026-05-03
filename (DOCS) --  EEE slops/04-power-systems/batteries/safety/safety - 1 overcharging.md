@@ -263,12 +263,12 @@ TEMPERATURE EFFECTS ON OVERCHARGING
     │   Charging efficiency decreases                             │
     │   Heat from charging adds to ambient heat                   │
     │   Thermal runaway threshold lowers                          │
-    │   Pressure builds faster (gassing)                         │
+    │   Pressure builds faster (gassing)                          │
     │   Sealed batteries may vent                                 │
     │                                                             │
-    │   RISK: Thermal runaway, fire, explosion                   │
+    │   RISK: Thermal runaway, fire, explosion                    │
     │                                                             │
-    │   RULE: Stop charging if battery exceeds 45°C              │
+    │   RULE: Stop charging if battery exceeds 45°C               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
