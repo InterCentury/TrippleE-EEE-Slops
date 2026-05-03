@@ -208,12 +208,12 @@ CELL IMBALANCE OVERCHARGE
     │ Full    │                    │        │                    │
     └─────────┘                    ├─────────────────────────────┤
                                    │ Cell 2 │████████████████████│ 4.2V
-                                   │ Full    │ FULL (overcharging!)│
+                                   │ Full   │ FULL(overcharging!)│
     All cells balanced             ├─────────────────────────────┤
                                    │ Cell 3 │██████████░░░░░░░░░░│ 3.6V
                                    │        │                    │
     Normal charging stops          │ Charger sees AVERAGE 3.9V   │
-    when any cell reaches 4.2V      │ Continues charging!         │
+    when any cell reaches 4.2V     │ Continues charging!         │
                                    │ Cell 2 → 4.5V → FIRE!       │
                                    └─────────────────────────────┘
 
