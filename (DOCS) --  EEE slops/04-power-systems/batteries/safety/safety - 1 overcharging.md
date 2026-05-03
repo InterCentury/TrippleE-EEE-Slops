@@ -141,10 +141,10 @@ CHARGER-RELATED OVERCHARGING
     CAUSE 1: Wrong Charger Voltage
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Battery: 7.4V Li-ion (2S) → needs 8.4V charger           │
-    │   Wrong charger: 12V lead-acid charger                     │
+    │   Battery: 7.4V Li-ion (2S) → needs 8.4V charger            │
+    │   Wrong charger: 12V lead-acid charger                      │
     │                                                             │
-    │   Result: Immediate overvoltage → FIRE!                    │
+    │   Result: Immediate overvoltage → FIRE!                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
