@@ -33,21 +33,21 @@ BATTERY VOLTAGE DURING OVERCHARGE (Li-ion example):
 
     Voltage (V)
         │
-    5.0 ┼                                   ╱
-        │                                 ╱
-    4.5 ┼                               ╱
-        │                             ╱
-    4.2 ┼────────────────────────────● (full charge)
-        │                           ╱
-    4.0 ┼                         ╱
-        │                       ╱
-    3.5 ┼                     ╱
-        │                   ╱
-    3.0 ┼─────────────────●────────────────► Time
-        │                 │      │
-        │                 │      │
-        │             Normal     Overcharge
-        │             Charging   Region
+    5.0 ┼                           ╱
+        │                          ╱
+    4.5 ┼                         ╱
+        │                        ╱
+    4.2 ┼───────────────────────● (full charge)
+        │                      ╱
+    4.0 ┼                     ╱
+        │                    ╱
+    3.5 ┼                   ╱
+        │                  ╱
+    3.0 ┼─────────────────●──────────► Time
+        │                 │    │
+        │                 │    │
+        │            Normal    Overcharge
+        │          Charging    Region
         │
     
     Voltage rises sharply after full charge!
