@@ -422,13 +422,13 @@ IMMEDIATE CONSEQUENCES
     PRESSURE BUILDUP:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Sealed batteries cannot release gas easily               │
-    │   Pressure increases → case swells → vent ruptures         │
+    │   Sealed batteries cannot release gas easily                │
+    │   Pressure increases → case swells → vent ruptures          │
     │                                                             │
-    │   Vented gases are often:                                  │
-    │   ├── Toxic (lead-acid: sulfuric acid mist)               │
-    │   ├── Flammable (hydrogen, hydrocarbons)                  │
-    │   └── Explosive (hydrogen-air mixture)                    │
+    │   Vented gases are often:                                   │
+    │   ├── Toxic (lead-acid: sulfuric acid mist)                 │
+    │   ├── Flammable (hydrogen, hydrocarbons)                    │
+    │   └── Explosive (hydrogen-air mixture)                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
