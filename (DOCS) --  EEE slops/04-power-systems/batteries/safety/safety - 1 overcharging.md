@@ -680,16 +680,16 @@ SAFE CHARGING PRACTICES
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use correct charger for battery type                   │
-    │   ✓ Charge on non-flammable surface (concrete, ceramic)    │
-    │   ✓ Monitor battery temperature during charging            │
-    │   ✓ Remove battery when charging completes                 │
-    │   ✓ Use reputable batteries and chargers                   │
-    │   ✓ Inspect batteries before charging (swelling, damage)   │
-    │   ✓ Balance charge multi-cell packs regularly              │
-    │   ✓ Keep area ventilated (especially lead-acid)            │
-    │   ✓ Have fire extinguisher nearby (Class D for Li-ion)     │
-    │   ✓ Charge in visible area (not behind furniture)          │
+    │   ✓ Use correct charger for battery type                    │
+    │   ✓ Charge on non-flammable surface (concrete, ceramic)     │
+    │   ✓ Monitor battery temperature during charging             │
+    │   ✓ Remove battery when charging completes                  │
+    │   ✓ Use reputable batteries and chargers                    │
+    │   ✓ Inspect batteries before charging (swelling, damage)    │
+    │   ✓ Balance charge multi-cell packs regularly               │
+    │   ✓ Keep area ventilated (especially lead-acid)             │
+    │   ✓ Have fire extinguisher nearby (Class D for Li-ion)      │
+    │   ✓ Charge in visible area (not behind furniture)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
