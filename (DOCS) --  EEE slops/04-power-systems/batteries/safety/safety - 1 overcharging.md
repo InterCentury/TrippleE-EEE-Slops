@@ -659,13 +659,13 @@ CHARGE TERMINATION BY BATTERY TYPE
     NICKEL-BASED (NiMH/NiCd):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Primary method: -ΔV detection (voltage dip)              │
+    │   Primary method: -ΔV detection (voltage dip)               │
     │   Backup 1: dT/dt (temperature rise rate)                   │
-    │   Backup 2: Absolute temperature cutoff (50°C)             │
-    │   Backup 3: Timer (1.5× expected charge time)              │
-    │   Backup 4: Maximum voltage (1.6V/cell)                    │
+    │   Backup 2: Absolute temperature cutoff (50°C)              │
+    │   Backup 3: Timer (1.5× expected charge time)               │
+    │   Backup 4: Maximum voltage (1.6V/cell)                     │
     │                                                             │
-    │   Trickle charge safe at C/20 rate                         │
+    │   Trickle charge safe at C/20 rate                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
