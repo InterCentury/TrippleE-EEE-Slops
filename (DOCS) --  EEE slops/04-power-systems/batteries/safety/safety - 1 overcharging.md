@@ -407,14 +407,14 @@ IMMEDIATE CONSEQUENCES
     GAS GENERATION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Li-ion:  Decomposition of electrolyte                    │
-    │            → CO₂, CO, hydrocarbons (flammable!)            │
+    │   Li-ion:  Decomposition of electrolyte                     │
+    │            → CO₂, CO, hydrocarbons (flammable!)             │
     │                                                             │
-    │   Lead-acid: Electrolysis of water                         │
-    │             → HYDROGEN (EXPLOSIVE!) + OXYGEN               │
+    │   Lead-acid: Electrolysis of water                          │
+    │             → HYDROGEN (EXPLOSIVE!) + OXYGEN                │
     │                                                             │
-    │   NiMH:  Oxygen evolved at positive, recombines at negative│
-    │          (slow overcharge safe, fast = heat)               │
+    │   NiMH:  Oxygen evolved at positive, recombines at negative │
+    │          (slow overcharge safe, fast = heat)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
