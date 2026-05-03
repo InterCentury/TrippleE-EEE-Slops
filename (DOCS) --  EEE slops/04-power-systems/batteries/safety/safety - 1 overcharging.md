@@ -334,15 +334,15 @@ VISUAL WARNING SIGNS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Signs of severe overheating:                              │
-    │   ├── Melted plastic case                                  │
-    │   ├── Discolored wrapper (brown/black)                     │
-    │   ├── Melted wires or insulation                           │
-    │   ├── Burn marks on contacts                               │
-    │   └── Melted battery holder                                │
+    │   ├── Melted plastic case                                   │
+    │   ├── Discolored wrapper (brown/black)                      │
+    │   ├── Melted wires or insulation                            │
+    │   ├── Burn marks on contacts                                │
+    │   └── Melted battery holder                                 │
     │                                                             │
-    │   THESE ARE FIRE DAMAGE SIGNS!                             │
-    │   Disconnect immediately (if safe)                         │
-    │   Evacuate area if smoke present                           │
+    │   THESE ARE FIRE DAMAGE SIGNS!                              │
+    │   Disconnect immediately (if safe)                          │
+    │   Evacuate area if smoke present                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -356,15 +356,15 @@ ELECTRICAL WARNING SIGNS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Li-ion cell:                                              │
-    │   ├── Normal full: 4.15V - 4.20V                          │
-    │   ├── Overcharged: >4.25V (danger)                        │
-    │   ├── Critical: >4.30V (immediate danger)                 │
-    │   └── Catastrophic: >4.50V (fire imminent)                │
+    │   ├── Normal full: 4.15V - 4.20V                            │
+    │   ├── Overcharged: >4.25V (danger)                          │
+    │   ├── Critical: >4.30V (immediate danger)                   │
+    │   └── Catastrophic: >4.50V (fire imminent)                  │
     │                                                             │
-    │   Lead-acid cell (12V battery = 6 cells):                  │
-    │   ├── Normal full: 12.6V - 12.8V                          │
-    │   ├── Overcharged: >14.4V (gassing)                       │
-    │   └── Critical: >15.0V (severe damage)                    │
+    │   Lead-acid cell (12V battery = 6 cells):                   │
+    │   ├── Normal full: 12.6V - 12.8V                            │
+    │   ├── Overcharged: >14.4V (gassing)                         │
+    │   └── Critical: >15.0V (severe damage)                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
