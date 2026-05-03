@@ -767,11 +767,11 @@ IMMEDIATE ACTIONS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Evacuate area if:                                         │
-    │   ├── Battery is smoking                                   │
-    │   ├── You see flames                                       │
-    │   ├── You hear venting (hiss)                              │
-    │   ├── Strong chemical smell                                │
-    │   └── Battery is swelling rapidly                          │
+    │   ├── Battery is smoking                                    │
+    │   ├── You see flames                                        │
+    │   ├── You hear venting (hiss)                               │
+    │   ├── Strong chemical smell                                 │
+    │   └── Battery is swelling rapidly                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
