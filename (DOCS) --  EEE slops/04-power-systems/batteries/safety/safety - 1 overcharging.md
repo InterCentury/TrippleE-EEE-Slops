@@ -163,12 +163,12 @@ CHARGER-RELATED OVERCHARGING
     CAUSE 3: Incorrect Charge Algorithm
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Li-ion charger on NiMH battery                           │
-    │   ├── Li-ion: Constant current → Constant voltage (4.2V)  │
-    │   ├── NiMH: Needs voltage dip detection (-ΔV)             │
-    │   └── Li-ion algorithm won't stop NiMH charging           │
+    │   Li-ion charger on NiMH battery                            │
+    │   ├── Li-ion: Constant current → Constant voltage (4.2V)    │
+    │   ├── NiMH: Needs voltage dip detection (-ΔV)               │
+    │   └── Li-ion algorithm won't stop NiMH charging             │
     │                                                             │
-    │   Result: NiMH battery overcharges, heats, vents           │
+    │   Result: NiMH battery overcharges, heats, vents            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
