@@ -633,11 +633,11 @@ CHARGE TERMINATION BY BATTERY TYPE
     LITHIUM-ION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Method: Constant Current → Constant Voltage (CC/CV)      │
-    │   Termination: Current drops to C/10 (or 1/20)             │
-    │   Typical: 1C charge → stop at 0.1C (200mA for 2000mAh)   │
-    │   Backup: Timer (3 hours max)                              │
-    │   Safety: Temperature cutoff (45°C)                        │
+    │   Method: Constant Current → Constant Voltage (CC/CV)       │
+    │   Termination: Current drops to C/10 (or 1/20)              │
+    │   Typical: 1C charge → stop at 0.1C (200mA for 2000mAh)     │
+    │   Backup: Timer (3 hours max)                               │
+    │   Safety: Temperature cutoff (45°C)                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -645,13 +645,13 @@ CHARGE TERMINATION BY BATTERY TYPE
     LEAD-ACID:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Method: Constant Current → Constant Voltage              │
-    │   Bulk: Constant current (0.1C-0.3C) to 14.4V (12V battery)│
-    │   Absorption: Constant voltage (14.4V) until current drops │
-    │   Float: Constant voltage (13.6V) maintenance              │
-    │   Termination: Current drops to 0.02C-0.05C                │
+    │   Method: Constant Current → Constant Voltage               │
+    │   Bulk: Constant current (0.1C-0.3C) to 14.4V (12V battery) │
+    │   Absorption: Constant voltage (14.4V) until current drops  │
+    │   Float: Constant voltage (13.6V) maintenance               │
+    │   Termination: Current drops to 0.02C-0.05C                 │
     │                                                             │
-    │   Float charging is NOT overcharging! (safe voltage)       │
+    │   Float charging is NOT overcharging! (safe voltage)        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
