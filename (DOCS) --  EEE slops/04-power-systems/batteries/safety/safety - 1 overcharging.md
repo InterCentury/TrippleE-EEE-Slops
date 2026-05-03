@@ -783,22 +783,22 @@ Li-ion / LiPo BATTERY FIRE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   DO NOT use water! (except large amounts for cooling)     │
-    │   DO NOT use standard fire extinguisher (Class A, B, C)    │
+    │   DO NOT use water! (except large amounts for cooling)      │
+    │   DO NOT use standard fire extinguisher (Class A, B, C)     │
     │                                                             │
-    │   Fires are Class D (metal fire) or electrical (Class C)   │
+    │   Fires are Class D (metal fire) or electrical (Class C)    │
     │                                                             │
     │   WHAT TO DO:                                               │
     │                                                             │
-    │   1. EVACUATE area immediately                             │
-    │   2. CALL emergency services (fire department)             │
-    │   3. If safe: Use Class D extinguisher (Lithium-specific)  │
-    │   4. If available: Smother with sand or baking soda        │
-    │   5. If nothing else: LARGE amounts of water (cooling)     │
+    │   1. EVACUATE area immediately                              │
+    │   2. CALL emergency services (fire department)              │
+    │   3. If safe: Use Class D extinguisher (Lithium-specific)   │
+    │   4. If available: Smother with sand or baking soda         │
+    │   5. If nothing else: LARGE amounts of water (cooling)      │
     │                                                             │
-    │   Li-ion batteries burn at 2000°C (3632°F)                 │
+    │   Li-ion batteries burn at 2000°C (3632°F)                  │
     │   They produce toxic, flammable gases                       │
-    │   They can re-ignite hours later!                          │
+    │   They can re-ignite hours later!                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
