@@ -388,11 +388,11 @@ ELECTRICAL WARNING SIGNS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Signs charger is overcharging:                            │
-    │   ├── Charger LED stays RED much longer than normal        │
-    │   ├── Charger never indicates "full" (GREEN)               │
-    │   ├── Charger very hot                                     │
-    │   ├── Charging current does not decrease (CV phase fails)  │
-    │   └── Battery gets hot while charger indicates charging    │
+    │   ├── Charger LED stays RED much longer than normal         │
+    │   ├── Charger never indicates "full" (GREEN)                │
+    │   ├── Charger very hot                                      │
+    │   ├── Charging current does not decrease (CV phase fails)   │
+    │   └── Battery gets hot while charger indicates charging     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
