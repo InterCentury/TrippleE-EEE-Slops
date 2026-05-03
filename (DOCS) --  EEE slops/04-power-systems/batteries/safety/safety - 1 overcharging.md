@@ -176,11 +176,11 @@ CHARGER-RELATED OVERCHARGING
     CAUSE 4: Open Circuit Voltage Sensing
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Charger measures battery voltage to know when to stop    │
-    │   If sense wire breaks:                                    │
-    │   ├── Charger sees LOW voltage (0V)                        │
+    │   Charger measures battery voltage to know when to stop     │
+    │   If sense wire breaks:                                     │
+    │   ├── Charger sees LOW voltage (0V)                         │
     │   ├── Charger continues charging FOREVER                    │
-    │   └── Battery overcharges until destruction!               │
+    │   └── Battery overcharges until destruction!                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
