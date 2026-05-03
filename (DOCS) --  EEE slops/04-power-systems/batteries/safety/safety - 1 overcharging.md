@@ -374,12 +374,12 @@ ELECTRICAL WARNING SIGNS
     │                                                             │
     │   Temperature during charging:                              │
     │                                                             │
-    │   Normal:     20-30°C (68-86°F) - warm                     │
-    │   Warning:    35-45°C (95-113°F) - hot                     │
-    │   Danger:     45-60°C (113-140°F) - very hot (stop!)       │
-    │   Critical:   >60°C (140°F) - thermal runaway risk!       │
+    │   Normal:     20-30°C (68-86°F) - warm                      │
+    │   Warning:    35-45°C (95-113°F) - hot                      │
+    │   Danger:     45-60°C (113-140°F) - very hot (stop!)        │
+    │   Critical:   >60°C (140°F) - thermal runaway risk!         │
     │                                                             │
-    │   Touch test: If too hot to hold comfortably → STOP!       │
+    │   Touch test: If too hot to hold comfortably → STOP!        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
