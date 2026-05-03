@@ -438,13 +438,13 @@ IMMEDIATE CONSEQUENCES
     │                                                             │
     │   Thermal Runaway cycle:                                    │
     │                                                             │
-    │   Overcharge → Internal heat → SEI layer breakdown         │
+    │   Overcharge → Internal heat → SEI layer breakdown          │
     │        ↑                                ↓                   │
-    │        │                          Anode + electrolyte      │
+    │        │                          Anode + electrolyte       │
     │        │                                ↓                   │
-    │      More heat ← More reactions ← Higher temperature       │
+    │      More heat ← More reactions ← Higher temperature        │
     │                                                             │
-    │   Once started, cannot stop! → FIRE (2000°C+)             │
+    │   Once started, cannot stop! → FIRE (2000°C+)               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -508,10 +508,10 @@ BATTERY MANAGEMENT SYSTEM (BMS)
     │                                                             │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │                   BMS IC                            │   │
-    │   │  ┌─────────┐    ┌─────────┐    ┌─────────┐         │   │
-    │   │  │Voltage  │    │Current  │    │Temperature│         │   │
-    │   │  │Monitor  │    │Monitor  │    │Monitor   │         │   │
-    │   │  └────┬────┘    └────┬────┘    └────┬────┘         │   │
+    │   │  ┌─────────┐    ┌─────────┐    ┌───────────┐        │   │
+    │   │  │Voltage  │    │Current  │    │Temperature│        │   │
+    │   │  │Monitor  │    │Monitor  │    │Monitor    │        │   │
+    │   │  └────┬────┘    └────┬────┘    └────┬──────┘        │   │
     │   │       │              │              │               │   │
     │   │       └──────────────┼──────────────┘               │   │
     │   │                      │                              │   │
@@ -522,7 +522,7 @@ BATTERY MANAGEMENT SYSTEM (BMS)
     │   │                      │                              │   │
     │   └──────────────────────┼──────────────────────────────┘   │
     │                          │                                  │
-    │   Battery (+) ───────────┼─────────────────── Load (+)     │
+    │   Battery (+) ───────────┼─────────────────── Load (+)      │
     │                          │                                  │
     │   Cell 1 ──┬─────────────┤                                  │
     │            │             │                                  │
@@ -530,7 +530,7 @@ BATTERY MANAGEMENT SYSTEM (BMS)
     │            │             │                                  │
     │   Cell 3 ──┤             │                                  │
     │            │             │                                  │
-    │   Battery (-) ───────────┼─────────────────── Load (-)     │
+    │   Battery (-) ───────────┼─────────────────── Load (-)      │
     │                          │                                  │
     │                          ▼                                  │
     │                    FET switches can                         │
