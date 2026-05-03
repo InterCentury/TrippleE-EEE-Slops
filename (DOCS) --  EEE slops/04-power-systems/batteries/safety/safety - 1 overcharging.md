@@ -697,16 +697,16 @@ SAFE CHARGING PRACTICES
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Leave charging unattended (especially Li-ion)          │
-    │   ✗ Charge damaged or swollen batteries                    │
-    │   ✗ Use damaged chargers (cracked, frayed wires)           │
-    │   ✗ Override protection circuits                           │
-    │   ✗ Charge below 0°C (Li-ion)                             │
-    │   ✗ Charge above 45°C (all types)                         │
-    │   ✗ Mix different battery types in same charger            │
-    │   ✗ Charge near flammable materials                        │
-    │   ✗ Block charger ventilation                              │
-    │   ✗ Use "universal" chargers (often unsafe)                │
+    │   x Leave charging unattended (especially Li-ion)           │
+    │   x Charge damaged or swollen batteries                     │
+    │   x Use damaged chargers (cracked, frayed wires)            │
+    │   x Override protection circuits                            │
+    │   x Charge below 0°C (Li-ion)                               │
+    │   x Charge above 45°C (all types)                           │
+    │   x Mix different battery types in same charger             │
+    │   x Charge near flammable materials                         │
+    │   x Block charger ventilation                               │
+    │   x Use "universal" chargers (often unsafe)                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
