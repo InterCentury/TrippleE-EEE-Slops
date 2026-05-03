@@ -318,14 +318,14 @@ VISUAL WARNING SIGNS
     │   Sealed batteries have pressure relief vents               │
     │                                                             │
     │   Signs of venting:                                         │
-    │   ├── White crust around vent hole                         │
-    │   ├── Electrolyte smell (sweet for Li-ion, rotten eggs for │
-    │   │    lead-acid, ammonia for NiMH)                        │
-    │   ├── Bulging case (before vent)                           │
-    │   ├── Hissing sound (gas escaping)                         │
-    │   └── Visible smoke or vapor                               │
+    │   ├── White crust around vent hole                          │
+    │   ├── Electrolyte smell (sweet for Li-ion, rotten eggs for  │
+    │   │    lead-acid, ammonia for NiMH)                         │
+    │   ├── Bulging case (before vent)                            │
+    │   ├── Hissing sound (gas escaping)                          │
+    │   └── Visible smoke or vapor                                │
     │                                                             │
-    │   AFTER VENTING: Battery is permanently damaged/DANGEROUS! │
+    │   AFTER VENTING: Battery is permanently damaged/DANGEROUS!  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
