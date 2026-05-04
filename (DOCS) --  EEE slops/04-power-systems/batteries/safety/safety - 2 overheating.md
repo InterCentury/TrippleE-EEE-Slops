@@ -447,8 +447,8 @@ IMMEDIATE CONSEQUENCES
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Heat accelerates electrolyte decomposition                │
-    │   Gases produced: CO₂, CO, hydrocarbons (flammable!)       │
-    │   Pressure builds → case swells → vent → FIRE              │
+    │   Gases produced: CO₂, CO, hydrocarbons (flammable!)        │
+    │   Pressure builds → case swells → vent → FIRE               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -456,9 +456,9 @@ IMMEDIATE CONSEQUENCES
     SEPARATOR DAMAGE:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Plastic separator shrinks/melts at high temperature      │
-    │   Anode and cathode touch → internal short                 │
-    │   Short → instantaneous high current → FIRE                │
+    │   Plastic separator shrinks/melts at high temperature       │
+    │   Anode and cathode touch → internal short                  │
+    │   Short → instantaneous high current → FIRE                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
