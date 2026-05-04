@@ -844,11 +844,11 @@ DISPOSAL OF OVERCHARGED BATTERIES
     DO NOT:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Throw in trash (fire hazard!)                           │
-    │   ✗ Attempt to recharge (will likely catch fire)            │
-    │   ✗ Crush or puncture (immediate fire/explosion)            │
-    │   ✗ Store with other batteries                              │
-    │   ✗ Leave unattended (can spontaneously ignite)             │
+    │   X Throw in trash (fire hazard!)                           │
+    │   X Attempt to recharge (will likely catch fire)            │
+    │   X Crush or puncture (immediate fire/explosion)            │
+    │   X Store with other batteries                              │
+    │   X Leave unattended (can spontaneously ignite)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
