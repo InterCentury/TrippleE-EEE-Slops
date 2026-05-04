@@ -807,15 +807,15 @@ LEAD-ACID BATTERY FIRE / EXPLOSION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Hydrogen gas explosion risk!                             │
+    │   Hydrogen gas explosion risk!                              │
     │                                                             │
     │   WHAT TO DO:                                               │
     │                                                             │
-    │   1. EVACUATE area (explosion risk)                        │
-    │   2. NO open flames! (don't turn lights on/off)            │
-    │   3. VENTILATE area (open windows, doors)                  │
-    │   4. Use Class B or C fire extinguisher                    │
-    │   5. Baking soda neutralizes acid (after fire out)         │
+    │   1. EVACUATE area (explosion risk)                         │
+    │   2. NO open flames! (don't turn lights on/off)             │
+    │   3. VENTILATE area (open windows, doors)                   │
+    │   4. Use Class B or C fire extinguisher                     │
+    │   5. Baking soda neutralizes acid (after fire out)          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
