@@ -342,12 +342,12 @@ DEVICE BEHAVIOR WARNINGS
     PERFORMANCE ISSUES:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Device runs slower (throttling due to heat)          │
-    │   ├── Screen dims (thermal protection)                     │
-    │   ├── Unexpected shutdowns (battery protection)            │
-    │   ├── Reduced runtime (increased internal resistance)      │
-    │   ├── Charging takes longer (reduced charge acceptance)    │
-    │   └── "Battery too hot" warning message (smart devices)    │
+    │   ├── Device runs slower (throttling due to heat)           │
+    │   ├── Screen dims (thermal protection)                      │
+    │   ├── Unexpected shutdowns (battery protection)             │
+    │   ├── Reduced runtime (increased internal resistance)       │
+    │   ├── Charging takes longer (reduced charge acceptance)     │
+    │   └── "Battery too hot" warning message (smart devices)     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -356,13 +356,13 @@ DEVICE BEHAVIOR WARNINGS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Smell                     Indication                     │
+    │   Smell                     Indication                      │
     │   ──────────────────────────────────────────────────────────│
-    │   Sweet, solvent-like       Li-ion electrolyte leak        │
-    │   Rotten eggs               Lead-acid (hydrogen sulfide)   │
-    │   Ammonia-like              NiMH electrolyte               │
-    │   Burnt plastic             Severe overheating            │
-    │   Acrid smoke               Thermal runaway (FIRE!)        │
+    │   Sweet, solvent-like       Li-ion electrolyte leak         │
+    │   Rotten eggs               Lead-acid (hydrogen sulfide)    │
+    │   Ammonia-like              NiMH electrolyte                │
+    │   Burnt plastic             Severe overheating              │
+    │   Acrid smoke               Thermal runaway (FIRE!)         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
