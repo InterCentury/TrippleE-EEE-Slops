@@ -844,11 +844,11 @@ DISPOSAL OF OVERCHARGED BATTERIES
     DO NOT:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Throw in trash (fire hazard!)                          │
-    │   ✗ Attempt to recharge (will likely catch fire)           │
-    │   ✗ Crush or puncture (immediate fire/explosion)           │
-    │   ✗ Store with other batteries                             │
-    │   ✗ Leave unattended (can spontaneously ignite)            │
+    │   ✗ Throw in trash (fire hazard!)                           │
+    │   ✗ Attempt to recharge (will likely catch fire)            │
+    │   ✗ Crush or puncture (immediate fire/explosion)            │
+    │   ✗ Store with other batteries                              │
+    │   ✗ Leave unattended (can spontaneously ignite)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -858,18 +858,18 @@ DISPOSAL OF OVERCHARGED BATTERIES
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Li-ion:                                                   │
-    │   1. Discharge to <1V (using resistor, outdoors)           │
-    │      (or skip if already bulging - too dangerous)          │
-    │   2. Place in metal container with sand                    │
-    │   3. Take to battery recycling facility immediately        │
+    │   1. Discharge to <1V (using resistor, outdoors)            │
+    │      (or skip if already bulging - too dangerous)           │
+    │   2. Place in metal container with sand                     │
+    │   3. Take to battery recycling facility immediately         │
     │                                                             │
     │   Lead-acid:                                                │
-    │   1. Neutralize acid with baking soda                      │
-    │   2. Take to recycling center (some pay for scrap)         │
+    │   1. Neutralize acid with baking soda                       │
+    │   2. Take to recycling center (some pay for scrap)          │
     │                                                             │
     │   NiMH/NiCd:                                                │
-    │   1. Discharge fully (low current)                         │
-    │   2. Take to recycling center (NiCd is hazardous waste)    │
+    │   1. Discharge fully (low current)                          │
+    │   2. Take to recycling center (NiCd is hazardous waste)     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
