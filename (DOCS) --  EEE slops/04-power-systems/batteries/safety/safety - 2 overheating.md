@@ -18,15 +18,15 @@ NORMAL HEAT SOURCES
     HEAT DURING DISCHARGE:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   P_heat = I² × R_internal                                 │
+    │   P_heat = I² × R_internal                                  │
     │                                                             │
     │   Where:                                                    │
-    │   P_heat = heat generated (watts)                          │
-    │   I = discharge current (amps)                             │
-    │   R_internal = internal resistance (ohms)                  │
+    │   P_heat = heat generated (watts)                           │
+    │   I = discharge current (amps)                              │
+    │   R_internal = internal resistance (ohms)                   │
     │                                                             │
-    │   Example: 10A discharge, 0.05Ω internal resistance        │
-    │   P_heat = 100 × 0.05 = 5W (noticeable heat)              │
+    │   Example: 10A discharge, 0.05Ω internal resistance         │
+    │   P_heat = 100 × 0.05 = 5W (noticeable heat)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
