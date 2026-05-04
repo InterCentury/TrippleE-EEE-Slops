@@ -95,15 +95,15 @@ HEAT GENERATION COMPARISON
     NICKEL-BASED (NiMH, NiCd):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Internal resistance: 0.01-0.08Ω                          │
-    │   Heat sensitivity: MODERATE                               │
+    │   Internal resistance: 0.01-0.08Ω                           │
+    │   Heat sensitivity: MODERATE                                │
     │                                                             │
-    │   Normal operating range: -20°C to 50°C                   │
-    │   Charging range: 0°C to 45°C                             │
-    │   Thermal runaway threshold: ~70°C (158°F)                │
+    │   Normal operating range: -20°C to 50°C                     │
+    │   Charging range: 0°C to 45°C                               │
+    │   Thermal runaway threshold: ~70°C (158°F)                  │
     │                                                             │
-    │   NiMH: Heat causes crystal formation (memory effect-like)│
-    │   NiCd: Heat causes separator damage (shorts)              │
+    │   NiMH: Heat causes crystal formation (memory effect-like)  │
+    │   NiCd: Heat causes separator damage (shorts)               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -122,16 +122,16 @@ HIGH CURRENT OVERHEATING
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Heat generated = I² × R_internal                         │
+    │   Heat generated = I² × R_internal                          │
     │                                                             │
-    │   Normal (10A):    100 × 0.05 = 5W   (warm)               │
-    │   Overload (20A):  400 × 0.05 = 20W  (HOT! - 4× heat!)     │
+    │   Normal (10A):    100 × 0.05 = 5W   (warm)                 │
+    │   Overload (20A):  400 × 0.05 = 20W  (HOT! - 4× heat!)      │
     │                                                             │
-    │   Result:                                                 │
-    │   ├── Rapid temperature rise                               │
-    │   ├── Voltage sag (device may reset)                       │
-    │   ├── Internal damage (reduced life)                       │
-    │   └── Thermal runaway (if severe)                         │
+    │   Result:                                                   │
+    │   ├── Rapid temperature rise                                │
+    │   ├── Voltage sag (device may reset)                        │
+    │   ├── Internal damage (reduced life)                        │
+    │   └── Thermal runaway (if severe)                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
