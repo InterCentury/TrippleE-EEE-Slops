@@ -310,7 +310,7 @@ VISUAL AND TACTILE WARNINGS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Normal battery:          Overheated battery:             │
+    │   Normal battery:          Overheated battery:              │
     │   ┌─────────────┐          ┌─────────────────┐              │
     │   │  ████████   │          │  ████████████   │              │
     │   │  ██    ██   │          │  ██   ░░   ██   │  (discolored)│
@@ -318,7 +318,7 @@ VISUAL AND TACTILE WARNINGS
     │   │  ████████   │          │  ████████████   │              │
     │   └─────────────┘          └─────────────────┘              │
     │                                                             │
-    │   Flat, clean              Bulging, discolored,            │
+    │   Flat, clean              Bulging, discolored,             │
     │   No odor                  melted wrapper                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
