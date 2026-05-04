@@ -256,9 +256,9 @@ VENTILATION EFFECTS
     Enclosed space (no airflow):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Battery generates 5W of heat                             │
-    │   No airflow → heat accumulates                            │
-    │   25°C → 35°C → 45°C → 55°C (runaway!)                    │
+    │   Battery generates 5W of heat                              │
+    │   No airflow → heat accumulates                             │
+    │   25°C → 35°C → 45°C → 55°C (runaway!)                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -266,9 +266,9 @@ VENTILATION EFFECTS
     Vented space (with airflow):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Same 5W of heat                                          │
-    │   Airflow removes heat                                     │
-    │   25°C → 28°C → stabilizes (safe)                          │
+    │   Same 5W of heat                                           │
+    │   Airflow removes heat                                      │
+    │   25°C → 28°C → stabilizes (safe)                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -293,15 +293,15 @@ VISUAL AND TACTILE WARNINGS
     TOUCH TEST (Carefully!):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Temperature          Sensation          Action           │
+    │   Temperature          Sensation          Action            │
     │   ──────────────────────────────────────────────────────────│
-    │   20-30°C (68-86°F)    Cool/warm         Normal           │
-    │   30-40°C (86-104°F)   Warm              Normal (monitor)  │
-    │   40-50°C (104-122°F)  Hot (holdable)    Caution           │
-    │   50-60°C (122-140°F)  Very hot (can't    REDUCE LOAD      │
+    │   20-30°C (68-86°F)    Cool/warm         Normal             │
+    │   30-40°C (86-104°F)   Warm              Normal (monitor)   │
+    │   40-50°C (104-122°F)  Hot (holdable)    Caution            │
+    │   50-60°C (122-140°F)  Very hot (can't    REDUCE LOAD       │
     │                        hold >10 sec)                        │
-    │   60-80°C (140-176°F)  Burning hot        STOP USE!        │
-    │   >80°C (>176°F)       Painful            DANGER! Evacuate │
+    │   60-80°C (140-176°F)  Burning hot        STOP USE!         │
+    │   >80°C (>176°F)       Painful            DANGER! Evacuate  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
