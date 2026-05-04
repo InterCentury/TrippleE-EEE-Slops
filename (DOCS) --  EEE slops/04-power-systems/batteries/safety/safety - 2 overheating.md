@@ -192,12 +192,12 @@ EXTERNAL HEAT SOURCES
     COMMON CULPRITS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Direct sunlight (car dashboard: 70-90°C / 158-194°F)│
-    │   ├── Near engines or motors                               │
-    │   ├── Poorly ventilated enclosures                         │
-    │   ├── Adjacent hot components (voltage regulators, CPUs)   │
-    │   ├── Heaters or radiators                                 │
-    │   └── Other hot batteries                                  │
+    │   ├── Direct sunlight (car dashboard: 70-90°C / 158-194°F)  │
+    │   ├── Near engines or motors                                │
+    │   ├── Poorly ventilated enclosures                          │
+    │   ├── Adjacent hot components (voltage regulators, CPUs)    │
+    │   ├── Heaters or radiators                                  │
+    │   └── Other hot batteries                                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
