@@ -828,10 +828,10 @@ NiMH / NiCd BATTERY FIRE
     │                                                             │
     │   WHAT TO DO:                                               │
     │                                                             │
-    │   1. Unplug charger                                        │
-    │   2. Use ABC fire extinguisher                             │
-    │   3. Water may be used (cooling)                           │
-    │   4. Ventilate area (toxic fumes)                          │
+    │   1. Unplug charger                                         │
+    │   2. Use ABC fire extinguisher                              │
+    │   3. Water may be used (cooling)                            │
+    │   4. Ventilate area (toxic fumes)                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
