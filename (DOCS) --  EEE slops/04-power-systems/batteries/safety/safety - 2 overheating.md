@@ -424,10 +424,10 @@ IMMEDIATE CONSEQUENCES
     INTERNAL RESISTANCE INCREASE:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Heat → R_internal ↑ → More heat → R_internal ↑↑          │
+    │   Heat → R_internal ↑ → More heat → R_internal ↑↑           │
     │                                                             │
-    │   This is a POSITIVE FEEDBACK LOOP                         │
-    │   (starts thermal runaway if not stopped)                  │
+    │   This is a POSITIVE FEEDBACK LOOP                          │
+    │   (starts thermal runaway if not stopped)                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -435,9 +435,9 @@ IMMEDIATE CONSEQUENCES
     VOLTAGE DEPRESSION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Under load:   Normal: 3.7V → Hot: 3.2V (same current)   │
+    │   Under load:   Normal: 3.7V → Hot: 3.2V (same current)     │
     │                                                             │
-    │   Device may reset or shut down                            │
+    │   Device may reset or shut down                             │
     │   (brownout from voltage sag)                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
