@@ -63,15 +63,15 @@ HEAT GENERATION COMPARISON
     LITHIUM-ION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Internal resistance: 0.02-0.10Ω (new)                    │
-    │   Heat sensitivity: HIGH                                   │
+    │   Internal resistance: 0.02-0.10Ω (new)                     │
+    │   Heat sensitivity: HIGH                                    │
     │                                                             │
-    │   Normal operating range: -20°C to 60°C                   │
-    │   Charging range: 0°C to 45°C                             │
-    │   Thermal runaway threshold: ~80°C (176°F)                │
+    │   Normal operating range: -20°C to 60°C                     │
+    │   Charging range: 0°C to 45°C                               │
+    │   Thermal runaway threshold: ~80°C (176°F)                  │
     │                                                             │
-    │   Heat accelerates degradation exponentially               │
-    │   10°C above 25°C = 2× degradation rate                   │
+    │   Heat accelerates degradation exponentially                │
+    │   10°C above 25°C = 2× degradation rate                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -79,15 +79,15 @@ HEAT GENERATION COMPARISON
     LEAD-ACID:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Internal resistance: 0.005-0.050Ω (varies greatly)       │
-    │   Heat sensitivity: MODERATE                               │
+    │   Internal resistance: 0.005-0.050Ω (varies greatly)        │
+    │   Heat sensitivity: MODERATE                                │
     │                                                             │
-    │   Normal operating range: -40°C to 50°C                   │
-    │   Charging range: -20°C to 50°C                           │
-    │   Thermal runaway threshold: ~60°C (140°F)                │
+    │   Normal operating range: -40°C to 50°C                     │
+    │   Charging range: -20°C to 50°C                             │
+    │   Thermal runaway threshold: ~60°C (140°F)                  │
     │                                                             │
-    │   Heat causes: Water loss, grid corrosion, plate damage   │
-    │   Every 10°C above 25°C halves battery life!              │
+    │   Heat causes: Water loss, grid corrosion, plate damage     │
+    │   Every 10°C above 25°C halves battery life!                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
