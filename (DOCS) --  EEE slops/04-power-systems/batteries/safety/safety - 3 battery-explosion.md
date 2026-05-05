@@ -1,4 +1,4 @@
-# 04.20 - Battery Explosion
+# Battery Explosion
 
 ## What is a Battery Explosion?
 
