@@ -575,11 +575,11 @@ COOLING METHODS
     PASSIVE COOLING:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Ventilation holes in enclosure                       │
-    │   ├── Separating batteries (air gaps)                      │
-    │   ├── Metal heatsinks attached to batteries                │
-    │   ├── Thermal pads to chassis (metal case)                 │
-    │   └── Keep away from heat sources (motors, CPUs)           │
+    │   ├── Ventilation holes in enclosure                        │
+    │   ├── Separating batteries (air gaps)                       │
+    │   ├── Metal heatsinks attached to batteries                 │
+    │   ├── Thermal pads to chassis (metal case)                  │
+    │   └── Keep away from heat sources (motors, CPUs)            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
