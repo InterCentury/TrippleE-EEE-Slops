@@ -78,11 +78,11 @@ GAS IGNITION EXPLOSION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. Gas accumulates in battery or enclosure               │
-    │   2. Ignition source (spark) ignites gas                   │
-    │   3. Rapid combustion (explosion)                          │
-    │   4. Pressure wave (can exceed 1000 psi!)                  │
-    │   5. Battery case shatters, acid aerosol released          │
+    │   1. Gas accumulates in battery or enclosure                │
+    │   2. Ignition source (spark) ignites gas                    │
+    │   3. Rapid combustion (explosion)                           │
+    │   4. Pressure wave (can exceed 1000 psi!)                   │
+    │   5. Battery case shatters, acid aerosol released           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -106,21 +106,21 @@ THERMAL RUNAWAY EXPLOSION (Li-ion)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   STAGE 1: Internal short or overheat (80-100°C)          │
-    │              ↓                                             │
-    │   STAGE 2: SEI layer breakdown (anode)                    │
-    │              ↓                                             │
-    │   STAGE 3: Electrolyte decomposition (100-130°C)          │
-    │              ↓ (gas generation - pressure)                │
-    │   STAGE 4: Separator melts (130-150°C)                    │
-    │              ↓ (anode-cathode contact)                    │
-    │   STAGE 5: Massive internal short                         │
-    │              ↓ (instant heat - 500-1000°C)               │
-    │   STAGE 6: Cathode decomposition (releases oxygen)        │
-    │              ↓                                            │
-    │   STAGE 7: THERMAL RUNAWAY (2000°C+ jet fire)             │
-    │              ↓                                            │
-    │   STAGE 8: Case rupture / EXPLOSION                       │
+    │   STAGE 1: Internal short or overheat (80-100°C)            │
+    │              ↓                                              │
+    │   STAGE 2: SEI layer breakdown (anode)                      │
+    │              ↓                                              │
+    │   STAGE 3: Electrolyte decomposition (100-130°C)            │
+    │              ↓ (gas generation - pressure)                  │
+    │   STAGE 4: Separator melts (130-150°C)                      │
+    │              ↓ (anode-cathode contact)                      │
+    │   STAGE 5: Massive internal short                           │
+    │              ↓ (instant heat - 500-1000°C)                  │
+    │   STAGE 6: Cathode decomposition (releases oxygen)          │
+    │              ↓                                              │
+    │   STAGE 7: THERMAL RUNAWAY (2000°C+ jet fire)               │
+    │              ↓                                              │
+    │   STAGE 8: Case rupture / EXPLOSION                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
