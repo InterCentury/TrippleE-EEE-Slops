@@ -688,10 +688,10 @@ THERMAL MONITORING METHODS
     METHOD 4: Thermal Camera
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Best for finding hot spots                               │
-    │   Shows temperature distribution                           │
-    │   Identifies poor connections (high resistance spots)      │
-    │   Identifies imbalanced cells (one cell hotter)            │
+    │   Best for finding hot spots                                │
+    │   Shows temperature distribution                            │
+    │   Identifies poor connections (high resistance spots)       │
+    │   Identifies imbalanced cells (one cell hotter)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -706,10 +706,10 @@ IMMEDIATE ACTIONS
     STEP 1: DISCONNECT
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Immediately stop using/discharging the battery           │
-    │   If charging: UNPLUG charger immediately                  │
-    │   If in device: TURN OFF device                            │
-    │   (Do not handle if extremely hot)                         │
+    │   Immediately stop using/discharging the battery            │
+    │   If charging: UNPLUG charger immediately                   │
+    │   If in device: TURN OFF device                             │
+    │   (Do not handle if extremely hot)                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
