@@ -734,16 +734,16 @@ IMMEDIATE ACTIONS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Passive cooling (recommended):                            │
-    │   ├── Place in cool area (not refrigerator)               │
-    │   ├── Use fan to blow air over battery                     │
-    │   ├── Wait for natural cooling                             │
-    │   └── Monitor temperature (check every few minutes)        │
+    │   ├── Place in cool area (not refrigerator)                 │
+    │   ├── Use fan to blow air over battery                      │
+    │   ├── Wait for natural cooling                              │
+    │   └── Monitor temperature (check every few minutes)         │
     │                                                             │
     │   DO NOT:                                                   │
-    │   ├── Put in refrigerator or freezer (condensation)        │
-    │   ├── Submerge in water (short circuit risk)               │
-    │   ├── Spray with CO₂ (thermal shock)                       │
-    │   └── Leave unattended if still hot                        │
+    │   ├── Put in refrigerator or freezer (condensation)         │
+    │   ├── Submerge in water (short circuit risk)                │
+    │   ├── Spray with CO₂ (thermal shock)                        │
+    │   └── Leave unattended if still hot                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
