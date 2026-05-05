@@ -628,13 +628,13 @@ COOL CHARGING PRACTICES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Battery Temp      Action                                 │
+    │   Battery Temp      Action                                  │
     │   ──────────────────────────────────────────────────────────│
-    │   <0°C (32°F)       DO NOT CHARGE (Li-ion - damage)        │
-    │   0-10°C (32-50°F)  Charge at 0.2C max (very slow)         │
-    │   10-30°C (50-86°F) Normal charging (1C)                   │
-    │   30-45°C (86-113°F) Reduce rate (0.5C) - monitor closely  │
-    │   >45°C (>113°F)    STOP CHARGING - too hot!               │
+    │   <0°C (32°F)       DO NOT CHARGE (Li-ion - damage)         │
+    │   0-10°C (32-50°F)  Charge at 0.2C max (very slow)          │
+    │   10-30°C (50-86°F) Normal charging (1C)                    │
+    │   30-45°C (86-113°F) Reduce rate (0.5C) - monitor closely   │
+    │   >45°C (>113°F)    STOP CHARGING - too hot!                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
