@@ -858,12 +858,12 @@ DISPOSING OF OVERHEATED BATTERIES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Swollen Li-ion battery = IMMINENT FAILURE RISK           │
+    │   Swollen Li-ion battery = IMMINENT FAILURE RISK            │
     │                                                             │
-    │   Do NOT store indoors!                                    │
-    │   Place in fire-safe container (metal with sand)           │
-    │   Store OUTDOORS away from buildings                       │
-    │   Dispose at recycling center ASAP (same day if possible)  │
+    │   Do NOT store indoors!                                     │
+    │   Place in fire-safe container (metal with sand)            │
+    │   Store OUTDOORS away from buildings                        │
+    │   Dispose at recycling center ASAP (same day if possible)   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
