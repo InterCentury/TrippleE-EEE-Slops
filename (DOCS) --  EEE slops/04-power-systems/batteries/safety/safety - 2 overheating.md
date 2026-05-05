@@ -718,14 +718,14 @@ IMMEDIATE ACTIONS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   If safe to handle:                                        │
-    │   ├── Move battery to non-flammable surface                │
-    │   ├── Concrete floor, ceramic plate, metal tray           │
-    │   ├── Away from flammable materials (curtains, paper)      │
-    │   ├── Away from occupied areas                             │
-    │   └── Outdoors if possible                                 │
+    │   ├── Move battery to non-flammable surface                 │
+    │   ├── Concrete floor, ceramic plate, metal tray             │
+    │   ├── Away from flammable materials (curtains, paper)       │
+    │   ├── Away from occupied areas                              │
+    │   └── Outdoors if possible                                  │
     │                                                             │
-    │   If too hot to handle: LEAVE IT ALONE                    │
-    │   Move flammable materials away from it                    │
+    │   If too hot to handle: LEAVE IT ALONE                      │
+    │   Move flammable materials away from it                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
