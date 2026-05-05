@@ -59,17 +59,17 @@ GAS IGNITION EXPLOSION
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   During overcharge:                                        │
-    │   2H₂O → 2H₂ (hydrogen) + O₂ (oxygen)                      │
+    │   2H₂O → 2H₂ (hydrogen) + O₂ (oxygen)                       │
     │                                                             │
-    │   Hydrogen is EXPLOSIVE! (4-75% concentration in air)      │
+    │   Hydrogen is EXPLOSIVE! (4-75% concentration in air)       │
     │                                                             │
     │   Ignition sources:                                         │
-    │   ├── Spark from loose connection                         │
-    │   ├── Flame or cigarette                                  │
-    │   ├── Static discharge (clothing, brush)                  │
-    │   ├── Relay or switch arcing                              │
-    │   ├── Internal short circuit spark                        │
-    │   └── Hot surface (>550°C)                               │
+    │   ├── Spark from loose connection                           │
+    │   ├── Flame or cigarette                                    │
+    │   ├── Static discharge (clothing, brush)                    │
+    │   ├── Relay or switch arcing                                │
+    │   ├── Internal short circuit spark                          │
+    │   └── Hot surface (>550°C)                                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
