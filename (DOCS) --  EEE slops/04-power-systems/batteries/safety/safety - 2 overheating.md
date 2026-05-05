@@ -752,11 +752,11 @@ IMMEDIATE ACTIONS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Watch for:                                                │
-    │   ├── Smoke emission                                       │
-    │   ├── Swelling (especially Li-ion)                         │
-    │   ├── Leaking electrolyte                                  │
-    │   ├── Rapid temperature rise (thermal runaway precursor)   │
-    │   └── Hissing sound (venting)                             │
+    │   ├── Smoke emission                                        │
+    │   ├── Swelling (especially Li-ion)                          │
+    │   ├── Leaking electrolyte                                   │
+    │   ├── Rapid temperature rise (thermal runaway precursor)    │
+    │   └── Hissing sound (venting)                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
