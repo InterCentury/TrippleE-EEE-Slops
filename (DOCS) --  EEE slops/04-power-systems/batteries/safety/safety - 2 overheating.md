@@ -836,20 +836,20 @@ DISPOSING OF OVERHEATED BATTERIES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. Discharge to <1V (if safe - use resistor)             │
-    │      (Skip if battery is swollen or damaged)               │
+    │   1. Discharge to <1V (if safe - use resistor)              │
+    │      (Skip if battery is swollen or damaged)                │
     │                                                             │
-    │   2. Place in metal container with sand or cat litter      │
-    │      (prevents fire spread if it ignites)                  │
+    │   2. Place in metal container with sand or cat litter       │
+    │      (prevents fire spread if it ignites)                   │
     │                                                             │
-    │   3. Take to battery recycling facility:                   │
-    │      ├── Call2Recycle (US/Canada)                          │
-    │      ├── Best Buy, Home Depot, Lowe's                      │
-    │      ├── Local hazardous waste facility                    │
-    │      └── Municipal recycling center                        │
+    │   3. Take to battery recycling facility:                    │
+    │      ├── Call2Recycle (US/Canada)                           │
+    │      ├── Best Buy, Home Depot, Lowe's                       │
+    │      ├── Local hazardous waste facility                     │
+    │      └── Municipal recycling center                         │
     │                                                             │
-    │   4. DO NOT store damaged batteries longer than necessary  │
-    │      (Take within 24-48 hours if possible)                 │
+    │   4. DO NOT store damaged batteries longer than necessary   │
+    │      (Take within 24-48 hours if possible)                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
