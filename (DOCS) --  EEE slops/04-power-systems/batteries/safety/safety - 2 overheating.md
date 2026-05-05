@@ -667,10 +667,10 @@ THERMAL MONITORING METHODS
     METHOD 2: Infrared Thermometer
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Point at battery surface                                 │
+    │   Point at battery surface                                  │
     │   Read temperature                                          │
-    │   Log readings over time                                   │
-    │   Set alarm at 45°C                                       │
+    │   Log readings over time                                    │
+    │   Set alarm at 45°C                                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -678,9 +678,9 @@ THERMAL MONITORING METHODS
     METHOD 3: BMS with Temperature Sensor
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Thermistor attached to battery (or inside pack)          │
+    │   Thermistor attached to battery (or inside pack)           │
     │   BMS monitors continuously                                 │
-    │   Automatically disconnects if over-temperature            │
+    │   Automatically disconnects if over-temperature             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
