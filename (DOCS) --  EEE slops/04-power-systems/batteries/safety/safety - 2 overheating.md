@@ -587,10 +587,10 @@ COOLING METHODS
     ACTIVE COOLING:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Fans (12V brushless, 5V USB fans)                    │
-    │   ├── Peltier coolers (for high power, energy inefficient) │
-    │   ├── Liquid cooling (high-end electric vehicles)          │
-    │   └── Compressor cooling (EV batteries, rare)              │
+    │   ├── Fans (12V brushless, 5V USB fans)                     │
+    │   ├── Peltier coolers (for high power, energy inefficient)  │
+    │   ├── Liquid cooling (high-end electric vehicles)           │
+    │   └── Compressor cooling (EV batteries, rare)               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
