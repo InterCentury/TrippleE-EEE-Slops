@@ -787,21 +787,21 @@ THERMAL RUNAWAY (Li-ion)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. EVACUATE THE AREA IMMEDIATELY                         │
-    │      (Toxic smoke is dangerous to breathe)                 │
+    │   1. EVACUATE THE AREA IMMEDIATELY                          │
+    │      (Toxic smoke is dangerous to breathe)                  │
     │                                                             │
-    │   2. CALL EMERGENCY SERVICES (Fire Department)             │
+    │   2. CALL EMERGENCY SERVICES (Fire Department)              │
     │                                                             │
-    │   3. IF SAFE: Move battery outdoors (if accessible)        │
-    │      (Use heat-resistant gloves, shovel, etc.)             │
+    │   3. IF SAFE: Move battery outdoors (if accessible)         │
+    │      (Use heat-resistant gloves, shovel, etc.)              │
     │                                                             │
-    │   4. DO NOT use water (except large volumes for cooling)   │
-    │      DO NOT use standard fire extinguisher (Class ABC)     │
-    │      Use Class D (metal fire) extinguisher if available   │
+    │   4. DO NOT use water (except large volumes for cooling)    │
+    │      DO NOT use standard fire extinguisher (Class ABC)      │
+    │      Use Class D (metal fire) extinguisher if available     │
     │                                                             │
-    │   5. SMOTHER with sand or baking soda (if safe to approach)│
+    │   5. SMOTHER with sand or baking soda (if safe to approach) │
     │                                                             │
-    │   6. CLOSE DOORS to contain fire (if indoors)              │
+    │   6. CLOSE DOORS to contain fire (if indoors)               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
