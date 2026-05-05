@@ -15,17 +15,17 @@ Gas pressure builds inside the battery until the case bursts.
 ```
 PRESSURE RUPTURE EXPLOSION
 
-    Normal battery:              Pressurized battery:         After rupture:
+    Normal battery:              Pressurized battery:          After rupture:
     
-    ┌─────────────┐              ┌─────────────┐              ┌─┐
-    │  ████████   │              │  ████████   │              │ │
-    │  ██    ██   │              │  ██    ██   │              │ │
-    │  ██    ██   │   GAS →      │  ██ ≡  ██   │   ← Pressure  │ │
-    │  ████████   │              │  ████████   │              │ │
-    └─────────────┘              └──────┬──────┘              └─┘
-           │                           │                        │
-        No gas                Bulging case (pressure)      Case ruptures
-                                                         (explosive vent!)
+    ┌─────────────┐              ┌─────────────┐                    ┌─┐
+    │  ████████   │              │  ████████   │                    │ │
+    │  ██    ██   │              │  ██    ██   │                    │ │
+    │  ██    ██   │   GAS →      │  ██ ≡  ██   │   ← Pressure       │ │
+    │  ████████   │              │  ████████   │                    │ │
+    └─────────────┘              └──────┬──────┘                    └─┘
+           │                           │                             │
+        No gas                Bulging case (pressure)           Case ruptures
+                                                              (explosive vent!)
 
 
     PRESSURE SOURCES:
