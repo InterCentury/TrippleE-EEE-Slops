@@ -23,8 +23,8 @@ PRESSURE RUPTURE EXPLOSION
     │  ██    ██   │   GAS →      │  ██ ≡  ██   │   ← Pressure       │ │
     │  ████████   │              │  ████████   │                    │ │
     └─────────────┘              └──────┬──────┘                    └─┘
-           │                           │                             │
-        No gas                Bulging case (pressure)           Case ruptures
+           │                            │                            │
+        No gas                 Bulging case (pressure)           Case ruptures
                                                               (explosive vent!)
 
 
