@@ -770,15 +770,15 @@ THERMAL RUNAWAY (Li-ion)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   WARNING: Thermal runaway is SELF-SUSTAINING              │
-    │   NOTHING you do will stop it once started!                │
+    │   WARNING: Thermal runaway is SELF-SUSTAINING               │
+    │   NOTHING you do will stop it once started!                 │
     │                                                             │
     │   SIGNS:                                                    │
-    │   ├── Smoke (white/grey, acrid smell)                      │
-    │   ├── Rapid swelling (case expanding)                      │
-    │   ├── Hissing or popping sounds                            │
-    │   ├── Flames (jet of fire from vent)                       │
-    │   └── Temperature >150°C (302°F) and rising                │
+    │   ├── Smoke (white/grey, acrid smell)                       │
+    │   ├── Rapid swelling (case expanding)                       │
+    │   ├── Hissing or popping sounds                             │
+    │   ├── Flames (jet of fire from vent)                        │
+    │   └── Temperature >150°C (302°F) and rising                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
