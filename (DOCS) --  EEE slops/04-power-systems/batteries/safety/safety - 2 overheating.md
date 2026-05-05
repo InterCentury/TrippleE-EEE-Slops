@@ -823,11 +823,11 @@ DISPOSING OF OVERHEATED BATTERIES
     DO NOT:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Throw in trash (fire hazard)                           │
-    │   ✗ Attempt to recharge (will overheat again)              │
-    │   ✗ Use in device (unreliable, dangerous)                  │
-    │   ✗ Puncture or crush (fire/explosion)                     │
-    │   ✗ Store with other batteries                             │
+    │   X Throw in trash (fire hazard)                            │
+    │   X Attempt to recharge (will overheat again)               │
+    │   X Use in device (unreliable, dangerous)                   │
+    │   X Puncture or crush (fire/explosion)                      │
+    │   X Store with other batteries                              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
