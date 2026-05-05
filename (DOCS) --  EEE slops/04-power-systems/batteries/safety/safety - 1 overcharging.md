@@ -1,4 +1,4 @@
-# 04.18 - Overcharging
+# Overcharging
 
 ## What is Overcharging?
 
