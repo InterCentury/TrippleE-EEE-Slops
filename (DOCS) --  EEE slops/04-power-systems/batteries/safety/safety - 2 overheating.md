@@ -1,4 +1,4 @@
-# 04.19 - Overheating
+# Overheating
 
 ## What is Overheating?
 
