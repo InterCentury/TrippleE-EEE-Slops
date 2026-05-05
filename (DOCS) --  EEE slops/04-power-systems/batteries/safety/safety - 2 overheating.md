@@ -658,8 +658,8 @@ THERMAL MONITORING METHODS
     METHOD 1: Touch Test (For accessible batteries)
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Check battery temperature periodically during charging   │
-    │   If too hot to hold for 10 seconds → STOP CHARGING!       │
+    │   Check battery temperature periodically during charging    │
+    │   If too hot to hold for 10 seconds → STOP CHARGING!        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
