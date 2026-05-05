@@ -144,20 +144,20 @@ OVERCHARGE-INDUCED EXPLOSION
     LITHIUM-ION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Overcharge beyond 4.25V →                                │
-    │   ├── Lithium plating on anode (metallic Li)               │
-    │   ├── Electrolyte decomposition (gas + heat)               │
-    │   ├── Internal pressure rises                              │
-    │   ├── Separator melts                                      │
-    │   ├── Internal short + THERMAL RUNAWAY                     │
-    │   └── EXPLOSION!                                           │
+    │   Overcharge beyond 4.25V →                                 │
+    │   ├── Lithium plating on anode (metallic Li)                │
+    │   ├── Electrolyte decomposition (gas + heat)                │
+    │   ├── Internal pressure rises                               │
+    │   ├── Separator melts                                       │
+    │   ├── Internal short + THERMAL RUNAWAY                      │
+    │   └── EXPLOSION!                                            │
     │                                                             │
-    │   Voltage threshold for explosion risk:                    │
-    │   ├── 4.20V: Safe (normal full)                           │
-    │   ├── 4.25V: Danger zone (immediate risk)                 │
-    │   ├── 4.30V: High risk (cell damage)                      │
-    │   ├── 4.40V: Very high risk (fire likely)                 │
-    │   └── >4.50V: Imminent explosion                          │
+    │   Voltage threshold for explosion risk:                     │
+    │   ├── 4.20V: Safe (normal full)                             │
+    │   ├── 4.25V: Danger zone (immediate risk)                   │
+    │   ├── 4.30V: High risk (cell damage)                        │
+    │   ├── 4.40V: Very high risk (fire likely)                   │
+    │   └── >4.50V: Imminent explosion                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
