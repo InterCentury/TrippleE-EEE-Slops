@@ -542,41 +542,41 @@ Hazards Checklist
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ PRESSURE WAVE (Blast injury)                           │
-    │       Can rupture eardrums (10-15 psi)                     │
-    │       Can cause lung damage (50+ psi)                      │
-    │       Can throw person or objects                          │
+    │   ☐ PRESSURE WAVE (Blast injury)                            │
+    │       Can rupture eardrums (10-15 psi)                      │
+    │       Can cause lung damage (50+ psi)                       │
+    │       Can throw person or objects                           │
     │                                                             │
-    │   ☐ SHRAPNEL (Flying debris)                              │
-    │       Battery case fragments                               │
+    │   ☐ SHRAPNEL (Flying debris)                                │
+    │       Battery case fragments                                │
     │       Sharp metal pieces                                    │
-    │       Can travel >10 meters                                │
+    │       Can travel >10 meters                                 │
     │                                                             │
-    │   ☐ THERMAL BURNS                                                │
+    │   ☐ THERMAL BURNS                                           │
     │       2000°C jet flame                                      │
-    │       Molten metal (aluminum, copper)                      │
-    │       Hot electrolyte (100°C+)                             │
+    │       Molten metal (aluminum, copper)                       │
+    │       Hot electrolyte (100°C+)                              │
     │                                                             │
-    │   ☐ CHEMICAL BURNS                                                │
-    │       Lead-acid: Sulfuric acid (severe burns)              │
-    │       Li-ion: Electrolyte (HF acid - extremely corrosive) │
-    │       NiMH: Potassium hydroxide (caustic)                  │
+    │   ☐ CHEMICAL BURNS                                          │
+    │       Lead-acid: Sulfuric acid (severe burns)               │
+    │       Li-ion: Electrolyte (HF acid - extremely corrosive)   │
+    │       NiMH: Potassium hydroxide (caustic)                   │
     │                                                             │
-    │   ☐ TOXIC SMOKE                                            │
-    │       Hydrogen fluoride (HF - fatal lung damage)           │
-    │       Carbon monoxide (CO - poisoning)                     │
-    │       Hydrogen sulfide (H₂S - toxic gas)                   │
-    │       Metal oxide fumes (cancer risk)                      │
+    │   ☐ TOXIC SMOKE                                             │
+    │       Hydrogen fluoride (HF - fatal lung damage)            │
+    │       Carbon monoxide (CO - poisoning)                      │
+    │       Hydrogen sulfide (H₂S - toxic gas)                    │
+    │       Metal oxide fumes (cancer risk)                       │
     │                                                             │
-    │   ☐ FIRE                                                   │
+    │   ☐ FIRE                                                    │
     │       Can spread rapidly                                    │
-    │       Difficult to extinguish (Li-ion)                    │
-    │       Toxic smoke _________________________________________│
+    │       Difficult to extinguish (Li-ion)                      │
+    │       Toxic smoke _________________________________________ │
     │                                                             │
     │                                                             │
-    │   ☐ ELECTRICAL (Live parts)                               │
-    │       Shorted remains may still have voltage               │
-    │       Potential for secondary shock                       │
+    │   ☐ ELECTRICAL (Live parts)                                 │
+    │       Shorted remains may still have voltage                │
+    │       Potential for secondary shock                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
