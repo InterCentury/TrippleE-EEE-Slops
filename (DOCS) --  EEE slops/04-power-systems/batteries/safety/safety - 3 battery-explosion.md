@@ -594,18 +594,18 @@ Charger Requirements by Chemistry
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   MUST have:                                                │
-    │   ├── CC/CV algorithm (Constant Current → Constant Voltage)│
-    │   ├── Per-cell voltage monitoring (for multi-cell packs)  │
-    │   ├── Cell balancing (for multi-cell packs)               │
-    │   ├── Over-voltage protection (4.25V max per cell)        │
-    │   ├── Temperature monitoring (thermistor input)           │
-    │   ├── Timer backup (max charge time)                      │
-    │   └── Fault detection (bad cell, connection failure)      │
+    │   ├── CC/CV algorithm (Constant Current → Constant Voltage) │
+    │   ├── Per-cell voltage monitoring (for multi-cell packs)    │
+    │   ├── Cell balancing (for multi-cell packs)                 │
+    │   ├── Over-voltage protection (4.25V max per cell)          │
+    │   ├── Temperature monitoring (thermistor input)             │
+    │   ├── Timer backup (max charge time)                        │
+    │   └── Fault detection (bad cell, connection failure)        │
     │                                                             │
-    │   RECOMMENDED:                                             │
-    │   ├── Balance charger (RC hobby style) for multi-cell    │
-    │   ├── Brand name (iMAX, Hitec, SkyRC, Venom)             │
-    │   └── UL / CE certified                                   │
+    │   RECOMMENDED:                                              │
+    │   ├── Balance charger (RC hobby style) for multi-cell       │
+    │   ├── Brand name (iMAX, Hitec, SkyRC, Venom)                │
+    │   └── UL / CE certified                                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -614,15 +614,15 @@ Charger Requirements by Chemistry
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   MUST have:                                                │
-    │   ├── Current limited (max 0.3C for sealed)               │
-    │   ├── Voltage regulated (14.4V absorption, 13.6V float)   │
-    │   ├── Temperature compensation (optional but recommended) │
-    │   └── Spark-proof connectors                              │
+    │   ├── Current limited (max 0.3C for sealed)                 │
+    │   ├── Voltage regulated (14.4V absorption, 13.6V float)     │
+    │   ├── Temperature compensation (optional but recommended)   │
+    │   └── Spark-proof connectors                                │
     │                                                             │
-    │   RECOMMENDED:                                             │
-    │   ├── Smart charger (multi-stage: bulk, absorption, float)│
-    │   ├── Battery desulfator (optional)                       │
-    │   └── NO trickle charge without float voltage limit       │
+    │   RECOMMENDED:                                              │
+    │   ├── Smart charger (multi-stage: bulk, absorption, float)  │
+    │   ├── Battery desulfator (optional)                         │
+    │   └── NO trickle charge without float voltage limit         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
