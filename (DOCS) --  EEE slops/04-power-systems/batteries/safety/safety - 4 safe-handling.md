@@ -206,11 +206,11 @@ SAFETY TESTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Measure voltage under light load, then heavier load      │
-    │   R_internal = (V_no_load - V_load) / I_load               │
+    │   Measure voltage under light load, then heavier load       │
+    │   R_internal = (V_no_load - V_load) / I_load                │
     │                                                             │
-    │   High internal resistance = damaged battery (replace)     │
-    │   Very high internal resistance = unsafe (dispose)         │
+    │   High internal resistance = damaged battery (replace)      │
+    │   Very high internal resistance = unsafe (dispose)          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -227,8 +227,8 @@ CORRECT INSTALLATION PROCEDURE
     STEP 1: Verify Battery Type
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Check device label for required battery type             │
-    │   Use EXACT type – no substitutes!                         │
+    │   Check device label for required battery type              │
+    │   Use EXACT type – no substitutes!                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -236,17 +236,17 @@ CORRECT INSTALLATION PROCEDURE
     STEP 2: Check Polarity
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Look for + and - markings in device                      │
-    │   Match battery terminals to device markings               │
+    │   Look for + and - markings in device                       │
+    │   Match battery terminals to device markings                │
     │                                                             │
-    │   Device:              Battery:                            │
-    │   ┌─────┐              ┌─────┐                             │
-    │   │  +  │              │  +  │                             │
-    │   │  -  │              │  -  │                             │
-    │   └─────┘              └─────┘                             │
+    │   Device:              Battery:                             │
+    │   ┌─────┐              ┌─────┐                              │
+    │   │  +  │              │  +  │                              │
+    │   │  -  │              │  -  │                              │
+    │   └─────┘              └─────┘                              │
     │                                                             │
-    │   ⚠ Incorrect polarity can damage device and cause        │
-    │     battery leakage, fire, or explosion!                   │
+    │ !!! Incorrect polarity can damage device and cause          │
+    │     battery leakage, fire, or explosion!                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
