@@ -396,12 +396,12 @@ PHYSICAL WARNING SIGNS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Temperature        Condition           Action            │
+    │   Temperature        Condition           Action             │
     │   ──────────────────────────────────────────────────────────│
-    │   Warm (35-45°C)     Monitoring          Check for cause   │
-    │   Hot (45-60°C)      Danger              Stop use!         │
-    │   Very hot (60-80°C) Emergency           Evacuate!         │
-    │   Burning (>80°C)    Imminent explosion  GET AWAY!         │
+    │   Warm (35-45°C)     Monitoring          Check for cause    │
+    │   Hot (45-60°C)      Danger              Stop use!          │
+    │   Very hot (60-80°C) Emergency           Evacuate!          │
+    │   Burning (>80°C)    Imminent explosion  GET AWAY!          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -410,15 +410,15 @@ PHYSICAL WARNING SIGNS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Sound                      Indication                    │
+    │   Sound                      Indication                     │
     │   ──────────────────────────────────────────────────────────│
-    │   Hissing (gas escaping)     Pressure relief (vent open)   │
-    │   Clicking or popping        Internal arcing               │
-    │   Sizzling                   Electrolyte boiling           │
-    │   Rumbling                   Gas bubble formation          │
-    │   Whistling                  Rapid gas escape              │
+    │   Hissing (gas escaping)     Pressure relief (vent open)    │
+    │   Clicking or popping        Internal arcing                │
+    │   Sizzling                   Electrolyte boiling            │
+    │   Rumbling                   Gas bubble formation           │
+    │   Whistling                  Rapid gas escape               │
     │                                                             │
-    │   HEAR ANY OF THESE? → EVACUATE IMMEDIATELY!               │
+    │   HEAR ANY OF THESE? → EVACUATE IMMEDIATELY!                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
