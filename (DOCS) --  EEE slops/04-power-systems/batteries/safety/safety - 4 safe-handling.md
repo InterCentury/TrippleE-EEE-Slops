@@ -708,20 +708,20 @@ TRANSPORTATION RULES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   9V battery in pocket with keys:                          │
-    │   ┌─────┐   ┌───┐                                          │
-    │   │ 9V  │   │ K │                                          │
-    │   │  +  │───│ e ├── Short circuit!                         │
-    │   │  -  │   │ y │                                          │
-    │   └─────┘   └───┘                                          │
+    │   9V battery in pocket with keys:                           │
+    │   ┌─────┐   ┌───┐                                           │
+    │   │ 9V  │   │ K │                                           │
+    │   │  +  │───│ e ├── Short circuit!                          │
+    │   │  -  │   │ y │                                           │
+    │   └─────┘   └───┘                                           │
     │                                                             │
     │   Result:                                                   │
-    │   ├── Battery heats to >100°C in seconds                   │
-    │   ├── Burns skin                                           │
-    │   ├── Can explode                                          │
-    │   └── Causes serious injury                                │
+    │   ├── Battery heats to >100°C in seconds                    │
+    │   ├── Burns skin                                            │
+    │   ├── Can explode                                           │
+    │   └── Causes serious injury                                 │
     │                                                             │
-    │   ALWAYS cover 9V terminals with tape or use cap!          │
+    │   ALWAYS cover 9V terminals with tape or use cap!           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -729,17 +729,17 @@ TRANSPORTATION RULES
     LARGE BATTERIES (Lead-acid, large Li-ion):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Secure battery to prevent tipping/movement             │
-    │   ✓ Keep upright (flooded lead-acid)                       │
-    │   ✓ Cover terminals to prevent shorts                      │
-    │   ✓ Use proper lifting technique (heavy batteries)        │
-    │   ✓ Transport in ventilated area (lead-acid hydrogen risk) │
-    │   ✓ Follow hazardous material regulations for large packs  │
+    │   ✓ Secure battery to prevent tipping/movement              │
+    │   ✓ Keep upright (flooded lead-acid)                        │
+    │   ✓ Cover terminals to prevent shorts                       │
+    │   ✓ Use proper lifting technique (heavy batteries)          │
+    │   ✓ Transport in ventilated area (lead-acid hydrogen risk)  │
+    │   ✓ Follow hazardous material regulations for large packs   │
     │                                                             │
-    │   ✗ Never carry by terminals                               │
-    │   ✗ Never place on its side (flooded lead-acid)            │
-    │   ✗ Never transport damaged battery                        │
-    │   ✗ Never stack heavy batteries                            │
+    │   ✗ Never carry by terminals                                │
+    │   ✗ Never place on its side (flooded lead-acid)             │
+    │   ✗ Never transport damaged battery                         │
+    │   ✗ Never stack heavy batteries                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
