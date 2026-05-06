@@ -343,14 +343,14 @@ MANUFACTURING DEFECTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ███  Counterfeit batteries (extremely dangerous)        │
-    │   ██   No-name "generic" batteries                         │
-    │   ██   Bottom-dollar discount batteries                    │
-    │   ██   Pulled from old laptop packs (unknown history)      │
-    │   ██   "Factory seconds" (reject parts)                    │
+    │   ███  Counterfeit batteries (extremely dangerous)          │
+    │   ██   No-name "generic" batteries                          │
+    │   ██   Bottom-dollar discount batteries                     │
+    │   ██   Pulled from old laptop packs (unknown history)       │
+    │   ██   "Factory seconds" (reject parts)                     │
     │                                                             │
-    │   ALWAYS buy from reputable brands (Samsung, LG, Panasonic,│
-    │   Sony, Murata, Molicel, etc.)                             │
+    │   ALWAYS buy from reputable brands (Samsung, LG, Panasonic, │
+    │   Sony, Murata, Molicel, etc.)                              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -378,16 +378,16 @@ PHYSICAL WARNING SIGNS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   SIGNAL                    INDICATION                     │
+    │   SIGNAL                    INDICATION                      │
     │   ──────────────────────────────────────────────────────────│
-    │   Swelling / puffing        Gas buildup (Li-ion)           │
-    │   Hissing sound             Venting pressure               │
-    │   Bulging case              Internal pressure high         │
-    │   Cracked case              Imminent rupture               │
-    │   Leaking fluid             Seal failed, dangerous         │
-    │   Deformation               Internal short risk            │
-    │   Discoloration             Overheating damage             │
-    │   Melted wrapper            Severe overheating             │
+    │   Swelling / puffing        Gas buildup (Li-ion)            │
+    │   Hissing sound             Venting pressure                │
+    │   Bulging case              Internal pressure high          │
+    │   Cracked case              Imminent rupture                │
+    │   Leaking fluid             Seal failed, dangerous          │
+    │   Deformation               Internal short risk             │
+    │   Discoloration             Overheating damage              │
+    │   Melted wrapper            Severe overheating              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
