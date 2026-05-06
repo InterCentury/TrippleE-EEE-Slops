@@ -244,13 +244,13 @@ DAMAGE-INDUCED EXPLOSION
     DANGEROUS ACTIONS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Crushing battery in vise or press                      │
-    │   ✗ Puncturing with nail, screwdriver, or knife            │
-    │   ✗ Dropping onto hard surface (cracked case)              │
-    │   ✗ Bending or twisting (Li-pouch batteries)               │
-    │   ✗ Stepping on battery                                    │
-    │   ✗ Hammering or striking battery                          │
-    │   ✗ Cutting open (to "recycle" or "repair")               │
+    │   x Crushing battery in vise or press                       │
+    │   x Puncturing with nail, screwdriver, or knife             │
+    │   x Dropping onto hard surface (cracked case)               │
+    │   x Bending or twisting (Li-pouch batteries)                │
+    │   x Stepping on battery                                     │
+    │   x Hammering or striking battery                           │
+    │   x Cutting open (to "recycle" or "repair")                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
