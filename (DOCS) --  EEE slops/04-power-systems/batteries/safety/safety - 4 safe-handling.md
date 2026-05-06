@@ -119,21 +119,21 @@ VISUAL INSPECTION CHECKLIST
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ TERMINALS - Clean, not corroded, not bent              │
+    │   ☐ TERMINALS - Clean, not corroded, not bent               │
     │                                                             │
-    │   ☐ CASE - No cracks, swelling, or deformation             │
+    │   ☐ CASE - No cracks, swelling, or deformation              │
     │                                                             │
-    │   ☐ LEAKS - No white/green crust, liquid, or smell         │
+    │   ☐ LEAKS - No white/green crust, liquid, or smell          │
     │                                                             │
-    │   ☐ LABELS - Legible (so you know what it is)              │
+    │   ☐ LABELS - Legible (so you know what it is)               │
     │                                                             │
-    │   ☐ DENTS - No dents or crushed areas (Li-ion)            │
+    │   ☐ DENTS - No dents or crushed areas (Li-ion)              │
     │                                                             │
-    │   ☐ PUFFING - Li-ion only – if swollen, DO NOT USE!        │
+    │   ☐ PUFFING - Li-ion only – if swollen, DO NOT USE!         │
     │                                                             │
-    │   ☐ WRAPPER - Intact, no tears (Li-ion, NiMH)              │
+    │   ☐ WRAPPER - Intact, no tears (Li-ion, NiMH)               │
     │                                                             │
-    │   ☐ MANUFACTURER - Reputable brand (avoid no-name)         │
+    │   ☐ MANUFACTURER - Reputable brand (avoid no-name)          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
