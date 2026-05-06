@@ -60,15 +60,15 @@ BATTERY RISK ASSESSMENT
     STEP 1: Identify Battery Type
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Chemistry     Voltage     Capacity    Risk Level         │
+    │   Chemistry     Voltage     Capacity    Risk Level          │
     │   ──────────────────────────────────────────────────────────│
-    │   Alkaline      1.5V        2000mAh     Low                │
-    │   NiMH          1.2V        2500mAh     Low-Medium         │
-    │   Lead-acid     12V         20-100Ah    Medium-High        │
-    │   Li-ion        3.7V        2000-3500mAh High              │
-    │   LiPo (pouch)  3.7V        Varies      Very High          │
-    │   Large LiFePO₄ 3.2V        100Ah+      High               │
-    │   EV battery    400-800V    50-100kWh   EXTREME            │
+    │   Alkaline      1.5V        2000mAh     Low                 │
+    │   NiMH          1.2V        2500mAh     Low-Medium          │
+    │   Lead-acid     12V         20-100Ah    Medium-High         │
+    │   Li-ion        3.7V        2000-3500mAh High               │
+    │   LiPo (pouch)  3.7V        Varies      Very High           │
+    │   Large LiFePO₄ 3.2V        100Ah+      High                │
+    │   EV battery    400-800V    50-100kWh   EXTREME             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
