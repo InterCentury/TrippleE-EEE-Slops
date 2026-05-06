@@ -664,12 +664,12 @@ Mechanical Protection
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Carry loose batteries with keys or coins               │
-    │   ✗ Drop batteries (especially on concrete)                │
-    │   ✗ Store in pocket (short circuit risk)                   │
-    │   ✗ Tape batteries together without insulation             │
-    │   ✗ Stack heavy objects on batteries                       │
-    │   ✗ Use dented or damaged batteries                        │
+    │   X Carry loose batteries with keys or coins                │
+    │   X Drop batteries (especially on concrete)                 │
+    │   X Store in pocket (short circuit risk)                    │
+    │   X Tape batteries together without insulation              │
+    │   X Stack heavy objects on batteries                        │
+    │   X Use dented or damaged batteries                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
