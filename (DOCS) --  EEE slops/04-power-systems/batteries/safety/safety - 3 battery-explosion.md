@@ -499,23 +499,23 @@ EXPLOSION SEQUENCE (Li-ion)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   T=0.0s:  Pre-explosion hiss (gas venting)               │
+    │   T=0.0s:  Pre-explosion hiss (gas venting)                 │
     │                                                             │
-    │   T=0.1s:  Internal short → localized heating             │
+    │   T=0.1s:  Internal short → localized heating               │
     │                                                             │
-    │   T=0.3s:  Pressure exceeds case strength                 │
+    │   T=0.3s:  Pressure exceeds case strength                   │
     │                                                             │
-    │   T=0.4s:  CASE RUPTURES (loud BANG!)                     │
-    │            ├── Shockwave (can damage hearing)              │
-    │            ├── Shrapnel (case fragments)                   │
-    │            ├── Hot electrolyte aerosol                     │
-    │            └── Battery cell becomes projectile             │
+    │   T=0.4s:  CASE RUPTURES (loud BANG!)                       │
+    │            ├── Shockwave (can damage hearing)               │
+    │            ├── Shrapnel (case fragments)                    │
+    │            ├── Hot electrolyte aerosol                      │
+    │            └── Battery cell becomes projectile              │
     │                                                             │
-    │   T=0.5s:  Jet fire (2000°C, 2-3 feet long)               │
+    │   T=0.5s:  Jet fire (2000°C, 2-3 feet long)                 │
     │                                                             │
-    │   T=1.0s:  Secondary explosions (adjacent cells)          │
+    │   T=1.0s:  Secondary explosions (adjacent cells)            │
     │                                                             │
-    │   T=5.0s+: Fire continues (minutes to hours)              │
+    │   T=5.0s+: Fire continues (minutes to hours)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
