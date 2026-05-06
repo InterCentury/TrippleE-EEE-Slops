@@ -444,16 +444,16 @@ TIME WINDOWS
     Li-ion Cell (18650):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Event                           Time to Explosion        │
+    │   Event                           Time to Explosion         │
     │   ──────────────────────────────────────────────────────────│
     │   Swelling starts                  Hours to days            │
-    │   Hissing starts                  Seconds to minutes       │
-    │   Smoke appears                   2-10 seconds             │
-    │   Thermal runaway starts          1-5 seconds              │
-    │   Flames appear                   0.5-2 seconds after smoke│
-    │   Explosion                       1-10 seconds after flames│
+    │   Hissing starts                  Seconds to minutes        │
+    │   Smoke appears                   2-10 seconds              │
+    │   Thermal runaway starts          1-5 seconds               │
+    │   Flames appear                   0.5-2 seconds after smoke │
+    │   Explosion                       1-10 seconds after flames │
     │                                                             │
-    │   ACTION: LEAVE IMMEDIATELY at first sign of smoke!        │
+    │   ACTION: LEAVE IMMEDIATELY at first sign of smoke!         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
