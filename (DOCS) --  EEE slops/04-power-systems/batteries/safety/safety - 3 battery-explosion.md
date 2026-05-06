@@ -688,12 +688,12 @@ Safe Storage and Operation Environment
     Temperature:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Li-ion storage: 5-25°C (41-77°F)                        │
-    │   Li-ion operation: 5-45°C (41-113°F)                     │
-    │   Lead-acid storage: 5-30°C (41-86°F)                     │
-    │   Lead-acid operation: -20 to 50°C (-4 to 122°F)          │
+    │   Li-ion storage: 5-25°C (41-77°F)                          │
+    │   Li-ion operation: 5-45°C (41-113°F)                       │
+    │   Lead-acid storage: 5-30°C (41-86°F)                       │
+    │   Lead-acid operation: -20 to 50°C (-4 to 122°F)            │
     │                                                             │
-    │   Avoid: Attics, garages (hot), cars (summer), direct sun │
+    │   Avoid: Attics, garages (hot), cars (summer), direct sun   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -701,16 +701,16 @@ Safe Storage and Operation Environment
     Ventilation:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Lead-acid charging:                                      │
-    │   ├── MUST be in ventilated area (hydrogen explosion risk) │
-    │   ├── NEVER charge in sealed enclosure                     │
-    │   ├── Use spark-proof fans if indoors                      │
-    │   └── Install hydrogen detector (for large banks)          │
+    │   Lead-acid charging:                                       │
+    │   ├── MUST be in ventilated area (hydrogen explosion risk)  │
+    │   ├── NEVER charge in sealed enclosure                      │
+    │   ├── Use spark-proof fans if indoors                       │
+    │   └── Install hydrogen detector (for large banks)           │
     │                                                             │
-    │   Li-ion charging:                                         │
-    │   ├── Ventilated area recommended                          │
-    │   ├── Fire-safe enclosure preferred                        │
-    │   └── Smoke detector nearby                                │
+    │   Li-ion charging:                                          │
+    │   ├── Ventilated area recommended                           │
+    │   ├── Fire-safe enclosure preferred                         │
+    │   └── Smoke detector nearby                                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
