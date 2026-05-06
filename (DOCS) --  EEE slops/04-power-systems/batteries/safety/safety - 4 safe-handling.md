@@ -349,14 +349,14 @@ SAFE CHARGING LOCATION
     GOOD Locations:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☑ Concrete floor (garage)                                │
-    │   ☑ Ceramic tile surface                                   │
-    │   ☑ Metal workbench                                        │
-    │   ☑ LiPo safety bag (inside)                              │
-    │   ☑ Ammo can (modified with ventilation)                   │
-    │   ☑ Fireproof charging mat                                 │
-    │   ☑ Near smoke detector                                    │
-    │   ☑ Within sight (never leave unattended)                  │
+    │   ☑ Concrete floor (garage)                                 │
+    │   ☑ Ceramic tile surface                                    │
+    │   ☑ Metal workbench                                         │
+    │   ☑ LiPo safety bag (inside)                                │
+    │   ☑ Ammo can (modified with ventilation)                    │
+    │   ☑ Fireproof charging mat                                  │
+    │   ☑ Near smoke detector                                     │
+    │   ☑ Within sight (never leave unattended)                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -364,15 +364,15 @@ SAFE CHARGING LOCATION
     BAD Locations:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Wooden desk or table                                   │
-    │   ✗ Carpet or rug                                          │
-    │   ✗ Near curtains, paper, or flammables                    │
-    │   ✗ On bed or sofa                                         │
-    │   ✗ In direct sunlight                                     │
-    │   ✗ Near heat sources (radiator, space heater)             │
-    │   ✗ Inside sealed container (no ventilation)               │
-    │   ✗ Under pillow while sleeping (NEVER!)                  │
-    │   ✗ In garage where gasoline stored (lead-acid)            │
+    │   X Wooden desk or table                                    │
+    │   X Carpet or rug                                           │
+    │   X Near curtains, paper, or flammables                     │
+    │   X On bed or sofa                                          │
+    │   X In direct sunlight                                      │
+    │   X Near heat sources (radiator, space heater)              │
+    │   X Inside sealed container (no ventilation)                │
+    │   X Under pillow while sleeping (NEVER!)                    │
+    │   X In garage where gasoline stored (lead-acid)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -381,17 +381,17 @@ SAFE CHARGING LOCATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Recommended home charging station:                       │
+    │   Recommended home charging station:                        
     │                                                             │
     │   ┌─────────────────────────────────────────────────────┐   │
-    │   │  Concrete block or ceramic tile                      │   │
-    │   │  ┌─────────┐  ┌─────────┐  ┌─────────┐             │   │
-    │   │  │ Charger │  │ LiPo    │  │ Fire    │             │   │
-    │   │  │         │  │ bag     │  │ ext.    │             │   │
-    │   │  └─────────┘  └─────────┘  └─────────┘             │   │
+    │   │  Concrete block or ceramic tile                     │   │
+    │   │  ┌─────────┐  ┌─────────┐  ┌─────────┐              │   │
+    │   │  │ Charger │  │ LiPo    │  │ Fire    │              │   │
+    │   │  │         │  │ bag     │  │ ext.    │              │   │
+    │   │  └─────────┘  └─────────┘  └─────────┘              │   │
     │   │                    │                                │   │
-    │   │              Smoke detector above                   │   │
-    │   │                                                      │   │
+    │   │            Smoke detector above                     │   │
+    │   │                                                     │   │
     │   └─────────────────────────────────────────────────────┘   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
