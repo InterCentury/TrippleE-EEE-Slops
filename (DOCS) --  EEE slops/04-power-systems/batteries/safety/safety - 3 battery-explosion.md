@@ -461,15 +461,15 @@ TIME WINDOWS
     Lead-Acid Battery:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Event                           Time to Explosion        │
+    │   Event                           Time to Explosion         │
     │   ──────────────────────────────────────────────────────────│
     │   Audible gassing                 Minutes to hours          │
     │   Hot case (>50°C)                Minutes                   │
-    │   Spark near battery              Instantaneous            │
-    │   Bulging case                    Seconds to minutes       │
+    │   Spark near battery              Instantaneous             │
+    │   Bulging case                    Seconds to minutes        │
     │   Hissing (venting)               Immediate (explosion risk)│
     │                                                             │
-    │   ACTION: Ventilate area, remove ignition sources          │
+    │   ACTION: Ventilate area, remove ignition sources           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -477,13 +477,13 @@ TIME WINDOWS
     NI MH / NiCd:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Event                           Time to Explosion        │
+    │   Event                           Time to Explosion         │
     │   ──────────────────────────────────────────────────────────│
     │   Hot during charging             Minutes to hours          │
-    │   Hissing                         Seconds to minutes       │
-    │   Swelling                        Immediate danger         │
+    │   Hissing                         Seconds to minutes        │
+    │   Swelling                        Immediate danger          │
     │                                                             │
-    │   ACTION: Stop charging, move to safe area                 │
+    │   ACTION: Stop charging, move to safe area                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
