@@ -803,10 +803,10 @@ BURN TREATMENT
     Eye Exposure:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. Flush eye with water for 20+ minutes                  │
-    │   2. Hold eyelid open                                      │
-    │   3. Seek emergency medical attention IMMEDIATELY          │
-    │   4. Continue flushing en route (if possible)              │
+    │   1. Flush eye with water for 20+ minutes                   │
+    │   2. Hold eyelid open                                       │
+    │   3. Seek emergency medical attention IMMEDIATELY           │
+    │   4. Continue flushing en route (if possible)               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
