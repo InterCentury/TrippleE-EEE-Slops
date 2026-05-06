@@ -165,18 +165,18 @@ OVERCHARGE-INDUCED EXPLOSION
     LEAD-ACID:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Overcharge beyond 14.4V (12V battery) →                  │
-    │   ├── Electrolysis of water (H₂ + O₂)                      │
-    │   ├── Gas accumulates (hydrogen is explosive!)             │
-    │   ├── Pressure builds (vented or sealed)                  │
-    │   ├── Ignition source (spark from connection)             │
-    │   └── EXPLOSION (case shattered, acid everywhere)          │
+    │   Overcharge beyond 14.4V (12V battery) →                   │
+    │   ├── Electrolysis of water (H₂ + O₂)                       │
+    │   ├── Gas accumulates (hydrogen is explosive!)              │
+    │   ├── Pressure builds (vented or sealed)                    │
+    │   ├── Ignition source (spark from connection)               │
+    │   └── EXPLOSION (case shattered, acid everywhere)           │
     │                                                             │
-    │   Gas production rate (12V battery):                       │
-    │   ├── 13.8V (float): Minimal gas                          │
-    │   ├── 14.4V (absorption): Moderate gas                    │
-    │   ├── 15.0V: Significant gas (danger)                     │
-    │   └── >15.5V: Heavy gassing (EXPLOSION RISK)              │
+    │   Gas production rate (12V battery):                        │
+    │   ├── 13.8V (float): Minimal gas                            │
+    │   ├── 14.4V (absorption): Moderate gas                      │
+    │   ├── 15.0V: Significant gas (danger)                       │
+    │   └── >15.5V: Heavy gassing (EXPLOSION RISK)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
