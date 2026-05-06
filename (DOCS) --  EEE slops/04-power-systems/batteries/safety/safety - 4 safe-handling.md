@@ -546,12 +546,12 @@ STORAGE REQUIREMENTS
     Temperature:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Chemistry    Ideal Storage    Acceptable      Avoid      │
+    │   Chemistry    Ideal Storage    Acceptable      Avoid       │
     │   ──────────────────────────────────────────────────────────│
-    │   Li-ion       10-20°C (50-68°F)  0-35°C (32-95°F)  >40°C  │
-    │   Lead-acid    10-25°C (50-77°F)  -20-40°C         >30°C   │
-    │   NiMH         10-25°C (50-77°F)  0-35°C           >40°C   │
-    │   Alkaline     10-25°C (50-77°F)  0-45°C           >50°C   │
+    │   Li-ion       10-20°C (50-68°F)  0-35°C (32-95°F)  >40°C   │
+    │   Lead-acid    10-25°C (50-77°F)  -20-40°C         >30°C    │
+    │   NiMH         10-25°C (50-77°F)  0-35°C           >40°C    │
+    │   Alkaline     10-25°C (50-77°F)  0-45°C           >50°C    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -559,9 +559,9 @@ STORAGE REQUIREMENTS
     Humidity:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Ideal: 40-60% relative humidity                          │
-    │   Acceptable: 30-70%                                       │
-    │   Avoid: >80% (corrosion risk) or <20% (static risk)       │
+    │   Ideal: 40-60% relative humidity                           │
+    │   Acceptable: 30-70%                                        │
+    │   Avoid: >80% (corrosion risk) or <20% (static risk)        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -570,12 +570,12 @@ STORAGE REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   DO use:                      DON'T use:                  │
-    │   ├── Plastic battery cases    ├── Metal boxes (short risk)│
-    │   ├── Original packaging       ├── Ziploc bags (moisture)  │
-    │   ├── Battery organizers       ├── Loose in drawer         │
-    │   ├── Terminal covers          ├── With metal objects      │
-    │   └── Fireproof container(Li-ion)└── In sealed plastic     │
+    │   DO use:                      DON'T use:                   │
+    │   ├── Plastic battery cases    ├── Metal boxes (short risk) │
+    │   ├── Original packaging       ├── Ziploc bags (moisture)   │
+    │   ├── Battery organizers       ├── Loose in drawer          │
+    │   ├── Terminal covers          ├── With metal objects       │
+    │   └── Fireproof container(Li-ion)└── In sealed plastic      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -586,13 +586,13 @@ STORAGE REQUIREMENTS
     │                                                             │
     │   Battery Type          Max Recommended                     │
     │   ──────────────────────────────────────────────────────────│
-    │   Alkaline (AA/AAA)     100 cells                          │
-    │   NiMH (AA/AAA)         50 cells                           │
-    │   18650 Li-ion          20 cells                           │
-    │   LiPo packs            5 packs                            │
-    │   Lead-acid (12V)       2 batteries                        │
+    │   Alkaline (AA/AAA)     100 cells                           │
+    │   NiMH (AA/AAA)         50 cells                            │
+    │   18650 Li-ion          20 cells                            │
+    │   LiPo packs            5 packs                             │
+    │   Lead-acid (12V)       2 batteries                         │
     │                                                             │
-    │   For larger quantities: Use dedicated storage cabinet     │
+    │   For larger quantities: Use dedicated storage cabinet      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -606,18 +606,18 @@ STORAGE BY CHEMISTRY
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   BEST PRACTICES:                                           │
-    │   ├── Store at 50% charge (3.7-3.8V per cell)              │
-    │   ├── Never store fully discharged (<2.5V)                 │
-    │   ├── Never store fully charged (>4.1V) for long term      │
-    │   ├── Store in fireproof container (LiPo bag, ammo can)    │
-    │   ├── Separate cells with non-conductive dividers          │
-    │   ├── Cover terminals with tape                            │
-    │   └── Inspect monthly for swelling                         │
+    │   ├── Store at 50% charge (3.7-3.8V per cell)               │
+    │   ├── Never store fully discharged (<2.5V)                  │
+    │   ├── Never store fully charged (>4.1V) for long term       │
+    │   ├── Store in fireproof container (LiPo bag, ammo can)     │
+    │   ├── Separate cells with non-conductive dividers           │
+    │   ├── Cover terminals with tape                             │
+    │   └── Inspect monthly for swelling                          │
     │                                                             │
     │   STORAGE LIFE:                                             │
-    │   ├── 50% charge at 25°C: 6-12 months                     │
-    │   ├── 50% charge at 10°C: 12-24 months                    │
-    │   └── 100% charge at 25°C: 3-6 months (degradation)       │
+    │   ├── 50% charge at 25°C: 6-12 months                       │
+    │   ├── 50% charge at 10°C: 12-24 months                      │
+    │   └── 100% charge at 25°C: 3-6 months (degradation)         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -626,17 +626,17 @@ STORAGE BY CHEMISTRY
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   BEST PRACTICES:                                           │
-    │   ├── Store fully charged (12.6-12.8V for 12V)             │
-    │   ├── Recharge every 3-6 months (self-discharge 5-10%/mo)  │
-    │   ├── Store upright only (flooded type)                   │
-    │   ├── Keep terminals clean and coated with grease          │
-    │   ├── Store in ventilated area (hydrogen risk)             │
-    │   └── Never store on concrete (myth – actually fine)       │
+    │   ├── Store fully charged (12.6-12.8V for 12V)              │
+    │   ├── Recharge every 3-6 months (self-discharge 5-10%/mo)   │
+    │   ├── Store upright only (flooded type)                     │
+    │   ├── Keep terminals clean and coated with grease           │
+    │   ├── Store in ventilated area (hydrogen risk)              │
+    │   └── Never store on concrete (myth – actually fine)        │
     │                                                             │
     │   STORAGE LIFE:                                             │
-    │   ├── Maintained (float charged): 3-5 years               │
-    │   ├── Unmaintained (full charge): 6-12 months             │
-    │   └── Discharged: 2-3 months (permanent damage)           │
+    │   ├── Maintained (float charged): 3-5 years                 │
+    │   ├── Unmaintained (full charge): 6-12 months               │
+    │   └── Discharged: 2-3 months (permanent damage)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -645,15 +645,15 @@ STORAGE BY CHEMISTRY
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   NiMH:                                                     │
-    │   ├── Store at 40-50% charge (1.2-1.25V)                   │
-    │   ├── Recharge every 6-12 months (self-discharge 20-30%/mo)│
-    │   ├── LSD (Low Self-Discharge) NiMH: keep 70%+ charge     │
-    │   └── Pre-charge before use                                │
+    │   ├── Store at 40-50% charge (1.2-1.25V)                    │
+    │   ├── Recharge every 6-12 months (self-discharge 20-30%/mo) │
+    │   ├── LSD (Low Self-Discharge) NiMH: keep 70%+ charge       │
+    │   └── Pre-charge before use                                 │
     │                                                             │
     │   NiCd:                                                     │
-    │   ├── Store discharged (1.0V per cell)                     │
-    │   ├── Recharge every 6 months                              │
-    │   └── Cycle fully before use (memory effect)               │
+    │   ├── Store discharged (1.0V per cell)                      │
+    │   ├── Recharge every 6 months                               │
+    │   └── Cycle fully before use (memory effect)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -662,17 +662,17 @@ STORAGE BY CHEMISTRY
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   BEST PRACTICES:                                           │
-    │   ├── Store at room temperature (10-25°C)                  │
-    │   ├── Keep in original packaging until use                 │
-    │   ├── Do not store loose (short circuit risk)              │
-    │   ├── Check expiration date (7-10 years typical)           │
-    │   └── Remove from devices when not in use (prevents leaks) │
+    │   ├── Store at room temperature (10-25°C)                   │
+    │   ├── Keep in original packaging until use                  │
+    │   ├── Do not store loose (short circuit risk)               │
+    │   ├── Check expiration date (7-10 years typical)            │
+    │   └── Remove from devices when not in use (prevents leaks)  │
     │                                                             │
     │   STORAGE LIFE:                                             │
-    │   ├── Room temperature: 5-10 years                         │
-    │   ├── 30°C (86°F): 3-5 years                              │
-    │   ├── 40°C (104°F): 1-2 years                             │
-    │   └── 50°C (122°F): 6 months (car glovebox!)              │
+    │   ├── Room temperature: 5-10 years                          │
+    │   ├── 30°C (86°F): 3-5 years                                │
+    │   ├── 40°C (104°F): 1-2 years                               │
+    │   └── 50°C (122°F): 6 months (car glovebox!)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
