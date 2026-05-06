@@ -192,32 +192,32 @@ INTERNAL SHORT CIRCUIT EXPLOSION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. SEPARATOR PUNCTURE:                                   │
-    │      ┌─────────────┐                                       │
-    │      │  +  ███ -   │                                       │
-    │      │     │       │                                       │
-    │      │   ┌─┴─┐     │  Sharp particle pierces separator    │
-    │      │   │ X │     │  → anode touches cathode             │
-    │      │   └─┬─┘     │  → short circuit                     │
-    │      │     │       │                                       │
-    │      └─────────────┘                                       │
+    │   1. SEPARATOR PUNCTURE:                                    │
+    │      ┌─────────────┐                                        │
+    │      │  +  ███ -   │                                        │
+    │      │     │       │                                        │
+    │      │   ┌─┴─┐     │  Sharp particle pierces separator      │
+    │      │   │ X │     │  → anode touches cathode               │
+    │      │   └─┬─┘     │  → short circuit                       │
+    │      │     │       │                                        │
+    │      └─────────────┘                                        │
     │                                                             │
-    │   2. DENDRITE GROWTH:                                      │
-    │      ┌─────────────┐                                       │
-    │      │  +  ███ -   │                                       │
-    │      │     │       │  Lithium metal grows                 │
-    │      │    ╱        │  through separator (overcharge)      │
-    │      │   ╱         │  → short circuit                     │
-    │      │  ╱          │                                       │
-    │      └─────────────┘                                       │
+    │   2. DENDRITE GROWTH:                                       │
+    │      ┌─────────────┐                                        │
+    │      │  +  ███ -   │                                        │
+    │      │     │       │  Lithium metal grows                   │
+    │      │     ╱       │  through separator (overcharge)        │
+    │      │    ╱        │  → short circuit                       │
+    │      │   ╱         │                                        │
+    │      └─────────────┘                                        │
     │                                                             │
-    │   3. CRUSH DAMAGE:                                         │
-    │      ┌─────────────┐                                       │
-    │      │  +  ███ -   │  Physical deformation                │
-    │      │     │       │  pushes layers together              │
-    │      │   ┌─┐       │  → short circuit                     │
-    │      │   │!│       │                                       │
-    │      └─────────────┘                                       │
+    │   3. CRUSH DAMAGE:                                          │
+    │      ┌─────────────┐                                        │
+    │      │  +  ███ -   │  Physical deformation                  │
+    │      │     │       │  pushes layers together                │
+    │      │   ┌─┐       │  → short circuit                       │
+    │      │   │!│       │                                        │
+    │      └─────────────┘                                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
