@@ -93,17 +93,17 @@ BATTERY RISK ASSESSMENT
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Task                Li-ion      Lead-Acid    NiMH/Alk    │
+    │   Task                Li-ion      Lead-Acid    NiMH/Alk     │
     │   ──────────────────────────────────────────────────────────│
-    │   Inspection          Safety      Safety       None        │
-    │                      glasses     glasses                   │
-    │   Installation        Safety      Safety       None        │
-    │                      glasses     glasses                   │
-    │   Testing             None        None         None        │
-    │   Charging            LiPo bag    Ventilation  None        │
-    │                      + monitor   + glasses                 │
-    │   Repair/Disposal     Gloves +    Acid gloves  Gloves      │
-    │                      goggles     + face shield + goggles   │
+    │   Inspection          Safety      Safety       None         │
+    │                      glasses     glasses                    │
+    │   Installation        Safety      Safety       None         │
+    │                      glasses     glasses                    │
+    │   Testing             None        None         None         │
+    │   Charging            LiPo bag    Ventilation  None         │
+    │                      + monitor   + glasses                  │
+    │   Repair/Disposal     Gloves +    Acid gloves  Gloves       │
+    │                      goggles     + face shield + goggles    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
