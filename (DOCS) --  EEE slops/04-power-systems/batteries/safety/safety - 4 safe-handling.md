@@ -689,17 +689,17 @@ TRANSPORTATION RULES
     SMALL BATTERIES (AA, AAA, 9V, Li-ion):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Keep in original packaging                             │
-    │   ✓ Use plastic battery cases                              │
-    │   ✓ Cover terminals with tape                              │
-    │   ✓ Keep separated from metal objects (keys, coins)        │
-    │   ✓ Carry in carry-on luggage (not checked) for flights    │
-    │   ✓ Use terminal protectors for 9V batteries               │
+    │   ✓ Keep in original packaging                              │
+    │   ✓ Use plastic battery cases                               │
+    │   ✓ Cover terminals with tape                               │
+    │   ✓ Keep separated from metal objects (keys, coins)         │
+    │   ✓ Carry in carry-on luggage (not checked) for flights     │
+    │   ✓ Use terminal protectors for 9V batteries                │
     │                                                             │
-    │   ✗ Never carry loose in pocket                            │
-    │   ✗ Never carry with keys or coins                         │
-    │   ✗ Never put loose in purse or backpack                    │
-    │   ✗ Never leave in hot car (summer)                        │
+    │   X Never carry loose in pocket                             │
+    │   X Never carry with keys or coins                          │
+    │   X Never put loose in purse or backpack                    │
+    │   X Never leave in hot car (summer)                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
