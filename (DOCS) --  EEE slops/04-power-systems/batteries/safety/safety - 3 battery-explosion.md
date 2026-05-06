@@ -630,12 +630,12 @@ Charger Requirements by Chemistry
     NEVER USE:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Car battery charger on Li-ion (overvoltage)           │
-    │   ✗ NiMH charger on Li-ion (wrong algorithm)              │
-    │   ✗ Li-ion charger on NiMH (overcharge, explosion risk)   │
-    │   ✗ Unregulated "dumb" charger (trusting brand names)     │
-    │   ✗ Chargers from unknown sources (no safety circuits)    │
-    │   ✗ Damaged or modified chargers                           │
+    │   X Car battery charger on Li-ion (overvoltage)             │
+    │   X NiMH charger on Li-ion (wrong algorithm)                │
+    │   X Li-ion charger on NiMH (overcharge, explosion risk)     │
+    │   X Unregulated "dumb" charger (trusting brand names)       │
+    │   X Chargers from unknown sources (no safety circuits)      │
+    │   X Damaged or modified chargers                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -650,13 +650,13 @@ Mechanical Protection
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use battery holders (not loose in device)              │
-    │   ✓ Protect with rigid case or enclosure                   │
-    │   ✓ Use padding (foam, silicone) in enclosures             │
-    │   ✓ Keep away from sharp objects                           │
-    │   ✓ Use proper spacers between cells                      │
-    │   ✓ Insulate exposed terminals (tape, covers)             │
-    │   ✓ Use battery straps or retention clips                  │
+    │   ✓ Use battery holders (not loose in device)               │
+    │   ✓ Protect with rigid case or enclosure                    │
+    │   ✓ Use padding (foam, silicone) in enclosures              │
+    │   ✓ Keep away from sharp objects                            │
+    │   ✓ Use proper spacers between cells                        │
+    │   ✓ Insulate exposed terminals (tape, covers)               │
+    │   ✓ Use battery straps or retention clips                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
