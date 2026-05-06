@@ -17,35 +17,35 @@ THE 10 GOLDEN RULES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. READ THE LABEL                                        │
-    │      Always read battery and device warnings first         │
+    │   1. READ THE LABEL                                         │
+    │      Always read battery and device warnings first          │
     │                                                             │
-    │   2. USE CORRECT BATTERY                                   │
-    │      Never substitute different chemistry or voltage       │
+    │   2. USE CORRECT BATTERY                                    │
+    │      Never substitute different chemistry or voltage        │
     │                                                             │
-    │   3. CHECK POLARITY                                        │
-    │      Verify + and - before connecting                      │
+    │   3. CHECK POLARITY                                         │
+    │      Verify + and - before connecting                       │
     │                                                             │
-    │   4. INSPECT BEFORE USE                                    │
-    │      Look for damage, leaks, swelling, corrosion           │
+    │   4. INSPECT BEFORE USE                                     │
+    │      Look for damage, leaks, swelling, corrosion            │
     │                                                             │
-    │   5. KEEP TERMINALS COVERED                                │
-    │      Prevent short circuits with tape or caps              │
+    │   5. KEEP TERMINALS COVERED                                 │
+    │      Prevent short circuits with tape or caps               │
     │                                                             │
-    │   6. STORE PROPERLY                                        │
-    │      Cool, dry place away from flammables                  │
+    │   6. STORE PROPERLY                                         │
+    │      Cool, dry place away from flammables                   │
     │                                                             │
-    │   7. DON'T MIX BATTERIES                                   │
-    │      Different types, ages, or charge levels               │
+    │   7. DON'T MIX BATTERIES                                    │
+    │      Different types, ages, or charge levels                │
     │                                                             │
-    │   8. USE PROPER CHARGER                                    │
-    │      Correct chemistry, voltage, current                   │
+    │   8. USE PROPER CHARGER                                     │
+    │      Correct chemistry, voltage, current                    │
     │                                                             │
-    │   9. DON'T DAMAGE                                          │
-    │      Never crush, puncture, or incinerate                  │
+    │   9. DON'T DAMAGE                                           │
+    │      Never crush, puncture, or incinerate                   │
     │                                                             │
-    │   10. DISPOSE PROPERLY                                     │
-    │      Recycle – never in regular trash                      │
+    │   10. DISPOSE PROPERLY                                      │
+    │      Recycle – never in regular trash                       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
