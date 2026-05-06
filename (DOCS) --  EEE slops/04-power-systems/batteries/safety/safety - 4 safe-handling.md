@@ -445,15 +445,15 @@ CHARGING RULES BY CHEMISTRY
     NICKEL-BASED (NiMH, NiCd):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use NiMH/NiCd charger OR smart charger with -ΔV       │
-    │   ✓ Charge at 0.5C-1C rate for best life                  │
-    │   ✓ Monitor temperature (stop if >50°C)                   │
-    │   ✓ Trickle charge (C/20) acceptable for NiMH             │
-    │   ✓ Discharge NiCd fully before charging (to avoid memory) │
+    │   ✓ Use NiMH/NiCd charger OR smart charger with -ΔV         │
+    │   ✓ Charge at 0.5C-1C rate for best life                    │
+    │   ✓ Monitor temperature (stop if >50°C)                     │
+    │   ✓ Trickle charge (C/20) acceptable for NiMH               │
+    │   ✓ Discharge NiCd fully before charging (to avoid memory)  │
     │                                                             │
-    │   ✗ Never overcharge (causes heat, venting)                │
-    │   ✗ Never use Li-ion charger on NiMH (overcharge)          │
-    │   ✗ Never mix charged and discharged cells                 │
+    │   X Never overcharge (causes heat, venting)                 │
+    │   X Never use Li-ion charger on NiMH (overcharge)           │
+    │   X Never mix charged and discharged cells                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
