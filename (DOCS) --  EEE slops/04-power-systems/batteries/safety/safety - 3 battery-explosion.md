@@ -814,13 +814,13 @@ BURN TREATMENT
     Inhalation (Smoke/Fumes):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. Move to fresh air immediately                         │
-    │   2. Seek medical attention                                │
-    │   3. Give oxygen if available and trained                  │
-    │   4. Monitor for breathing difficulty                      │
+    │   1. Move to fresh air immediately                          │
+    │   2. Seek medical attention                                 │
+    │   3. Give oxygen if available and trained                   │
+    │   4. Monitor for breathing difficulty                       │
     │                                                             │
-    │   Li-ion smoke contains HF acid (lung damage risk)         │
-    │   Lead-acid smoke contains lead (poisoning risk)           │
+    │   Li-ion smoke contains HF acid (lung damage risk)          │
+    │   Lead-acid smoke contains lead (poisoning risk)            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -834,19 +834,19 @@ SAFE CLEANUP PROCEDURE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   PPE Required:                                             │
-    │   ├── N95 or P100 respirator                               │
-    │   ├── Safety goggles (sealed)                              │
-    │   ├── Chemical-resistant gloves (nitrile)                  │
-    │   ├── Long sleeves and pants                               │
-    │   └── Closed-toe shoes                                     │
+    │   ├── N95 or P100 respirator                                │
+    │   ├── Safety goggles (sealed)                               │
+    │   ├── Chemical-resistant gloves (nitrile)                   │
+    │   ├── Long sleeves and pants                                │
+    │   └── Closed-toe shoes                                      │
     │                                                             │
     │   Procedure:                                                │
-    │   1. Ventilate area (fans, open windows)                   │
-    │   2. Pick up large debris with tongs (not hands)           │
-    │   3. Place in sealed metal container with sand             │
-    │   4. Wipe surfaces with damp cloth (dispose as hazardous)  │
-    │   5. Vacuum with HEPA vacuum (if available)                │
-    │   6. Wash hands thoroughly after cleanup                   │
+    │   1. Ventilate area (fans, open windows)                    │
+    │   2. Pick up large debris with tongs (not hands)            │
+    │   3. Place in sealed metal container with sand              │
+    │   4. Wipe surfaces with damp cloth (dispose as hazardous)   │
+    │   5. Vacuum with HEPA vacuum (if available)                 │
+    │   6. Wash hands thoroughly after cleanup                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -855,18 +855,18 @@ SAFE CLEANUP PROCEDURE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   PPE Required:                                             │
-    │   ├── Acid-resistant apron                                 │
-    │   ├── Face shield (not just goggles)                       │
-    │   ├── Acid-resistant gloves (neoprene)                     │
-    │   ├── Rubber boots                                         │
-    │   └── Respirator (for lead dust)                          │
+    │   ├── Acid-resistant apron                                  │
+    │   ├── Face shield (not just goggles)                        │
+    │   ├── Acid-resistant gloves (neoprene)                      │
+    │   ├── Rubber boots                                          │
+    │   └── Respirator (for lead dust)                            │
     │                                                             │
     │   Procedure:                                                │
-    │   1. Ventilate area (hydrogen gas danger)                  │
-    │   2. Neutralize acid with baking soda (sodium bicarbonate) │
-    │      (Sprinkle until fizzing stops)                        │
-    │   3. Wipe up neutralized residue with damp cloth           │
-    │   4. Dispose as hazardous waste                            │
+    │   1. Ventilate area (hydrogen gas danger)                   │
+    │   2. Neutralize acid with baking soda (sodium bicarbonate)  │
+    │      (Sprinkle until fizzing stops)                         │
+    │   3. Wipe up neutralized residue with damp cloth            │
+    │   4. Dispose as hazardous waste                             │
     │   5. Wash area with water                                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
