@@ -252,25 +252,25 @@ CORRECT INSTALLATION PROCEDURE
 
 
     STEP 3: Clean Terminals
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   If corroded:                                             │
+    ┌──────────────────────────────────────────────────────────────┐
+    │                                                              │
+    │   If corroded:                                               │
     │   ├── Alkaline leakage: Clean with vinegar (acid neutralizes)│
-    │   ├── Lead-acid: Clean with baking soda (base neutralizes) │
-    │   ├── NiMH: Clean with isopropyl alcohol                   │
-    │   └── Dry thoroughly before inserting battery              │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
+    │   ├── Lead-acid: Clean with baking soda (base neutralizes)   │
+    │   ├── NiMH: Clean with isopropyl alcohol                     │
+    │   └── Dry thoroughly before inserting battery                │
+    │                                                              │
+    └──────────────────────────────────────────────────────────────┘
 
 
     STEP 4: Insert Correctly
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   DO:                        DON'T:                        │
-    │   ├── Insert straight        ├── Force backwards          │
-    │   ├── Match polarity         ├── Mix old and new           │
-    │   ├── Use correct size       ├── Mix chemistries           │
-    │   └── Close securely         └── Leave compartment open    │
+    │   DO:                        DON'T:                         │
+    │   ├── Insert straight        ├── Force backwards            │
+    │   ├── Match polarity         ├── Mix old and new            │
+    │   ├── Use correct size       ├── Mix chemistries            │
+    │   └── Close securely         └── Leave compartment open     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -278,12 +278,12 @@ CORRECT INSTALLATION PROCEDURE
     STEP 5: Test Device
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Power on device briefly to verify correct operation      │
-    │   If device doesn't work:                                  │
-    │   ├── Remove batteries immediately                         │
-    │   ├── Double-check polarity                               │
-    │   ├── Check for damage                                     │
-    │   └── Test batteries individually                          │
+    │   Power on device briefly to verify correct operation       │
+    │   If device doesn't work:                                   │
+    │   ├── Remove batteries immediately                          │
+    │   ├── Double-check polarity                                 │
+    │   ├── Check for damage                                      │
+    │   └── Test batteries individually                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
