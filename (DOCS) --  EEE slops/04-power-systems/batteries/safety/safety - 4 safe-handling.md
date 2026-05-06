@@ -174,13 +174,13 @@ SAFETY TESTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Chemistry    Normal V    Low (replace)   Overcharged     │
+    │   Chemistry    Normal V    Low (replace)   Overcharged      │
     │   ──────────────────────────────────────────────────────────│
-    │   Alkaline     1.55-1.65V   <1.3V          1.7V+ (rare)    │
-    │   NiMH         1.35-1.45V   <1.2V          1.5V+ (bad)     │
+    │   Alkaline     1.55-1.65V   <1.3V          1.7V+ (rare)     │
+    │   NiMH         1.35-1.45V   <1.2V          1.5V+ (bad)      │
     │   Lead-acid    12.6-12.8V   <12.0V          >14.4V (danger) │
-    │   Li-ion (4.2V) 4.15-4.20V <3.0V           >4.25V (danger) │
-    │   LiFePO₄      3.35-3.40V  <2.8V           >3.65V (danger) │
+    │   Li-ion (4.2V) 4.15-4.20V <3.0V           >4.25V (danger)  │
+    │   LiFePO₄      3.35-3.40V  <2.8V           >3.65V (danger)  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -196,8 +196,8 @@ SAFETY TESTS
     │                                                             │
     │   Measure resistance across terminals (battery disconnected)│
     │                                                             │
-    │   Normal: Infinite (OL) – No short                         │
-    │   Short: 0Ω – DO NOT USE – internal short (explosion risk) │
+    │   Normal: Infinite (OL) – No short                          │
+    │   Short: 0Ω – DO NOT USE – internal short (explosion risk)  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
