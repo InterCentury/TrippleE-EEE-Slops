@@ -900,17 +900,17 @@ Incident Reporting
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Battery explosions may be covered by:                     │
-    │   ├── Homeowner's insurance (fire damage)                  │
-    │   ├── Renter's insurance (personal property)               │
-    │   ├── Product liability (if defective battery)             │
-    │   └── Business insurance (commercial use)                  │
+    │   ├── Homeowner's insurance (fire damage)                   │
+    │   ├── Renter's insurance (personal property)                │
+    │   ├── Product liability (if defective battery)              │
+    │   └── Business insurance (commercial use)                   │
     │                                                             │
     │   Document everything:                                      │
-    │   ├── Photos of damage                                     │
-    │   ├── Serial numbers                                       │
-    │   ├── Receipts (battery, charger)                         │
-    │   ├── Witness statements                                   │
-    │   └── Incident report                                      │
+    │   ├── Photos of damage                                      │
+    │   ├── Serial numbers                                        │
+    │   ├── Receipts (battery, charger)                           │
+    │   ├── Witness statements                                    │
+    │   └── Incident report                                       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
