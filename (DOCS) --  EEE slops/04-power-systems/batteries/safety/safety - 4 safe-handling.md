@@ -323,16 +323,16 @@ MULTI-BATTERY RULES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Problem: Mixing old and new alkaline batteries           │
+    │   Problem: Mixing old and new alkaline batteries            │
     │                                                             │
-    │   New battery: 1.6V, low internal resistance               │
-    │   Old battery: 1.2V, high internal resistance              │
+    │   New battery: 1.6V, low internal resistance                │
+    │   Old battery: 1.2V, high internal resistance               │
     │                                                             │
     │   Result:                                                   │
-    │   ├── Old battery gets reverse charged                     │
-    │   ├── Old battery heats up                                 │
-    │   ├── Old battery leaks (damages device)                   │
-    │   └── Alkaline batteries can explode under reverse charge! │
+    │   ├── Old battery gets reverse charged                      │
+    │   ├── Old battery heats up                                  │
+    │   ├── Old battery leaks (damages device)                    │
+    │   └── Alkaline batteries can explode under reverse charge!  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
