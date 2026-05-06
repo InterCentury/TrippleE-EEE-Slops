@@ -461,17 +461,17 @@ CHARGING RULES BY CHEMISTRY
     ALKALINE (Primary - Non-rechargeable):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   RULE: DO NOT RECHARGE ALKALINE BATTERIES!                │
+    │   RULE: DO NOT RECHARGE ALKALINE BATTERIES!                 │
     │                                                             │
-    │   ✗ Alkaline batteries are NOT designed for recharging     │
-    │   ✗ Attempting to recharge causes:                         │
-    │      ├── Leakage (potassium hydroxide)                     │
-    │      ├── Gas buildup (pressure, swelling)                  │
-    │      ├── Explosion (case rupture)                          │
-    │      └── Fire (in severe cases)                           │
+    │   X Alkaline batteries are NOT designed for recharging      │
+    │   X Attempting to recharge causes:                          │
+    │      ├── Leakage (potassium hydroxide)                      │
+    │      ├── Gas buildup (pressure, swelling)                   │
+    │      ├── Explosion (case rupture)                           │
+    │      └── Fire (in severe cases)                             │
     │                                                             │
-    │   ✓ Dispose of alkaline batteries when depleted            │
-    │   ✓ Use rechargeable (NiMH) if you need rechargeable       │
+    │   ✓ Dispose of alkaline batteries when depleted             │
+    │   ✓ Use rechargeable (NiMH) if you need rechargeable        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
