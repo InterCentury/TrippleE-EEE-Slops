@@ -779,11 +779,11 @@ BURN TREATMENT
     Thermal Burns (Flame, hot surfaces):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. Remove person from heat source                        │
-    │   2. Cool burn with cool (not cold) water for 20 minutes   │
-    │   3. Cover with sterile, non-stick dressing                │
-    │   4. Seek medical attention                                │
-    │   5. DO NOT apply ice, butter, or ointments                │
+    │   1. Remove person from heat source                         │
+    │   2. Cool burn with cool (not cold) water for 20 minutes    │
+    │   3. Cover with sterile, non-stick dressing                 │
+    │   4. Seek medical attention                                 │
+    │   5. DO NOT apply ice, butter, or ointments                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -791,11 +791,11 @@ BURN TREATMENT
     Chemical Burns (Acid, Electrolyte):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. Remove contaminated clothing                          │
-    │   2. Flush with LOTS of water for 20+ minutes              │
-    │   3. DO NOT neutralize (vinegar/baking soda - causes heat) │
-    │   4. Seek immediate medical attention                      │
-    │   5. Continue flushing until help arrives                  │
+    │   1. Remove contaminated clothing                           │
+    │   2. Flush with LOTS of water for 20+ minutes               │
+    │   3. DO NOT neutralize (vinegar/baking soda - causes heat)  │
+    │   4. Seek immediate medical attention                       │
+    │   5. Continue flushing until help arrives                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
