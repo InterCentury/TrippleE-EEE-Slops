@@ -740,10 +740,10 @@ IMMEDIATE ACTIONS (First 30 seconds)
     STEP 1: PROTECT YOURSELF
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Cover mouth and nose (cloth, shirt)                  │
-    │   ├── Turn away from explosion site                        │
-    │   ├── Get to fresh air area                                │
-    │   └── Check for injuries (yourself first)                  │
+    │   ├── Cover mouth and nose (cloth, shirt)                   │
+    │   ├── Turn away from explosion site                         │
+    │   ├── Get to fresh air area                                 │
+    │   └── Check for injuries (yourself first)                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -751,10 +751,10 @@ IMMEDIATE ACTIONS (First 30 seconds)
     STEP 2: EVACUATE AREA
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Leave immediate area (smoke is toxic)                │
-    │   ├── Warn others (shout, pull fire alarm)                 │
-    │   ├── Close doors behind you (contain fire)                │
-    │   └── Call emergency services (911)                        │
+    │   ├── Leave immediate area (smoke is toxic)                 │
+    │   ├── Warn others (shout, pull fire alarm)                  │
+    │   ├── Close doors behind you (contain fire)                 │
+    │   └── Call emergency services (911)                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -762,11 +762,11 @@ IMMEDIATE ACTIONS (First 30 seconds)
     STEP 3: DO NOT
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ DO NOT breathe smoke (extremely toxic)                 │
-    │   ✗ DO NOT touch debris (hot, chemical burns)              │
-    │   ✗ DO NOT use water on Li-ion fire (if burning)           │
-    │   ✗ DO NOT re-enter area for personal items                │
-    │   ✗ DO NOT try to "save" exploding batteries               │
+    │   X DO NOT breathe smoke (extremely toxic)                  │
+    │   X DO NOT touch debris (hot, chemical burns)               │
+    │   X DO NOT use water on Li-ion fire (if burning)            │
+    │   X DO NOT re-enter area for personal items                 │
+    │   X DO NOT try to "save" exploding batteries                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
