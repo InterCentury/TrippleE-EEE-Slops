@@ -880,11 +880,11 @@ BATTERY FIRE RESPONSE
     IMMEDIATE ACTIONS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. EVACUATE the area                                     │
-    │   2. CALL 911 (fire department)                            │
-    │   3. WARN others                                           │
-    │   4. CLOSE doors to contain fire                           │
-    │   5. DO NOT attempt to extinguish yourself (unless trained)│
+    │   1. EVACUATE the area                                      │
+    │   2. CALL 911 (fire department)                             │
+    │   3. WARN others                                            │
+    │   4. CLOSE doors to contain fire                            │
+    │   5. DO NOT attempt to extinguish yourself (unless trained) │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -894,21 +894,21 @@ BATTERY FIRE RESPONSE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Li-ion/LiPo:                                              │
-    │   ├── Class D extinguisher (metal fire) or sand            │
-    │   ├── Water (large amounts for cooling)                    │
-    │   ├── NEVER use Class ABC (ineffective)                    │
-    │   └── Fire may re-ignite – continue cooling                │
+    │   ├── Class D extinguisher (metal fire) or sand             │
+    │   ├── Water (large amounts for cooling)                     │
+    │   ├── NEVER use Class ABC (ineffective)                     │
+    │   └── Fire may re-ignite – continue cooling                 │
     │                                                             │
     │   Lead-Acid:                                                │
-    │   ├── Class B or C extinguisher                            │
-    │   ├── CO₂ or dry chemical                                  │
-    │   ├── Water OK (but risk of acid spread)                   │
-    │   └── Avoid breathing smoke (lead)                         │
+    │   ├── Class B or C extinguisher                             │
+    │   ├── CO₂ or dry chemical                                   │
+    │   ├── Water OK (but risk of acid spread)                    │
+    │   └── Avoid breathing smoke (lead)                          │
     │                                                             │
     │   NiMH/NiCd/Alkaline:                                       │
-    │   ├── Class ABC extinguisher                               │
-    │   ├── Water OK                                             │
-    │   └── Ventilate area (toxic fumes)                         │
+    │   ├── Class ABC extinguisher                                │
+    │   ├── Water OK                                              │
+    │   └── Ventilate area (toxic fumes)                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
