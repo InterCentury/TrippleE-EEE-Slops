@@ -405,20 +405,20 @@ CHARGING RULES BY CHEMISTRY
     LITHIUM-ION (Li-ion, LiPo, LiFePO₄):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use Li-ion charger ONLY (never NiMH or lead-acid)      │
-    │   ✓ Use balance charger for multi-cell packs               │
-    │   ✓ Charge in LiPo safety bag                              │
-    │   ✓ Set correct cell count (2S, 3S, 4S, etc.)             │
-    │   ✓ Monitor temperature (stop if >45°C)                   │
-    │   ✓ Stay nearby (never leave unattended!)                  │
-    │   ✓ Disconnect when fully charged                          │
-    │   ✓ Store at 3.7-3.8V per cell for long term              │
+    │   ✓ Use Li-ion charger ONLY (never NiMH or lead-acid)       │
+    │   ✓ Use balance charger for multi-cell packs                │
+    │   ✓ Charge in LiPo safety bag                               │
+    │   ✓ Set correct cell count (2S, 3S, 4S, etc.)               │
+    │   ✓ Monitor temperature (stop if >45°C)                     │
+    │   ✓ Stay nearby (never leave unattended!)                   │
+    │   ✓ Disconnect when fully charged                           │
+    │   ✓ Store at 3.7-3.8V per cell for long term                │
     │                                                             │
-    │   ✗ Never charge below 0°C (32°F)                         │
-    │   ✗ Never charge damaged or swollen battery               │
-    │   ✗ Never exceed 4.20V per cell (4.2V)                    │
-    │   ✗ Never use "fast charge" unless battery rated          │
-    │   ✗ Never charge unattended overnight                      │
+    │   X Never charge below 0°C (32°F)                           │
+    │   X Never charge damaged or swollen battery                 │
+    │   X Never exceed 4.20V per cell (4.2V)                      │
+    │   X Never use "fast charge" unless battery rated            │
+    │   X Never charge unattended overnight                       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
