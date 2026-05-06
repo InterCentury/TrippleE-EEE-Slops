@@ -718,12 +718,12 @@ Safe Storage and Operation Environment
     Fire Safety:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Charge on:                  NOT on:                      │
-    │   ├── Concrete floor          ├── Carpet                   │
-    │   ├── Ceramic tile            ├── Wood desk                │
-    │   ├── Metal table             ├── Paper                    │
-    │   ├── Fireproof mat           ├── Near curtains            │
-    │   └── LiPo safety bag         └── Near flammables          │
+    │   Charge on:                  NOT on:                       │
+    │   ├── Concrete floor          ├── Carpet                    │
+    │   ├── Ceramic tile            ├── Wood desk                 │
+    │   ├── Metal table             ├── Paper                     │
+    │   ├── Fireproof mat           ├── Near curtains             │
+    │   └── LiPo safety bag         └── Near flammables           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
