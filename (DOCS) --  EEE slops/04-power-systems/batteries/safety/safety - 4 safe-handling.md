@@ -298,10 +298,10 @@ MULTI-BATTERY RULES
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use same brand batteries all positions                 │
-    │   ✓ Use same chemistry (all alkaline, all NiMH, etc.)      │
-    │   ✓ Use same age (all new, or all used equally)            │
-    │   ✓ Use same charge level (for rechargeable)               │
+    │   ✓ Use same brand batteries all positions                  │
+    │   ✓ Use same chemistry (all alkaline, all NiMH, etc.)       │
+    │   ✓ Use same age (all new, or all used equally)             │
+    │   ✓ Use same charge level (for rechargeable)                │
     │   ✓ Replace ALL batteries at same time                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
@@ -310,11 +310,11 @@ MULTI-BATTERY RULES
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Mix alkaline with NiMH (different voltages)            │
-    │   ✗ Mix old and new batteries (old may leak/overheat)      │
-    │   ✗ Mix different brands (different characteristics)       │
-    │   ✗ Mix charged and discharged rechargeables                │
-    │   ✗ Leave one dead battery in device (reverse charging)    │
+    │   X Mix alkaline with NiMH (different voltages)             │
+    │   X Mix old and new batteries (old may leak/overheat)       │
+    │   X Mix different brands (different characteristics)        │
+    │   X Mix charged and discharged rechargeables                │
+    │   X Leave one dead battery in device (reverse charging)     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
