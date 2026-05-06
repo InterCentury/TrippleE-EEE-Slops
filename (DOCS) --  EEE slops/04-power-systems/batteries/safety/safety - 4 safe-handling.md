@@ -736,10 +736,10 @@ TRANSPORTATION RULES
     │   ✓ Transport in ventilated area (lead-acid hydrogen risk)  │
     │   ✓ Follow hazardous material regulations for large packs   │
     │                                                             │
-    │   ✗ Never carry by terminals                                │
-    │   ✗ Never place on its side (flooded lead-acid)             │
-    │   ✗ Never transport damaged battery                         │
-    │   ✗ Never stack heavy batteries                             │
+    │   X Never carry by terminals                                │
+    │   X Never place on its side (flooded lead-acid)             │
+    │   X Never transport damaged battery                         │
+    │   X Never stack heavy batteries                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -754,13 +754,13 @@ AIR TRAVEL RESTRICTIONS (FAA/IATA)
     CARRY-ON ONLY (Never in checked luggage):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Lithium batteries (all types) MUST be carry-on         │
-    │   ✓ Spare batteries (uninstalled) carry-on only            │
-    │   ✓ Power banks carry-on only                              │
-    │   ✓ E-cigarettes/vapes carry-on only                       │
+    │   ✓ Lithium batteries (all types) MUST be carry-on          │
+    │   ✓ Spare batteries (uninstalled) carry-on only             │
+    │   ✓ Power banks carry-on only                               │
+    │   ✓ E-cigarettes/vapes carry-on only                        │
     │                                                             │
-    │   ✗ Lithium batteries in checked luggage = ILLEGAL         │
-    │   (Fire risk in cargo hold – no fire suppression)          │
+    │   X Lithium batteries in checked luggage = ILLEGAL          │
+    │   (Fire risk in cargo hold – no fire suppression)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -770,21 +770,21 @@ AIR TRAVEL RESTRICTIONS (FAA/IATA)
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   ≤100 Wh:                                                  │
-    │   ├── No airline approval needed                           │
-    │   ├── Laptop batteries (typical 50-60Wh)                   │
-    │   ├── Power banks (typical 20-40Wh)                        │
-    │   └── Unlimited quantity (reasonable personal use)         │
+    │   ├── No airline approval needed                            │
+    │   ├── Laptop batteries (typical 50-60Wh)                    │
+    │   ├── Power banks (typical 20-40Wh)                         │
+    │   └── Unlimited quantity (reasonable personal use)          │
     │                                                             │
     │   101-160 Wh:                                               │
-    │   ├── Airline approval required                            │
-    │   ├── Large power tool batteries                           │
-    │   ├── Some e-bike batteries                                │
-    │   └── Maximum 2 spares per passenger                       │
+    │   ├── Airline approval required                             │
+    │   ├── Large power tool batteries                            │
+    │   ├── Some e-bike batteries                                 │
+    │   └── Maximum 2 spares per passenger                        │
     │                                                             │
     │   >160 Wh:                                                  │
-    │   ├── NOT allowed on passenger aircraft                    │
-    │   ├── Cargo only (special regulations)                     │
-    │   └── Must ship as dangerous goods                         │
+    │   ├── NOT allowed on passenger aircraft                     │
+    │   ├── Cargo only (special regulations)                      │
+    │   └── Must ship as dangerous goods                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -793,12 +793,12 @@ AIR TRAVEL RESTRICTIONS (FAA/IATA)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Tape over terminals (prevent shorts)                   │
-    │   ✓ Place each battery in individual plastic bag           │
-    │   ✓ Use original packaging if available                    │
-    │   ✓ Keep batteries at 30% charge for travel                │
-    │   ✓ Declare batteries at security (if asked)               │
-    │   ✓ Know watt-hour rating (marked on battery)              │
+    │   ✓ Tape over terminals (prevent shorts)                    │
+    │   ✓ Place each battery in individual plastic bag            │
+    │   ✓ Use original packaging if available                     │
+    │   ✓ Keep batteries at 30% charge for travel                 │
+    │   ✓ Declare batteries at security (if asked)                │
+    │   ✓ Know watt-hour rating (marked on battery)               │
     │                                                             │    └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -815,9 +815,9 @@ LEAK RESPONSE PROCEDURE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Put on:                                                   │
-    │   ├── Nitrile or rubber gloves                             │
-    │   ├── Safety goggles                                       │
-    │   └── Old clothes (discard if contaminated)                │
+    │   ├── Nitrile or rubber gloves                              │
+    │   ├── Safety goggles                                        │
+    │   └── Old clothes (discard if contaminated)                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -825,10 +825,10 @@ LEAK RESPONSE PROCEDURE
     STEP 2: MOVE TO SAFE AREA
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Move leaking battery to well-ventilated area         │
-    │   ├── Away from other batteries                            │
-    │   ├── Away from flammables                                 │
-    │   └── Away from children/pets                              │
+    │   ├── Move leaking battery to well-ventilated area          │
+    │   ├── Away from other batteries                             │
+    │   ├── Away from flammables                                  │
+    │   └── Away from children/pets                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -837,25 +837,25 @@ LEAK RESPONSE PROCEDURE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Alkaline / NiMH (Potassium hydroxide):                   │
-    │   ├── Neutralize with vinegar (acetic acid)                │
-    │   ├── Wipe up with paper towels                            │
-    │   ├── Dispose in sealed plastic bag                       │
-    │   └── Wash area with water                                 │
+    │   Alkaline / NiMH (Potassium hydroxide):                    │
+    │   ├── Neutralize with vinegar (acetic acid)                 │
+    │   ├── Wipe up with paper towels                             │
+    │   ├── Dispose in sealed plastic bag                         │
+    │   └── Wash area with water                                  │
     │                                                             │
-    │   Lead-Acid (Sulfuric acid):                               │
-    │   ├── Neutralize with baking soda (sodium bicarbonate)     │
-    │   ├── Sprinkle until fizzing stops                         │
-    │   ├── Wipe up neutralized residue                          │
-    │   ├── Rinse with water                                    │
-    │   └── Dispose as hazardous waste                          │
+    │   Lead-Acid (Sulfuric acid):                                │
+    │   ├── Neutralize with baking soda (sodium bicarbonate)      │
+    │   ├── Sprinkle until fizzing stops                          │
+    │   ├── Wipe up neutralized residue                           │
+    │   ├── Rinse with water                                      │
+    │   └── Dispose as hazardous waste                            │
     │                                                             │
-    │   Li-ion (Organic electrolyte):                            │
-    │   ├── DO NOT neutralize (unknown chemistry)                │
-    │   ├── Absorb with paper towels                             │
-    │   ├── Place in sealed bag (hazardous waste)                │
-    │   ├── Ventilate area (vapors are toxic)                    │
-    │   └── Call hazardous waste disposal                        │
+    │   Li-ion (Organic electrolyte):                             │
+    │   ├── DO NOT neutralize (unknown chemistry)                 │
+    │   ├── Absorb with paper towels                              │
+    │   ├── Place in sealed bag (hazardous waste)                 │
+    │   ├── Ventilate area (vapors are toxic)                     │
+    │   └── Call hazardous waste disposal                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -863,11 +863,11 @@ LEAK RESPONSE PROCEDURE
     STEP 4: DECONTAMINATE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Dispose of contaminated materials in sealed bag     │
-    │   ├── Wash hands thoroughly                                │
-    │   ├── Wash contaminated clothing separately               │
-    │   ├── Clean work area with water and mild soap             │
-    │   └── Dispose of cleanup materials as hazardous waste      │
+    │   ├── Dispose of contaminated materials in sealed bag       │
+    │   ├── Wash hands thoroughly                                 │
+    │   ├── Wash contaminated clothing separately                 │
+    │   ├── Clean work area with water and mild soap              │
+    │   └── Dispose of cleanup materials as hazardous waste       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
