@@ -259,17 +259,17 @@ DAMAGE-INDUCED EXPLOSION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Physical deformation → separator crushed/punctured       │
-    │   → Anode and cathode touch → internal short               │
-    │   → Localized heating (can be instantaneous)               │
-    │   → Electrolyte boils (pressure)                          │
-    │   → Case ruptures (explosion)                              │
-    │   → Thermal runaway (Li-ion)                              │
+    │   Physical deformation → separator crushed/punctured        │
+    │   → Anode and cathode touch → internal short                │
+    │   → Localized heating (can be instantaneous)                │
+    │   → Electrolyte boils (pressure)                            │
+    │   → Case ruptures (explosion)                               │
+    │   → Thermal runaway (Li-ion)                                │
     │                                                             │
-    │   Time from damage to explosion:                           │
-    │   ├── Seconds (if separator ruptures completely)           │
-    │   ├── Minutes (if minor damage, heat builds)               │
-    │   └── Hours (slow gas buildup, delayed explosion)          │
+    │   Time from damage to explosion:                            │
+    │   ├── Seconds (if separator ruptures completely)            │
+    │   ├── Minutes (if minor damage, heat builds)                │
+    │   └── Hours (slow gas buildup, delayed explosion)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
