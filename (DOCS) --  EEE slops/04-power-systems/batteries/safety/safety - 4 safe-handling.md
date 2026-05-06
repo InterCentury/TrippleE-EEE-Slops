@@ -426,18 +426,18 @@ CHARGING RULES BY CHEMISTRY
     LEAD-ACID:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use lead-acid charger ONLY                             │
-    │   ✓ Charge in well-ventilated area (hydrogen gas!)         │
-    │   ✓ Use charger with temperature compensation              │
-    │   ✓ Use multi-stage charger (bulk, absorption, float)      │
-    │   ✓ Check electrolyte level (flooded type)                 │
-    │   ✓ Use distilled water only (never tap)                   │
-    │   ✓ Keep sparks and flames away (explosion risk)           │
+    │   ✓ Use lead-acid charger ONLY                              │
+    │   ✓ Charge in well-ventilated area (hydrogen gas!)          │
+    │   ✓ Use charger with temperature compensation               │
+    │   ✓ Use multi-stage charger (bulk, absorption, float)       │
+    │   ✓ Check electrolyte level (flooded type)                  │
+    │   ✓ Use distilled water only (never tap)                    │
+    │   ✓ Keep sparks and flames away (explosion risk)            │
     │                                                             │
-    │   ✗ Never charge frozen battery (explosion risk)           │
-    │   ✗ Never charge in sealed enclosure                       │
-    │   ✗ Never exceed 14.4V for 12V battery (gassing)          │
-    │   ✗ Never charge with damaged case (acid leak risk)       │
+    │   X Never charge frozen battery (explosion risk)            │
+    │   X Never charge in sealed enclosure                        │
+    │   X Never exceed 14.4V for 12V battery (gassing)            │
+    │   X Never charge with damaged case (acid leak risk)         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
