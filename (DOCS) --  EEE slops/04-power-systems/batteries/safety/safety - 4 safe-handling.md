@@ -922,15 +922,15 @@ END-OF-LIFE INDICATORS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   SIGNAL                     ACTION                        │
+    │   SIGNAL                     ACTION                         │
     │   ──────────────────────────────────────────────────────────│
-    │   Swollen (Li-ion)           IMMEDIATE disposal (danger!)  │
-    │   Cracked case               Dispose safely                │
-    │   Leaking                    Dispose with PPE              │
-    │   Reduced capacity (<80%)    Recycle (still safe)          │
-    │   Overheated during charging  Recycle (unreliable)         │
-    │   Physical damage            Recycle (unsafe)              │
-    │   Expired (alkaline)         Recycle (may leak)            │
+    │   Swollen (Li-ion)           IMMEDIATE disposal (danger!)   │
+    │   Cracked case               Dispose safely                 │
+    │   Leaking                    Dispose with PPE               │
+    │   Reduced capacity (<80%)    Recycle (still safe)           │
+    │   Overheated during charging  Recycle (unreliable)          │
+    │   Physical damage            Recycle (unsafe)               │
+    │   Expired (alkaline)         Recycle (may leak)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -942,28 +942,28 @@ DISPOSAL BY CHEMISTRY
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Householder Alkaline (modern, no added mercury):         │
-    │   ├── Check local regulations (many areas allow trash)     │
-    │   ├── RECOMMENDED: Recycle at battery drop-off            │
-    │   └── Tape terminals to prevent short                     │
+    │   Householder Alkaline (modern, no added mercury):          │
+    │   ├── Check local regulations (many areas allow trash)      │
+    │   ├── RECOMMENDED: Recycle at battery drop-off              │
+    │   └── Tape terminals to prevent short                       │
     │                                                             │
-    │   Lithium (Li-ion, LiPo, primary):                         │
-    │   ├── MUST recycle – never trash                          │
-    │   ├── Tape terminals                                      │
-    │   ├── Take to recycling center                            │
-    │   └── Call2Recycle (US/Canada) free recycling             │
+    │   Lithium (Li-ion, LiPo, primary):                          │
+    │   ├── MUST recycle – never trash                            │
+    │   ├── Tape terminals                                        │
+    │   ├── Take to recycling center                              │
+    │   └── Call2Recycle (US/Canada) free recycling               │
     │                                                             │
     │   Lead-Acid:                                                │
-    │   ├── MUST recycle (hazardous waste)                       │
-    │   ├── Many auto parts stores accept                        │
-    │   ├── Scrap yards pay for them ($5-15 each)               │
-    │   └── Must have intact case (no leaking)                  │
+    │   ├── MUST recycle (hazardous waste)                        │
+    │   ├── Many auto parts stores accept                         │
+    │   ├── Scrap yards pay for them ($5-15 each)                 │
+    │   └── Must have intact case (no leaking)                    │
     │                                                             │
-    │   NiMH / NiCd:                                             │
-    │   ├── MUST recycle (NiCd hazardous waste)                  │
-    │   ├── NiCd has cadmium (toxic) – never trash              │
-    │   ├── NiMH less toxic, still recycle                      │
-    │   └── Call2Recycle or local battery recycler              │
+    │   NiMH / NiCd:                                              │
+    │   ├── MUST recycle (NiCd hazardous waste)                   │
+    │   ├── NiCd has cadmium (toxic) – never trash                │
+    │   ├── NiMH less toxic, still recycle                        │
+    │   └── Call2Recycle or local battery recycler                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -972,25 +972,25 @@ DISPOSAL BY CHEMISTRY
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   US:                                                        │
-    │   ├── Call2Recycle (call2recycle.org) – 800-822-8837       │
-    │   ├── Best Buy                                             │
-    │   ├── Home Depot                                           │
-    │   ├── Lowe's                                               │
-    │   ├── Staples                                              │
-    │   ├── Local hazardous waste facility                       │
-    │   └── Some municipal recycling centers                     │
+    │   US:                                                       │
+    │   ├── Call2Recycle (call2recycle.org) – 800-822-8837        │
+    │   ├── Best Buy                                              │
+    │   ├── Home Depot                                            │
+    │   ├── Lowe's                                                │
+    │   ├── Staples                                               │
+    │   ├── Local hazardous waste facility                        │
+    │   └── Some municipal recycling centers                      │
     │                                                             │
     │   Canada:                                                   │
-    │   ├── Call2Recycle (similar program)                       │
-    │   ├── Best Buy                                             │
-    │   ├── The Home Depot                                       │
-    │   └── Local battery shops                                  │
+    │   ├── Call2Recycle (similar program)                        │
+    │   ├── Best Buy                                              │
+    │   ├── The Home Depot                                        │
+    │   └── Local battery shops                                   │
     │                                                             │
     │   UK/Europe:                                                │
-    │   ├── Local battery recycling bins                         │
-    │   ├── Supermarkets (many have collection)                  │
-    │   └── Council recycling centers                            │
+    │   ├── Local battery recycling bins                          │
+    │   ├── Supermarkets (many have collection)                   │
+    │   └── Council recycling centers                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -1004,16 +1004,16 @@ WORK AREA REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Clean, dry, well-lit work area                         │
-    │   ✓ Non-conductive work surface (plastic, wood, rubber)    │
-    │   ✓ No food or drink nearby                                │
-    │   ✓ Accessible fire extinguisher                           │
-    │   ✓ Good ventilation                                       │
-    │   ✓ Insulated tools (for high voltage)                     │
-    │   ✓ Safety glasses available                               │
-    │   ✓ Baking soda (for acid spills)                          │
-    │   ✓ Sand (for Li-ion fires)                                │
-    │   ✓ Gloves (nitrile, rubber)                               │
+    │   ✓ Clean, dry, well-lit work area                          │
+    │   ✓ Non-conductive work surface (plastic, wood, rubber)     │
+    │   ✓ No food or drink nearby                                 │
+    │   ✓ Accessible fire extinguisher                            │
+    │   ✓ Good ventilation                                        │
+    │   ✓ Insulated tools (for high voltage)                      │
+    │   ✓ Safety glasses available                                │
+    │   ✓ Baking soda (for acid spills)                           │
+    │   ✓ Sand (for Li-ion fires)                                 │
+    │   ✓ Gloves (nitrile, rubber)                                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -1022,13 +1022,13 @@ WORK AREA REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Multimeter (for voltage testing)                       │
-    │   ✓ Plastic or nylon tools (when possible)                 │
-    │   ✓ Insulated screwdrivers (for high voltage)              │
-    │   ✓ Wire cutters/strippers                                 │
-    │   ✓ Heat shrink tubing (insulate connections)              │
-    │   ✓ Battery holder (for testing)                           │
-    │   ✓ Infrared thermometer (for checking temperature)        │
+    │   ✓ Multimeter (for voltage testing)                        │
+    │   ✓ Plastic or nylon tools (when possible)                  │
+    │   ✓ Insulated screwdrivers (for high voltage)               │
+    │   ✓ Wire cutters/strippers                                  │
+    │   ✓ Heat shrink tubing (insulate connections)               │
+    │   ✓ Battery holder (for testing)                            │
+    │   ✓ Infrared thermometer (for checking temperature)         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
