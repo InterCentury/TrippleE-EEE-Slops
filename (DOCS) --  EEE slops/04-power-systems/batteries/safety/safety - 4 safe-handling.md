@@ -488,17 +488,17 @@ CHARGING SUPERVISION GUIDELINES
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   GOOD (acceptable):                                        │
-    │   ├── Charging while in same room, visible                 │
-    │   ├── Checking every 5-10 minutes                          │
-    │   ├── Within earshot of alarm                              │
-    │   └── Capable of responding immediately                    │
+    │   ├── Charging while in same room, visible                  │
+    │   ├── Checking every 5-10 minutes                           │
+    │   ├── Within earshot of alarm                               │
+    │   └── Capable of responding immediately                     │
     │                                                             │
-    │   BAD (unattended):                                        │
-    │   ├── Charging overnight while sleeping                    │
-    │   ├── Charging while at work                               │
-    │   ├── Charging in another room                             │
-    │   ├── Charging in garage while in house                    │
-    │   └── Charging while running errands                       │
+    │   BAD (unattended):                                         │
+    │   ├── Charging overnight while sleeping                     │
+    │   ├── Charging while at work                                │
+    │   ├── Charging in another room                              │
+    │   ├── Charging in garage while in house                     │
+    │   └── Charging while running errands                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -508,12 +508,12 @@ CHARGING SUPERVISION GUIDELINES
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Every charge session:                                     │
-    │   ☐ Check battery temperature every 10 minutes             │
-    │   ☐ Listen for hissing or unusual sounds                   │
-    │   ☐ Smell for unusual odors (sweet, rotten eggs)           │
-    │   ☐ Look for swelling (Li-ion)                             │
-    │   ☐ Verify charger status light (should change)            │
-    │   ☐ Unplug immediately after charge completes              │
+    │   ☐ Check battery temperature every 10 minutes              │
+    │   ☐ Listen for hissing or unusual sounds                    │
+    │   ☐ Smell for unusual odors (sweet, rotten eggs)            │
+    │   ☐ Look for swelling (Li-ion)                              │
+    │   ☐ Verify charger status light (should change)             │
+    │   ☐ Unplug immediately after charge completes               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -524,12 +524,12 @@ CHARGING SUPERVISION GUIDELINES
     │                                                             │
     │   Use external timer as backup:                             │
     │                                                             │
-    │   Outlet ──► Timer ──► Charger ──► Battery                 │
+    │   Outlet ──► Timer ──► Charger ──► Battery                  │
     │                                                             │
     │   Set timer for:                                            │
-    │   ├── Normal charge time + 20% safety margin               │
-    │   ├── Example: 2 hour charge → set timer to 2.5 hours     │
-    │   └── Timer cuts power even if charger fails to stop       │
+    │   ├── Normal charge time + 20% safety margin                │
+    │   ├── Example: 2 hour charge → set timer to 2.5 hours       │
+    │   └── Timer cuts power even if charger fails to stop        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
