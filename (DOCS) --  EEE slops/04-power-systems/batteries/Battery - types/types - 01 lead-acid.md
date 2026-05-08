@@ -151,12 +151,12 @@ FLOODED LEAD-ACID BATTERY
     MAINTENANCE REQUIREMENTS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Check electrolyte level monthly                        │
-    │   ✓ Add distilled water only (never tap water!)            │
-    │   ✓ Keep plates submerged (replace if exposed)             │
-    │   ✓ Clean terminals and case                              │
-    │   ✓ Equalization charge monthly (some types)              │
-    │   ✓ Specific gravity check with hydrometer                │
+    │   ✓ Check electrolyte level monthly                         │
+    │   ✓ Add distilled water only (never tap water!)             │
+    │   ✓ Keep plates submerged (replace if exposed)              │
+    │   ✓ Clean terminals and case                                │
+    │   ✓ Equalization charge monthly (some types)                │
+    │   ✓ Specific gravity check with hydrometer                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
