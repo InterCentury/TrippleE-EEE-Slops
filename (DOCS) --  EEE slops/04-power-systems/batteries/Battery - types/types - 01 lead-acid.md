@@ -715,11 +715,11 @@ MARINE/RV BATTERY REQUIREMENTS
     │                                                             │
     │   Marine/RV applications:                                   │
     │                                                             │
-    │   ├── Starting (engine) + house loads (lights, fridge)     │
-    │   ├── Often use dual-purpose or separate banks             │
-    │   ├── Vibration resistant construction required            │
-    │   ├── Sealed (AGM) preferred for safety (no spill)         │
-    │   └── Deep cycle for house bank, starting for engine       │
+    │   ├── Starting (engine) + house loads (lights, fridge)      │
+    │   ├── Often use dual-purpose or separate banks              │
+    │   ├── Vibration resistant construction required             │
+    │   ├── Sealed (AGM) preferred for safety (no spill)          │
+    │   └── Deep cycle for house bank, starting for engine        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
