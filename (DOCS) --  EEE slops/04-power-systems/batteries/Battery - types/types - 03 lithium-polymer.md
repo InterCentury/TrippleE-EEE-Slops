@@ -18,11 +18,11 @@ LITHIUM POLYMER CLARIFICATION
     TRUE LITHIUM POLYMER (Chemistry):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Uses solid or gel polymer electrolyte                    │
-    │   No liquid electrolyte                                      │
-    │   More stable than liquid Li-ion                           │
-    │   Lower ionic conductivity (historically)                  │
-    │   True LiPo is rare today                                  │
+    │   Uses solid or gel polymer electrolyte                     │
+    │   No liquid electrolyte                                     │
+    │   More stable than liquid Li-ion                            │
+    │   Lower ionic conductivity (historically)                   │
+    │   True LiPo is rare today                                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
