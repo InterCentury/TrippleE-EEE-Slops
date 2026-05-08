@@ -418,14 +418,14 @@ LIPO CONNECTOR GUIDE
     JST (Small cells):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌───┐                                                   │
-    │   │   │ 2-pin                                             │
-    │   │   │ 2.5mm pitch                                       │
-    │   └───┘                                                   │
+    │   ┌───┐                                                     │
+    │   │   │ 2-pin                                               │
+    │   │   │ 2.5mm pitch                                         │
+    │   └───┘                                                     │
     │                                                             │
-    │   Current: 2-5A                                           │
-    │   Use: 1-2S small batteries (150-1000mAh)                 │
-    │   Example: Tiny whoop, small RC, micro drones             │
+    │   Current: 2-5A                                             │
+    │   Use: 1-2S small batteries (150-1000mAh)                   │
+    │   Example: Tiny whoop, small RC, micro drones               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -433,13 +433,13 @@ LIPO CONNECTOR GUIDE
     Micro Losi (Walkera):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌───┐                                                   │
-    │   │   │ 2-pin                                             │
-    │   │   │ 2.0mm pitch                                       │
-    │   └───┘                                                   │
+    │   ┌───┐                                                     │
+    │   │   │ 2-pin                                               │
+    │   │   │ 2.0mm pitch                                         │
+    │   └───┘                                                     │
     │                                                             │
-    │   Current: 3-8A                                           │
-    │   Use: Small drones, micro RC                              │
+    │   Current: 3-8A                                             │
+    │   Use: Small drones, micro RC                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -447,14 +447,14 @@ LIPO CONNECTOR GUIDE
     JST-PH (Balance connectors):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌───┬───┬───┐                                           │
-    │   │   │   │   │ 2-7 pin (cell count +1)                   │
-    │   │   │   │   │ 2.0mm pitch                               │
-    │   └───┴───┴───┘                                           │
+    │   ┌───┬───┬───┐                                             │
+    │   │   │   │   │ 2-7 pin (cell count +1)                     │
+    │   │   │   │   │ 2.0mm pitch                                 │
+    │   └───┴───┴───┘                                             │
     │                                                             │
-    │   Current: 2-3A (signal only)                              │
-    │   Use: Balance charging (all multi-cell LiPo)              │
-    │   Pin count = cells + 1 (3S needs 4 pins)                 │
+    │   Current: 2-3A (signal only)                               │
+    │   Use: Balance charging (all multi-cell LiPo)               │
+    │   Pin count = cells + 1 (3S needs 4 pins)                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -462,14 +462,14 @@ LIPO CONNECTOR GUIDE
     XT30 (Medium power):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌─┐   ┌─┐                                               │
-    │   │ │   │ │ 2-pin (yellow housing)                        │
-    │   │ │   │ │ 30A continuous                                │
-    │   └─┘   └─┘                                               │
+    │   ┌─┐   ┌─┐                                                 │
+    │   │ │   │ │ 2-pin (yellow housing)                          │
+    │   │ │   │ │ 30A continuous                                  │
+    │   └─┘   └─┘                                                 │
     │                                                             │
-    │   Current: 30A continuous, 45A burst                      │
-    │   Use: 2-4S packs 1000-2000mAh                            │
-    │   Example: 3S 1500mAh drone                               │
+    │   Current: 30A continuous, 45A burst                        │
+    │   Use: 2-4S packs 1000-2000mAh                              │
+    │   Example: 3S 1500mAh drone                                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -477,14 +477,14 @@ LIPO CONNECTOR GUIDE
     XT60 (Standard):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌─┐   ┌─┐                                               │
-    │   │ │   │ │ 2-pin (yellow housing)                        │
-    │   │ │   │ │ 60A continuous                                │
-    │   └─┘   └─┘                                               │
+    │   ┌─┐   ┌─┐                                                 │
+    │   │ │   │ │ 2-pin (yellow housing)                          │
+    │   │ │   │ │ 60A continuous                                  │
+    │   └─┘   └─┘                                                 │
     │                                                             │
-    │   Current: 60A continuous, 90A burst                       │
-    │   Use: 3-6S packs 1300-5000mAh (MOST COMMON)              │
-    │   Example: 6S 5000mAh drone, RC car, plane                │
+    │   Current: 60A continuous, 90A burst                        │
+    │   Use: 3-6S packs 1300-5000mAh (MOST COMMON)                │
+    │   Example: 6S 5000mAh drone, RC car, plane                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -492,14 +492,14 @@ LIPO CONNECTOR GUIDE
     XT90 (High power):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌─┐   ┌─┐                                               │
-    │   │ │   │ │ 2-pin (yellow housing)                        │
-    │   │ │   │ │ 90A continuous                                │
-    │   └─┘   └─┘                                               │
+    │   ┌─┐   ┌─┐                                                 │
+    │   │ │   │ │ 2-pin (yellow housing)                          │
+    │   │ │   │ │ 90A continuous                                  │
+    │   └─┘   └─┘                                                 │
     │                                                             │
-    │   Current: 90A continuous, 140A burst                      │
-    │   Use: 6-12S large packs 5000-20000mAh                    │
-    │   Example: Large drone, e-bike, e-skateboard              │
+    │   Current: 90A continuous, 140A burst                       │
+    │   Use: 6-12S large packs 5000-20000mAh                      │
+    │   Example: Large drone, e-bike, e-skateboard                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -507,13 +507,13 @@ LIPO CONNECTOR GUIDE
     EC5 (High power alternative):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌─┐   ┌─┐                                               │
-    │   │~│   │~│ 2-pin (circular)                              │
-    │   │~│   │~│ 60-120A                                       │
-    │   └─┘   └─┘                                               │
+    │   ┌─┐   ┌─┐                                                 │
+    │   │~│   │~│ 2-pin (circular)                                │
+    │   │~│   │~│ 60-120A                                         │
+    │   └─┘   └─┘                                                 │
     │                                                             │
-    │   Current: 60-120A                                        │
-    │   Use: High power RC, planes, large drones                │
+    │   Current: 60-120A                                          │
+    │   Use: High power RC, planes, large drones                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -521,14 +521,14 @@ LIPO CONNECTOR GUIDE
     Deans / T-Connector:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ┌─┐                                                      │
-    │   │ └─┐   2-pin (T-shaped)                                │
-    │   └─┐ │   50-60A                                          │
-    │     │ │                                                   │
-    │     └─┘                                                   │
+    │   ┌─┐                                                       │
+    │   │ └─┐   2-pin (T-shaped)                                  │
+    │   └─┐ │   50-60A                                            │
+    │     │ │                                                     │
+    │     └─┘                                                     │
     │                                                             │
-    │   Current: 50-60A                                         │
-    │   Use: Older RC equipment (phasing out for XT)            │
+    │   Current: 50-60A                                           │
+    │   Use: Older RC equipment (phasing out for XT)              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
