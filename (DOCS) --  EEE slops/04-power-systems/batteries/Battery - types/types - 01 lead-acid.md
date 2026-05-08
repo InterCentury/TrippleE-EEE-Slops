@@ -172,8 +172,8 @@ SEALED LEAD-ACID (VRLA) BATTERY
     │                                                             │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │  ████████████████████████████████████████████████   │   │
-    │   │  ██         SLA / VRLA Battery               ██   │   │
-    │   │  ██      (Sealed Lead-Acid)                 ██   │   │
+    │   │  ██         SLA / VRLA Battery                 ██   │   │
+    │   │  ██      (Sealed Lead-Acid)                    ██   │   │
     │   │  ████████████████████████████████████████████████   │   │
     │   │                                                     │   │
     │   │   ┌─────────────────────────────────────────────┐   │   │
@@ -181,8 +181,8 @@ SEALED LEAD-ACID (VRLA) BATTERY
     │   │   │   No vent caps (sealed case)                │   │   │
     │   │   │                                             │   │   │
     │   │   │   Immobilized electrolyte:                  │   │   │
-    │   │   │   ├── AGM: Absorbed Glass Mat              │   │   │
-    │   │   │   └── Gel: Silica-thickened electrolyte    │   │   │
+    │   │   │   ├── AGM: Absorbed Glass Mat               │   │   │
+    │   │   │   └── Gel: Silica-thickened electrolyte     │   │   │
     │   │   │                                             │   │   │
     │   │   └─────────────────────────────────────────────┘   │   │
     │   │                                                     │   │
