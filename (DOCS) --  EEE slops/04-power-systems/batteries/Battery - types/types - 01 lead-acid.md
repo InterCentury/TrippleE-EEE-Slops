@@ -18,11 +18,11 @@ LEAD-ACID BATTERY CHEMISTRY
     DISCHARGE REACTION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Pb (lead)  +  PbO₂ (lead dioxide)  +  2H₂SO₄ (sulfuric)  │
+    │   Pb (lead)  +  PbO₂ (lead dioxide)  +  2H₂SO₄ (sulfuric)   │
     │                                                             │
     │                       ↓ (discharge)                         │
     │                                                             │
-    │           2PbSO₄ (lead sulfate)  +  2H₂O (water)           │
+    │           2PbSO₄ (lead sulfate)  +  2H₂O (water)            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -30,11 +30,11 @@ LEAD-ACID BATTERY CHEMISTRY
     CHARGE REACTION (reverse):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   2PbSO₄ (lead sulfate)  +  2H₂O (water)                   │
+    │   2PbSO₄ (lead sulfate)  +  2H₂O (water)                    │
     │                                                             │
     │                       ↑ (charge)                            │
     │                                                             │
-    │   Pb (lead)  +  PbO₂ (lead dioxide)  +  2H₂SO₄ (sulfuric)  │
+    │   Pb (lead)  +  PbO₂ (lead dioxide)  +  2H₂SO₄ (sulfuric)   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -58,15 +58,15 @@ LEAD-ACID BATTERY CROSS-SECTION
     │                                                             │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │  ┌─────────────────────────────────────────────┐    │   │
-    │   │  │             Positive Terminal (+)            │    │   │
+    │   │  │             Positive Terminal (+)           │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
     │   │                                                     │   │
     │   │  ┌─────────────────────────────────────────────┐    │   │
-    │   │  │             Negative Terminal (-)            │    │   │
+    │   │  │             Negative Terminal (-)           │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
     │   │                                                     │   │
     │   │  ████████████████████████████████████████████████   │   │
-    │   │  ██            Plastic Case                  ██   │   │
+    │   │  ██            Plastic Case                    ██   │   │
     │   │  ████████████████████████████████████████████████   │   │
     │   │  ██  ┌─────┐  ┌─────┐  ┌─────┐  ┌─────┐  ██   │   │
     │   │  ██  │ + │  │ - │  │ + │  │ - │  │ + │  ██   │   │
