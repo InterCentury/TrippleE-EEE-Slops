@@ -601,13 +601,13 @@ CAR STARTING BATTERY REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Starting a typical 2.0L gasoline engine:                 │
+    │   Starting a typical 2.0L gasoline engine:                  │
     │                                                             │
-    │   ├── Peak current: 200-400A for 1-2 seconds              │
-    │   ├── Sustained current: 100-200A for 3-5 seconds         │
-    │   ├── Energy used: Only 2-5% of battery capacity          │
-    │   ├── Immediately recharged by alternator                  │
-    │   └── Designed for many shallow cycles (10,000+)           │
+    │   ├── Peak current: 200-400A for 1-2 seconds                │
+    │   ├── Sustained current: 100-200A for 3-5 seconds           │
+    │   ├── Energy used: Only 2-5% of battery capacity            │
+    │   ├── Immediately recharged by alternator                   │
+    │   └── Designed for many shallow cycles (10,000+)            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -641,13 +641,13 @@ UPS BATTERY REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Typical UPS (500VA / 300W):                              │
+    │   Typical UPS (500VA / 300W):                               │
     │                                                             │
-    │   ├── Battery: 1-2 x 12V 7-9Ah SLA (sealed)               │
-    │   ├── Runtime at full load: 5-15 minutes                   │
-    │   ├── Runtime at half load: 15-30 minutes                  │
-    │   ├── Designed to keep you running until generator starts │
-    │   └── Expect 3-5 year life (float service)                │
+    │   ├── Battery: 1-2 x 12V 7-9Ah SLA (sealed)                 │
+    │   ├── Runtime at full load: 5-15 minutes                    │
+    │   ├── Runtime at half load: 15-30 minutes                   │
+    │   ├── Designed to keep you running until generator starts   │
+    │   └── Expect 3-5 year life (float service)                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
