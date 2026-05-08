@@ -290,15 +290,15 @@ STARTING BATTERY (SLI - Starting, Lighting, Ignition)
 
     COMPARISON TABLE:
 
-    Feature                 Starting    Deep Cycle    Dual Purpose
-    ──────────────────────────────────────────────────────────────
-    Plate thickness         Thin        Thick         Medium
-    CCA (Cold Cranking)     High        Low           Medium
-    Reserve capacity        Low         High          Medium
-    Cycle life (deep)       50-100      500-1500      200-400
-    Deep discharge tolerance Poor        Excellent     Good
-    Price                   Low         Higher        Medium
-    Best use                Starting    Trolling      Marine
+    Feature                    Starting    Deep Cycle    Dual Purpose
+    ─────────────────────────────────────────────────────────────────
+    Plate thickness            Thin        Thick         Medium
+    CCA (Cold Cranking)        High        Low           Medium
+    Reserve capacity           Low         High          Medium
+    Cycle life (deep)          50-100      500-1500      200-400
+    Deep discharge tolerance   Poor        Excellent     Good
+    Price                      Low         Higher        Medium
+    Best use                   Starting    Trolling      Marine
 ```
 
 ## Key Specifications
