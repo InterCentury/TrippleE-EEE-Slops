@@ -254,17 +254,17 @@ STARTING BATTERY (SLI - Starting, Lighting, Ignition)
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   DESIGN:                                                   │
-    │   ├── Fewer, thicker plates (more active material)         │
+    │   ├── Fewer, thicker plates (more active material)          │
     │   ├── Higher internal resistance                            │
-    │   ├── Lower peak current, sustained output                 │
-    │   └── Can be discharged to 80% repeatedly                  │
+    │   ├── Lower peak current, sustained output                  │
+    │   └── Can be discharged to 80% repeatedly                   │
     │                                                             │
     │   CHARACTERISTICS:                                          │
-    │   ├── Lower cranking current                               │
-    │   ├── Longer cycle life (500-1500 cycles)                  │
-    │   ├── More tolerant of deep discharge                      │
-    │   ├── Slower charge time                                   │
-    │   └── Use: Golf carts, solar storage, marine trolling, RVs │
+    │   ├── Lower cranking current                                │
+    │   ├── Longer cycle life (500-1500 cycles)                   │
+    │   ├── More tolerant of deep discharge                       │
+    │   ├── Slower charge time                                    │
+    │   └── Use: Golf carts, solar storage, marine trolling, RVs  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -274,16 +274,16 @@ STARTING BATTERY (SLI - Starting, Lighting, Ignition)
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   DESIGN:                                                   │
-    │   ├── Compromise between starting and deep cycle           │
+    │   ├── Compromise between starting and deep cycle            │
     │   ├── Moderate plate thickness                              │
-    │   ├── Moderate CCA and moderate deep cycle capability      │
-    │   └── Jack of both trades, master of neither               │
+    │   ├── Moderate CCA and moderate deep cycle capability       │
+    │   └── Jack of both trades, master of neither                │
     │                                                             │
     │   CHARACTERISTICS:                                          │
-    │   ├── Lower CCA than dedicated starting battery            │
-    │   ├── Lower cycle life than dedicated deep cycle           │
-    │   ├── Acceptable for occasional deep discharge             │
-    │   └── Use: Marine (both starting and trolling), RVs        │
+    │   ├── Lower CCA than dedicated starting battery             │
+    │   ├── Lower cycle life than dedicated deep cycle            │
+    │   ├── Acceptable for occasional deep discharge              │
+    │   └── Use: Marine (both starting and trolling), RVs         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
