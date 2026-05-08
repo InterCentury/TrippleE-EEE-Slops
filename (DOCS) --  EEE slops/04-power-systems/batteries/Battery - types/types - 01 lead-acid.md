@@ -1057,14 +1057,14 @@ END-OF-LIFE INDICATORS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☑ Age >5 years (flooded) or >8 years (AGM/gel)          │
-    │   ☑ Won't hold charge overnight                            │
-    │   ☑ Specific gravity won't rise above 1.200               │
-    │   ☑ Cranks engine slowly (even after full charge)          │
-    │   ☑ Visible case swelling (AGM/gel)                        │
-    │   ☑ Cracked or leaking case                                │
-    │   ☑ Fails load test                                        │
-    │   ☑ Voltage drops below 10V under load                     │
+    │   ☑ Age >5 years (flooded) or >8 years (AGM/gel)            │
+    │   ☑ Won't hold charge overnight                             │
+    │   ☑ Specific gravity won't rise above 1.200                 │
+    │   ☑ Cranks engine slowly (even after full charge)           │
+    │   ☑ Visible case swelling (AGM/gel)                         │
+    │   ☑ Cracked or leaking case                                 │
+    │   ☑ Fails load test                                         │
+    │   ☑ Voltage drops below 10V under load                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
