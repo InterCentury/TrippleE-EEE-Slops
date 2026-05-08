@@ -832,13 +832,13 @@ CHARGING GUIDELINES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   For long-term storage (seasonal vehicles, UPS):          │
+    │   For long-term storage (seasonal vehicles, UPS):           │
     │                                                             │
-    │   ✓ Use "float" or "maintenance" charger                   │
-    │   ✓ Maintains battery at 13.2-13.8V (12V battery)         │
-    │   ✓ Prevents self-discharge and sulfation                  │
-    │   ✓ Can be left connected indefinitely                     │
-    │   ✓ Battery Tender® is popular brand                      │
+    │   ✓ Use "float" or "maintenance" charger                    │
+    │   ✓ Maintains battery at 13.2-13.8V (12V battery)           │
+    │   ✓ Prevents self-discharge and sulfation                   │
+    │   ✓ Can be left connected indefinitely                      │
+    │   ✓ Battery Tender® is popular brand                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
