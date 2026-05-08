@@ -680,13 +680,13 @@ SOLAR BATTERY REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Off-grid solar system (typical cabin):                   │
+    │   Off-grid solar system (typical cabin):                    │
     │                                                             │
-    │   ├── Battery bank: Multiple deep cycle batteries          │
-    │   ├── Daily cycling (discharge at night, charge by day)    │
-    │   ├── Requires true deep cycle design                      │
-    │   ├── Expect 5-10 year life (if properly maintained)       │
-    │   └── Typically 24V or 48V systems (multiple batteries)    │
+    │   ├── Battery bank: Multiple deep cycle batteries           │
+    │   ├── Daily cycling (discharge at night, charge by day)     │
+    │   ├── Requires true deep cycle design                       │
+    │   ├── Expect 5-10 year life (if properly maintained)        │
+    │   └── Typically 24V or 48V systems (multiple batteries)     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
