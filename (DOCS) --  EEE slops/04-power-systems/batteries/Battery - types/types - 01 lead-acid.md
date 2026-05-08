@@ -775,15 +775,15 @@ FLOODED BATTERY MAINTENANCE SCHEDULE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   RULE: Add water AFTER charging, not before!              │
-    │   (Electrolyte expands when charging, can overflow)        │
+    │   RULE: Add water AFTER charging, not before!               │
+    │   (Electrolyte expands when charging, can overflow)         │
     │                                                             │
     │   Procedure:                                                │
-    │   1. Charge battery fully                                  │
-    │   2. Remove vent caps                                      │
-    │   3. Add distilled water to fill ring (not to top)         │
-    │   4. Never use tap water (minerals damage battery)         │
-    │   5. Replace caps securely                                 │
+    │   1. Charge battery fully                                   │
+    │   2. Remove vent caps                                       │
+    │   3. Add distilled water to fill ring (not to top)          │
+    │   4. Never use tap water (minerals damage battery)          │
+    │   5. Replace caps securely                                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
