@@ -807,11 +807,11 @@ CHARGING GUIDELINES
     ALWAYS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use correct lead-acid charger                          │
-    │   ✓ Charge in ventilated area (hydrogen gas!)              │
-    │   ✓ Match charger to battery type (flooded, AGM, gel)     │
-    │   ✓ Use multi-stage charger (bulk, absorption, float)      │
-    │   ✓ Temperature compensate (if charger supports)           │
+    │   ✓ Use correct lead-acid charger                           │
+    │   ✓ Charge in ventilated area (hydrogen gas!)               │
+    │   ✓ Match charger to battery type (flooded, AGM, gel)       │
+    │   ✓ Use multi-stage charger (bulk, absorption, float)       │
+    │   ✓ Temperature compensate (if charger supports)            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
