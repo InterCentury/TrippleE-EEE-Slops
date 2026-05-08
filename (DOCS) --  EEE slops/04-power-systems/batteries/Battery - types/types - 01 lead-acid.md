@@ -503,13 +503,13 @@ SELF-DISCHARGE RATES (at 25°C / 77°F)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Temperature    Self-Discharge Rate (flooded)             │
+    │   Temperature    Self-Discharge Rate (flooded)              │
     │   ──────────────────────────────────────────────────────────│
-    │   0°C (32°F)     2-5% per month                           │
-    │   20°C (68°F)    5-8% per month                           │
-    │   25°C (77°F)    5-15% per month (wide variation)         │
-    │   30°C (86°F)    15-20% per month                         │
-    │   40°C (104°F)   25-30% per month                         │
+    │   0°C (32°F)     2-5% per month                             │
+    │   20°C (68°F)    5-8% per month                             │
+    │   25°C (77°F)    5-15% per month (wide variation)           │
+    │   30°C (86°F)    15-20% per month                           │
+    │   40°C (104°F)   25-30% per month                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
