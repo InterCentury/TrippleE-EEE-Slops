@@ -854,13 +854,13 @@ SULFATION EXPLANATION
     │                                                             │
     │   Normal operation: PbSO₄ crystals are small and reversible │
     │                                                             │
-    │   Sulfation: Large PbSO₄ crystals form (hard to reverse)   │
+    │   Sulfation: Large PbSO₄ crystals form (hard to reverse)    │
     │                                                             │
     │   Causes:                                                   │
-    │   ├── Leaving battery discharged (>24 hours)               │
-    │   ├── Chronic undercharging (short daily trips)            │
-    │   ├── Low electrolyte level                                │
-    │   └── High temperature                                     │
+    │   ├── Leaving battery discharged (>24 hours)                │
+    │   ├── Chronic undercharging (short daily trips)             │
+    │   ├── Low electrolyte level                                 │
+    │   └── High temperature                                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -869,12 +869,12 @@ SULFATION EXPLANATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Keep battery fully charged (especially flooded)        │
-    │   ✓ Recharge immediately after use                         │
-    │   ✓ Use float charger for storage                          │
-    │   ✓ Equalize charge flooded batteries monthly              │
-    │   ✓ Check specific gravity regularly                       │
-    │   ✓ Avoid deep discharges (below 50% if possible)          │
+    │   ✓ Keep battery fully charged (especially flooded)         │
+    │   ✓ Recharge immediately after use                          │
+    │   ✓ Use float charger for storage                           │
+    │   ✓ Equalize charge flooded batteries monthly               │
+    │   ✓ Check specific gravity regularly                        │
+    │   ✓ Avoid deep discharges (below 50% if possible)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
