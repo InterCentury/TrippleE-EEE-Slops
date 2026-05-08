@@ -518,12 +518,12 @@ SELF-DISCHARGE RATES (at 25°C / 77°F)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Store fully charged                                    │
-    │   ✓ Recharge every 3-6 months (flooded)                    │
-    │   ✓ Recharge every 6-12 months (AGM/Gel)                   │
-    │   ✓ Store in cool location (reduce self-discharge)         │
-    │   ✓ Use float charger for long-term storage                │
-    │   ✗ Never store discharged (sulfation damage)              │
+    │   ✓ Store fully charged                                     │
+    │   ✓ Recharge every 3-6 months (flooded)                     │
+    │   ✓ Recharge every 6-12 months (AGM/Gel)                    │
+    │   ✓ Store in cool location (reduce self-discharge)          │
+    │   ✓ Use float charger for long-term storage                 │
+    │   X Never store discharged (sulfation damage)               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
