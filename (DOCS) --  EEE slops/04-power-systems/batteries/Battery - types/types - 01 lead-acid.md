@@ -358,11 +358,11 @@ CAPACITY RATINGS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Higher current = LOWER effective capacity                │
+    │   Higher current = LOWER effective capacity                 │
     │                                                             │
-    │   Discharge Rate    Actual Capacity (100Ah rated)          │
+    │   Discharge Rate    Actual Capacity (100Ah rated)           │
     │   ──────────────────────────────────────────────────────────│
-    │   C/20 (5A)         100Ah (100% of rating)                 │
+    │   C/20 (5A)         100Ah (100% of rating)                  │
     │   C/10 (10A)        95Ah                                    │
     │   C/5 (20A)         85Ah                                    │
     │   C/2 (50A)         65Ah                                    │
@@ -409,7 +409,7 @@ CCA DEFINITION
     Small (1.0-1.6L)         300-400 CCA
     Medium (1.8-2.5L)        400-600 CCA
     Large (3.0-5.0L)         600-800 CCA
-    Diesel                  800-1000+ CCA
+    Diesel                   800-1000+ CCA
     Heavy truck              1000-1500 CCA
 
 
