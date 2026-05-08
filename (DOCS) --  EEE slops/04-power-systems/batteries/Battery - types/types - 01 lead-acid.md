@@ -1073,21 +1073,21 @@ END-OF-LIFE INDICATORS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Lead-acid batteries are the MOST RECYCLED product        │
-    │   (99%+ recycling rate in US)                              │
+    │   Lead-acid batteries are the MOST RECYCLED product         │
+    │   (99%+ recycling rate in US)                               │
     │                                                             │
     │   WHERE TO RECYCLE:                                         │
-    │   ├── Auto parts stores (Advance, AutoZone, O'Reilly)     │
-    │   ├── Walmart (automotive department)                      │
-    │   ├── Scrap metal recyclers (pay $5-15 per battery)       │
-    │   ├── Most car repair shops                               │
-    │   ├── Battery retailers (Interstate Batteries)            │
-    │   └── Hazardous waste facilities                           │
+    │   ├── Auto parts stores (Advance, AutoZone, O'Reilly)       │
+    │   ├── Walmart (automotive department)                       │
+    │   ├── Scrap metal recyclers (pay $5-15 per battery)         │
+    │   ├── Most car repair shops                                 │
+    │   ├── Battery retailers (Interstate Batteries)              │
+    │   └── Hazardous waste facilities                            │
     │                                                             │
-    │   IMPORTANT:                                               │
-    │   ├── Never throw in trash (illegal in most states)       │
-    │   ├── Usually pay "core charge" until recycled            │
-    │   └── New battery purchase includes environmental fee     │
+    │   IMPORTANT:                                                │
+    │   ├── Never throw in trash (illegal in most states)         │
+    │   ├── Usually pay "core charge" until recycled              │
+    │   └── New battery purchase includes environmental fee       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
