@@ -220,30 +220,30 @@ CUSTOM SHAPE CAPABILITIES
     │                                                             │
     │   Possible shapes:                                          │
     │                                                             │
-    │   Rectangular:    ┌─────┐  Most common                     │
-    │                   │     │                                  │
-    │                   └─────┘                                  │
+    │   Rectangular:    ┌─────┐  Most common                      │
+    │                   │     │                                   │
+    │                   └─────┘                                   │
     │                                                             │
-    │   Notched:        ┌─────┐                                  │
-    │                   │  ┌──┘  Fits around components          │
-    │                   │  │                                     │
-    │                   └──┘                                     │
+    │   Notched:        ┌─────┐                                   │
+    │                   │  ┌──┘  Fits around components           │
+    │                   │  │                                      │
+    │                   └──┘                                      │
     │                                                             │
-    │   Tapered:        ┌─────┐                                  │
-    │                   │    \  Wedge shape                      │
-    │                   │     \                                  │
-    │                   └──────┘                                 │
+    │   Tapered:        ┌─────┐                                   │
+    │                   │    \  Wedge shape                       │
+    │                   │     \                                   │
+    │                   └──────┘                                  │
     │                                                             │
-    │   Curved:         (     )  Radiused for curved devices     │
-    │                   (     )                                  │
-    │                    ‾‾‾‾‾                                   │
+    │   Curved:         (     )  Radiused for curved devices      │
+    │                   (     )                                   │
+    │                    ─────                                    │
     │                                                             │
-    │   Folded:         ┌───┐                                    │
-    │                   │   ├──┐  L-shape (fit in corners)       │
-    │                   └───┘  │                                 │
-    │                        ┌─┘                                 │
-    │                        │                                   │
-    │                        └───┘                               │
+    │   Folded:         ┌───┐                                     │
+    │                   │   ├──┐  L-shape (fit in corners)        │
+    │                   └───┘  │                                  │
+    │                        ┌─┘                                  │
+    │                        │                                    │
+    │                        └───┘                                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
