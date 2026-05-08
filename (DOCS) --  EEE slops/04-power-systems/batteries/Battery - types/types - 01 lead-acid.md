@@ -819,11 +819,11 @@ CHARGING GUIDELINES
     NEVER:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Never charge frozen battery (explosion risk)           │
-    │   ✗ Never charge in sealed enclosure                       │
-    │   ✗ Never use automotive "trickle charger" (unregulated)   │
-    │   ✗ Never exceed recommended voltage (14.4-14.8V for 12V)  │
-    │   ✗ Never smoke near charging battery (hydrogen explosion) │
+    │   X Never charge frozen battery (explosion risk)            │
+    │   X Never charge in sealed enclosure                        │
+    │   X Never use automotive "trickle charger" (unregulated)    │
+    │   X Never exceed recommended voltage (14.4-14.8V for 12V)   │
+    │   X Never smoke near charging battery (hydrogen explosion)  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
