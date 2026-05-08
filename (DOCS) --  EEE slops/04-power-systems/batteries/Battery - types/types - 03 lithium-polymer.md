@@ -30,13 +30,13 @@ LITHIUM POLYMER CLARIFICATION
     MODERN "LiPo" (Pouch Cell Format):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   What is commonly sold as "LiPo" is actually:             │
-    │   ├── Standard Li-ion chemistry (NMC, LCO, LFP)            │
-    │   ├── Liquid or gel electrolyte                            │
-    │   ├── Pouch cell format (flexible foil)                    │
-    │   └── Marketing term "LiPo" = pouch cell                  │
+    │   What is commonly sold as "LiPo" is actually:              │
+    │   ├── Standard Li-ion chemistry (NMC, LCO, LFP)             │
+    │   ├── Liquid or gel electrolyte                             │
+    │   ├── Pouch cell format (flexible foil)                     │
+    │   └── Marketing term "LiPo" = pouch cell                    │
     │                                                             │
-    │   True polymer electrolyte is uncommon in consumer products│
+    │   True polymer electrolyte is uncommon in consumer products │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
