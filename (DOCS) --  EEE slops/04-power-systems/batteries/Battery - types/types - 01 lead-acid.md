@@ -885,13 +885,13 @@ SULFATION EXPLANATION
     │                                                             │
     │   For flooded batteries only:                               │
     │                                                             │
-    │   1. Equalization charge (15-15.5V for 12V battery)       │
-    │   2. Monitor specific gravity (should increase)            │
-    │   3. May require multiple equalization cycles              │
-    │   4. Desulfator chargers (pulsed) may help                 │
+    │   1. Equalization charge (15-15.5V for 12V battery)         │
+    │   2. Monitor specific gravity (should increase)             │
+    │   3. May require multiple equalization cycles               │
+    │   4. Desulfator chargers (pulsed) may help                  │
     │                                                             │
-    │   If specific gravity won't rise → battery is dead         │
-    │   Replace (sulfation irreversible)                         │
+    │   If specific gravity won't rise → battery is dead          │
+    │   Replace (sulfation irreversible)                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
