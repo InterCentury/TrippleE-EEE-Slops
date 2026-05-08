@@ -751,11 +751,11 @@ FLOODED BATTERY MAINTENANCE SCHEDULE
     MONTHLY:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ Check electrolyte level (plates must be submerged)     │
-    │   ☐ Add distilled water ONLY (if low)                      │
-    │   ☐ Clean top and terminals                                │
-    │   ☐ Check for corrosion (white/green powder)               │
-    │   ☐ Measure specific gravity (if accessible)               │
+    │   ☐ Check electrolyte level (plates must be submerged)      │
+    │   ☐ Add distilled water ONLY (if low)                       │
+    │   ☐ Clean top and terminals                                 │
+    │   ☐ Check for corrosion (white/green powder)                │
+    │   ☐ Measure specific gravity (if accessible)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -763,10 +763,10 @@ FLOODED BATTERY MAINTENANCE SCHEDULE
     EVERY 3 MONTHS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ Load test (or CCA test)                               │
-    │   ☐ Equalization charge (if applicable)                    │
-    │   ☐ Check hold-down clamps (tight)                         │
-    │   ☐ Inspect cables (cracks, corrosion)                     │
+    │   ☐ Load test (or CCA test)                                 │
+    │   ☐ Equalization charge (if applicable)                     │
+    │   ☐ Check hold-down clamps (tight)                          │
+    │   ☐ Inspect cables (cracks, corrosion)                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
