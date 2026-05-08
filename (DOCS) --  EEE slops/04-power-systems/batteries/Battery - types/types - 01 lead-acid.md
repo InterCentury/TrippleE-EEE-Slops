@@ -234,17 +234,17 @@ STARTING BATTERY (SLI - Starting, Lighting, Ignition)
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   DESIGN:                                                   │
-    │   ├── Many thin plates (high surface area)                 │
+    │   ├── Many thin plates (high surface area)                  │
     │   ├── Low internal resistance                               │
-    │   ├── High cranking current (CCA - Cold Cranking Amps)     │
-    │   └── Shallow depth of discharge (only 2-5% used per start)│
+    │   ├── High cranking current (CCA - Cold Cranking Amps)      │
+    │   └── Shallow depth of discharge (only 2-5% used per start) │
     │                                                             │
     │   CHARACTERISTICS:                                          │
-    │   ├── Delivers high current for short time (5-30 seconds)  │
-    │   ├── Recharges quickly                                    │
-    │   ├── Damaged by deep discharge (sulfation)                │
-    │   ├── Shorter cycle life (50-100 cycles)                   │
-    │   └── Use: Car, truck, motorcycle starting                 │
+    │   ├── Delivers high current for short time (5-30 seconds)   │
+    │   ├── Recharges quickly                                     │
+    │   ├── Damaged by deep discharge (sulfation)                 │
+    │   ├── Shorter cycle life (50-100 cycles)                    │
+    │   └── Use: Car, truck, motorcycle starting                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
