@@ -312,12 +312,12 @@ C-RATING EXPLANATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   C-Rating = Maximum safe continuous discharge rate        │
+    │   C-Rating = Maximum safe continuous discharge rate         │
     │                                                             │
-    │   2000mAh battery:                                         │
-    │   1C = 2.0A                                                │
-    │   20C = 40A (continuous)                                  │
-    │   40C = 80A (burst, 5-10 seconds)                         │
+    │   2000mAh battery:                                          │
+    │   1C = 2.0A                                                 │
+    │   20C = 40A (continuous)                                    │
+    │   40C = 80A (burst, 5-10 seconds)                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
