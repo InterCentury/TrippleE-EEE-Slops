@@ -281,41 +281,37 @@ COMPARISON: NiCd vs NiMH vs Li-ion
 The most notorious characteristic of NiCd batteries.
 
 ```
+
 MEMORY EFFECT EXPLANATION
 
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   Memory effect (voltage depression):                       │
-    │                                                             │
-    │   When NiCd is repeatedly discharged to the SAME point      │
-    │   before recharging, it "remembers" that point.             │
-    │                                                             │
-    │   Result: Battery acts as if it has lower capacity          │
-    │   (voltage drops prematurely)                               │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  Memory effect (voltage depression):                        │
+│                                                             │
+│  When NiCd is repeatedly discharged to the SAME point       │
+│  before recharging, it "remembers" that point.              │
+│                                                             │
+│  Result: Battery acts as if it has lower capacity           │
+│  (voltage drops prematurely)                                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
+VISUAL EXAMPLE:
 
-    VISUAL EXAMPLE:
+Normal battery:                  Battery with memory effect:
 
-    Normal battery:                Battery with memory effect:
-
-    Voltage                        Voltage
-        │                              │
-    1.4 ┼●                            1.4 ┼●
-        │ ╲                               │ ╲
-    1.2 ┼  ●════════════════════●        1.2 ┼  ●════════●
-        │                     ╱│             │         ╱│
-    1.1 ┼                    ╱              1.1 ┼       ╱
-        │                  ╱                  │     ╱
-    1.0 ┼                ●                   1.0 ┼  ● (voltage
-        │              ╱                        │ ╱    drops
-    0.9 ┼            ●                         0.9 ┼●     early!)
-        │                                          │
-        └──────────────────► Time                  └────────────►
-         0%      50%     100%                       0%   50%   "false
-                                                          empty"
-
+Voltage                          Voltage
+   │                                │
+1.4┼●                            1.4┼●
+   │ ╲                              │ ╲
+1.2┼  ●━━━━━━━━━━━━━━┓           1.2┼  ●━━━━┓ (Memory Point)
+   │                 ┃              │       ┃
+1.0┼                 ●           1.0┼       ● (Voltage
+   │                ╱               │      ╱   drops early!)
+0.9┼               ●             0.9┼     ●
+   └─────────────────► Time         └───────┬─────────► Time
+   0%      50%      100%            0%     50%     "False
+                                                   Empty"
 
     WHAT CAUSES MEMORY EFFECT:
 
@@ -338,11 +334,11 @@ PREVENTION:
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Occasionally discharge fully (once per 10-20 cycles)   │
-    │   ✓ Use device until it stops (or low voltage cutoff)      │
-    │   ✓ Store at discharged state (not recommended for NiMH)   │
-    │   ✓ Avoid trickle charging (use smart charger)             │
-    │   ✓ Avoid charging warm batteries                          │
+    │   ✓ Occasionally discharge fully (once per 10-20 cycles)    │
+    │   ✓ Use device until it stops (or low voltage cutoff)       │
+    │   ✓ Store at discharged state (not recommended for NiMH)    │
+    │   ✓ Avoid trickle charging (use smart charger)              │
+    │   ✓ Avoid charging warm batteries                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -351,22 +347,22 @@ PREVENTION:
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   METHOD 1: Simple deep discharge                         │
-    │   ├── Fully discharge battery (until device stops)         │
-    │   ├── Repeat 2-3 times                                    │
-    │   └── Usually restores 50-80% of lost capacity            │
+    │   METHOD 1: Simple deep discharge                           │
+    │   ├── Fully discharge battery (until device stops)          │
+    │   ├── Repeat 2-3 times                                      │
+    │   └── Usually restores 50-80% of lost capacity              │
     │                                                             │
-    │   METHOD 2: "Reconditioning" (professional charger)       │
-    │   ├── Charger deep discharges to 0.8V per cell            │
-    │   ├── Followed by full charge                             │
-    │   ├── Repeat automatically                                │
-    │   └── Can restore 90-100% of capacity                     │
+    │   METHOD 2: "Reconditioning" (professional charger)         │
+    │   ├── Charger deep discharges to 0.8V per cell              │
+    │   ├── Followed by full charge                               │
+    │   ├── Repeat automatically                                  │
+    │   └── Can restore 90-100% of capacity                       │
     │                                                             │
-    │   METHOD 3: "Battery zapping" (high current pulse)        │
-    │   ├── Short high-current pulse (10-20A)                   │
-    │   ├── Breaks dendrites (internal shorts)                  │
-    │   ├── DANGEROUS! (can explode)                           │
-    │   └── Only for professional use                          │
+    │   METHOD 3: "Battery zapping" (high current pulse)          │
+    │   ├── Short high-current pulse (10-20A)                     │
+    │   ├── Breaks dendrites (internal shorts)                    │
+    │   ├── DANGEROUS! (can explode)                              │
+    │   └── Only for professional use                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
