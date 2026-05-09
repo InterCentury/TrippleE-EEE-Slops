@@ -288,10 +288,10 @@ MEMORY EFFECT EXPLANATION
     │   Memory effect (voltage depression):                       │
     │                                                             │
     │   When NiCd is repeatedly discharged to the SAME point      │
-    │   before recharging, it "remembers" that point.            │
+    │   before recharging, it "remembers" that point.             │
     │                                                             │
-    │   Result: Battery acts as if it has lower capacity         │
-    │   (voltage drops prematurely)                              │
+    │   Result: Battery acts as if it has lower capacity          │
+    │   (voltage drops prematurely)                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
