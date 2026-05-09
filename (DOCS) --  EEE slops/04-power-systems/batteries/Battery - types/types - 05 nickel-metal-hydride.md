@@ -193,17 +193,17 @@ NiMH CAPACITY (Typical, 2024)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Standard NiMH (e.g., generic 2500mAh):                   │
-    │   ├── Higher capacity (2500mAh)                            │
-    │   ├── High self-discharge (20-30% in first 24 hours!)     │
-    │   ├── Los es 50% in 1-2 months                            │
-    │   └── Best for: Frequent use (weekly charging)            │
+    │   Standard NiMH (e.g., generic 2500mAh):                    │
+    │   ├── Higher capacity (2500mAh)                             │
+    │   ├── High self-discharge (20-30% in first 24 hours!)       │
+    │   ├── Los es 50% in 1-2 months                              │
+    │   └── Best for: Frequent use (weekly charging)              │
     │                                                             │
-    │   LSD NiMH (e.g., Eneloop, 1900-2000mAh):                 │
-    │   ├── Lower capacity (1900-2000mAh)                       │
-    │   ├── Very low self-discharge (70-85% after 1 YEAR)       │
-    │   ├── Ready to use (even after long storage)              │
-    │   └── Best for: Emergencies, flashlights, remotes         │
+    │   LSD NiMH (e.g., Eneloop, 1900-2000mAh):                   │
+    │   ├── Lower capacity (1900-2000mAh)                         │
+    │   ├── Very low self-discharge (70-85% after 1 YEAR)         │
+    │   ├── Ready to use (even after long storage)                │
+    │   └── Best for: Emergencies, flashlights, remotes           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -218,15 +218,15 @@ SELF-DISCHARGE RATES
     STANDARD NiMH (room temperature):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Time after charge    Remaining Capacity                  │
+    │   Time after charge    Remaining Capacity                   │
     │   ──────────────────────────────────────────────────────────│
-    │   Fresh off charger    100%                                │
-    │   After 24 hours       70-80%  (biggest loss!)            │
-    │   After 1 week         60-70%                              │
-    │   After 1 month        50-60%                              │
-    │   After 3 months       30-40%                              │
-    │   After 6 months       20-30%                              │
-    │   After 1 year         <20%                                │
+    │   Fresh off charger    100%                                 │
+    │   After 24 hours       70-80%  (biggest loss!)              │
+    │   After 1 week         60-70%                               │
+    │   After 1 month        50-60%                               │
+    │   After 3 months       30-40%                               │
+    │   After 6 months       20-30%                               │
+    │   After 1 year         <20%                                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -235,14 +235,14 @@ SELF-DISCHARGE RATES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Time after charge    Remaining Capacity                  │
+    │   Time after charge    Remaining Capacity                   │
     │   ──────────────────────────────────────────────────────────│
-    │   Fresh off charger    100%                                │
-    │   After 1 month        90-95%                              │
-    │   After 3 months       85-90%                              │
-    │   After 6 months       80-85%                              │
-    │   After 1 year         75-80% (claimed)                    │
-    │   After 5 years        50-60% (real world)                 │
+    │   Fresh off charger    100%                                 │
+    │   After 1 month        90-95%                               │
+    │   After 3 months       85-90%                               │
+    │   After 6 months       80-85%                               │
+    │   After 1 year         75-80% (claimed)                     │
+    │   After 5 years        50-60% (real world)                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -288,17 +288,17 @@ BATTERY TYPE COMPARISON (AA size)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   NiMH (1.2V) vs Alkaline (1.5V):                          │
+    │   NiMH (1.2V) vs Alkaline (1.5V):                           │
     │                                                             │
-    │   Most devices designed for alkaline WILL work with NiMH  │
-    │   (1.2V vs 1.5V). The device may think battery is low     │
-    │   earlier (when NiMH hits 1.0V, alkaline still at 1.2V)   │
+    │   Most devices designed for alkaline WILL work with NiMH    │
+    │   (1.2V vs 1.5V). The device may think battery is low       │
+    │   earlier (when NiMH hits 1.0V, alkaline still at 1.2V)     │
     │                                                             │
-    │   Some devices (clocks, some flashlights) may NOT work    │
-    │   properly with NiMH (voltage too low). Test first!       │
+    │   Some devices (clocks, some flashlights) may NOT work      │
+    │   properly with NiMH (voltage too low). Test first!         │
     │                                                             │
-    │   NEVER replace alkaline with Li-ion 14500 (3.7V)!        │
-    │   That will DESTROY the device (overvoltage).             │
+    │   NEVER replace alkaline with Li-ion 14500 (3.7V)!          │
+    │   That will DESTROY the device (overvoltage).               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
