@@ -31,9 +31,9 @@ NICKEL-CADMIUM CHEMISTRY
     CHARGE REACTION (reverse):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   2Ni(OH)₂ + Cd(OH)₂ → 2NiOOH + Cd + 2H₂O                │
+    │   2Ni(OH)₂ + Cd(OH)₂ → 2NiOOH + Cd + 2H₂O                   │
     │                                                             │
-    │   Charge produces water, regenerates active materials      │
+    │   Charge produces water, regenerates active materials       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -43,7 +43,7 @@ NICKEL-CADMIUM CHEMISTRY
     ├── Nominal cell voltage: 1.2V
     ├── Full charge voltage: 1.4-1.45V
     ├── Discharge cutoff: 1.0V (per cell)
-    ├── Very flat discharge curve (constant voltage)             │
+    ├── Very flat discharge curve (constant voltage)             
     ├── Excellent high-rate discharge (10-20C)
     ├── Wide temperature range (-40°C to +60°C)
     └── Long cycle life (500-1000 cycles)
@@ -66,8 +66,8 @@ NiCd BATTERY CONSTRUCTION
     │   │                                                     │   │
     │   │  ┌─────────────────────────────────────────────┐    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
-    │   │  │  ██   Sealing plate                     ██   │    │   │
-    │   │  │  ██   (safety vent)                     ██   │    │   │
+    │   │  │  ██   Sealing plate                    ██   │    │   │
+    │   │  │  ██   (safety vent)                    ██   │    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
     │   │                                                     │   │
@@ -80,7 +80,7 @@ NiCd BATTERY CONSTRUCTION
     │   │                                                     │   │
     │   │  ┌─────────────────────────────────────────────┐    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
-    │   │  │  ██   Separator (nylon/polypropylene) ██   │    │   │
+    │   │  │  ██   Separator (nylon/polypropylene)  ██   │    │   │
     │   │  │  ██   (soaked in KOH electrolyte)      ██   │    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
