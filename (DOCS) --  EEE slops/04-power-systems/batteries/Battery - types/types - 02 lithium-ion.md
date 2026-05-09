@@ -889,15 +889,15 @@ LI-ION CHARGING RULES
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use Li-ion charger ONLY (not NiMH, lead-acid, etc.)    │
-    │   ✓ Set charger to correct cell count (1S, 2S, 3S, etc.)  │
-    │   ✓ Use balance charger for multi-cell packs               │
-    │   ✓ Charge on non-flammable surface (concrete, ceramic)    │
-    │   ✓ Use LiPo safety bag for pouch/LiPo cells               │
-    │   ✓ Charge at 0.5-1C rate for longest life                 │
-    │   ✓ Monitor temperature (stop if >45°C)                    │
-    │   ✓ Disconnect when fully charged                          │
-    │   ✓ Store at 50% charge (3.7-3.8V)                        │
+    │   ✓ Use Li-ion charger ONLY (not NiMH, lead-acid, etc.)     │
+    │   ✓ Set charger to correct cell count (1S, 2S, 3S, etc.)    │
+    │   ✓ Use balance charger for multi-cell packs                │
+    │   ✓ Charge on non-flammable surface (concrete, ceramic)     │
+    │   ✓ Use LiPo safety bag for pouch/LiPo cells                │
+    │   ✓ Charge at 0.5-1C rate for longest life                  │
+    │   ✓ Monitor temperature (stop if >45°C)                     │
+    │   ✓ Disconnect when fully charged                           │
+    │   ✓ Store at 50% charge (3.7-3.8V)                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
