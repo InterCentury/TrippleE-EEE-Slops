@@ -1,9 +1,13 @@
 # DOCS - EEE - Slops
 
 ```
-This repository is a collection of personal notes and simplified documentation about basic electrical and electronics concepts.
+This repository is a collection of personal notes and simplified 
+documentation about basic electrical and electronics concepts.
 
-Honestly, I’m not a big fan of EEE as a major. But at the same time, I understand that having a clear idea about these fundamentals is essential—especially for fields like robotics, embedded systems, and hardware-related projects.
+Honestly, I’m not a big fan of EEE as a major. But at the same time, 
+I understand that having a clear idea about these fundamentals is 
+essential—especially for fields like robotics, embedded systems, and 
+hardware-related projects.
 
 ```
 ## 🎯 Purpose
