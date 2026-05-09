@@ -1005,17 +1005,17 @@ END-OF-LIFE INDICATORS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   US:                                                        │
-    │   ├── Call2Recycle (call2recycle.org) – (800) 822-8837     │
-    │   ├── Best Buy                                             │
-    │   ├── Home Depot                                           │
-    │   ├── Lowe's                                               │
-    │   ├── Staples                                              │
-    │   ├── Local hazardous waste facility                       │
-    │   └── Battery specialty stores (Batteries Plus)           │
+    │   US:                                                       │
+    │   ├── Call2Recycle (call2recycle.org) – (800) 822-8837      │
+    │   ├── Best Buy                                              │
+    │   ├── Home Depot                                            │
+    │   ├── Lowe's                                                │
+    │   ├── Staples                                               │
+    │   ├── Local hazardous waste facility                        │
+    │   └── Battery specialty stores (Batteries Plus)             │
     │                                                             │
-    │   WARNING: DO NOT throw Li-ion batteries in trash!        │
-    │   They can catch fire in garbage trucks or landfills!      │
+    │   WARNING: DO NOT throw Li-ion batteries in trash!          │
+    │   They can catch fire in garbage trucks or landfills!       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -1024,12 +1024,12 @@ END-OF-LIFE INDICATORS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Discharge to <1V (if safe) using resistor              │
-    │     (Skip if battery is swollen or damaged)                │
-    │   ✓ Tape terminals with electrical tape                    │
-    │   ✓ Place each battery in separate plastic bag             │
-    │   ✓ Store in cool, dry location until recycling            │
-    │   ✓ Do NOT store for extended periods                      │
+    │   ✓ Discharge to <1V (if safe) using resistor               │
+    │     (Skip if battery is swollen or damaged)                 │
+    │   ✓ Tape terminals with electrical tape                     │
+    │   ✓ Place each battery in separate plastic bag              │
+    │   ✓ Store in cool, dry location until recycling             │
+    │   ✓ Do NOT store for extended periods                       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
