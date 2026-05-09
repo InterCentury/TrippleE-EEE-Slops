@@ -316,18 +316,18 @@ LSD NiMH EXPLANATION
     │                                                             │
     │   Traditional NiMH:                                         │
     │   ├── Standard separator                                    │
-    │   ├── High self-discharge (20-30% in first day)            │
-    │   ├── Useless after 6 months on shelf                      │
-    │   └── Cheap                                                │
+    │   ├── High self-discharge (20-30% in first day)             │
+    │   ├── Useless after 6 months on shelf                       │
+    │   └── Cheap                                                 │
     │                                                             │
-    │   LSD NiMH (e.g., Eneloop, Fujitsu, IKEA LADDA):          │
-    │   ├── Improved separator (thicker, better material)        │
-    │   ├── Superior electrode alloys                            │
-    │   ├── Very low self-discharge (15% per YEAR)              │
-    │   ├── Ready to use after years in drawer                  │
-    │   ├── Slightly lower capacity (1900-2000 vs 2500)         │
-    │   ├── Longer cycle life (2000+ cycles claimed)            │
-    │   └── More expensive                                     │
+    │   LSD NiMH (e.g., Eneloop, Fujitsu, IKEA LADDA):            │
+    │   ├── Improved separator (thicker, better material)         │
+    │   ├── Superior electrode alloys                             │
+    │   ├── Very low self-discharge (15% per YEAR)                │
+    │   ├── Ready to use after years in drawer                    │
+    │   ├── Slightly lower capacity (1900-2000 vs 2500)           │
+    │   ├── Longer cycle life (2000+ cycles claimed)              │
+    │   └── More expensive                                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -345,7 +345,7 @@ LSD NiMH EXPLANATION
     CAPACITY vs SELF-DISCHARGE TRADEOFF:
 
     Type                Capacity    Self-discharge/month    Best for
-    ──────────────────────────────────────────────────────────────
+    ──────────────────────────────────────────────────────────────────────────────
     Eneloop (white)     2000mAh     <1% per month           General (best balance)
     Eneloop Pro (black) 2550mAh     ~3-5% per month         High drain (cameras)
     Standard NiMH       2500mAh     20-30% first day!       Daily use only
