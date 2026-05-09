@@ -808,34 +808,34 @@ WARNING SIGNS (DANGER - STOP USING!)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ SWELLING / PUFFING                                     │
-    │       Battery looks puffy, bloated, or "squishy"          │
-    │       Place on flat surface – rotate – spins easily?      │
-    │       → IMMEDIATE DANGER – STOP USING – DISPOSE          │
+    │   ☐ SWELLING / PUFFING                                      │
+    │       Battery looks puffy, bloated, or "squishy"            │
+    │       Place on flat surface – rotate – spins easily?        │
+    │       → IMMEDIATE DANGER – STOP USING – DISPOSE             │
     │                                                             │
-    │   ☐ UNUSUAL SMELL                                         │
-    │       Sweet, solvent-like smell (electrolyte leak)        │
-    │       → Immediate danger – ventilate – dispose           │
+    │   ☐ UNUSUAL SMELL                                           │
+    │       Sweet, solvent-like smell (electrolyte leak)          │
+    │       → Immediate danger – ventilate – dispose              │
     │                                                             │
-    │   ☐ EXCESSIVE HEAT                                        │
-    │       Too hot to touch (>50°C) during charge/discharge    │
-    │       → Stop use – monitor – may be failing              │
+    │   ☐ EXCESSIVE HEAT                                          │
+    │       Too hot to touch (>50°C) during charge/discharge      │
+    │       → Stop use – monitor – may be failing                 │
     │                                                             │
-    │   ☐ DISCOLORATION / DAMAGE                                │
-    │       Brown/black spots, wrinkled foil, dents            │
-    │       → Likely damaged – dispose                         │
+    │   ☐ DISCOLORATION / DAMAGE                                  │
+    │       Brown/black spots, wrinkled foil, dents               │
+    │       → Likely damaged – dispose                            │
     │                                                             │
-    │   ☐ PUNCTURE OR CUT                                       │
-    │       Any breach of the foil pouch                         │
-    │       → IMMEDIATE FIRE RISK – move outdoors – dispose    │
+    │   ☐ PUNCTURE OR CUT                                         │
+    │       Any breach of the foil pouch                          │
+    │       → IMMEDIATE FIRE RISK – move outdoors – dispose       │
     │                                                             │
-    │   ☐ RAPID SELF-DISCHARGE                                  │
-    │       Loses >5% charge per day (when idle)                │
-    │       → Internal short – fire risk – dispose            │
+    │   ☐ RAPID SELF-DISCHARGE                                    │
+    │       Loses >5% charge per day (when idle)                  │
+    │       → Internal short – fire risk – dispose                │
     │                                                             │
-    │   ☐ BALANCE CONNECTOR ISSUES                              │
-    │       Wires broken, burnt, or melted                       │
-    │       → Stop using – may short – dispose                 │
+    │   ☐ BALANCE CONNECTOR ISSUES                                │
+    │       Wires broken, burnt, or melted                        │
+    │       → Stop using – may short – dispose                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -860,15 +860,15 @@ LIPO CHARGING RULES
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use LiPo-specific charger ONLY (CC/CV algorithm)       │
-    │   ✓ Set correct cell count (S value)                       │
-    │   ✓ Connect balance lead (multi-cell packs)                │
-    │   ✓ Use LiPo safety bag or fireproof container            │
-    │   ✓ Charge on non-flammable surface (concrete, ceramic)    │
+    │   ✓ Use LiPo-specific charger ONLY (CC/CV algorithm)        │
+    │   ✓ Set correct cell count (S value)                        │
+    │   ✓ Connect balance lead (multi-cell packs)                 │
+    │   ✓ Use LiPo safety bag or fireproof container              │
+    │   ✓ Charge on non-flammable surface (concrete, ceramic)     │
     │   ✓ Monitor temperature periodically                        │
-    │   ✓ Stay nearby (never leave unattended!)                  │
-    │   ✓ Use 1C charge rate (or as marked)                     │
-    │   ✓ Charge puffed/damaged cells – NEVER (dispose)        │
+    │   ✓ Stay nearby (never leave unattended!)                   │
+    │   ✓ Use 1C charge rate (or as marked)                       │
+    │   ✓ Charge puffed/damaged cells – NEVER (dispose)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -876,15 +876,15 @@ LIPO CHARGING RULES
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Never leave charging unattended (especially LiPo)      │
-    │   ✗ Never overcharge (>4.20V per cell)                     │
-    │   ✗ Never charge damaged or swollen battery                │
-    │   ✗ Never fast charge >1C unless rated for it              │
-    │   ✗ Never charge below 0°C (32°F)                         │
-    │   ✗ Never charge above 45°C (113°F)                       │
-    │   ✗ Never use NiMH or lead-acid charger                    │
-    │   ✗ Never charge on wood, carpet, or near flammables      │
-    │   ✗ Never charge in sealed container                       │
+    │   X Never leave charging unattended (especially LiPo)       │
+    │   X Never overcharge (>4.20V per cell)                      │
+    │   X Never charge damaged or swollen battery                 │
+    │   X Never fast charge >1C unless rated for it               │
+    │   X Never charge below 0°C (32°F)                           │
+    │   X Never charge above 45°C (113°F)                         │
+    │   X Never use NiMH or lead-acid charger                     │
+    │   X Never charge on wood, carpet, or near flammables        │
+    │   X Never charge in sealed container                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -893,26 +893,26 @@ LIPO CHARGING RULES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Recommended home LiPo charging setup:                    │
+    │   Recommended home LiPo charging setup:                     │
     │                                                             │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │  Concrete block or ceramic tile                     │   │
     │   │  ┌─────────────────────────────────────────────┐    │   │
     │   │  │                                             │    │   │
-    │   │  │         LiPo Safety Bag                    │    │   │
-    │   │  │         (battery inside)                   │    │   │
+    │   │  │         LiPo Safety Bag                     │    │   │
+    │   │  │         (battery inside)                    │    │   │
     │   │  │                                             │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
     │   │          │                                          │   │
     │   │          │ (wires exit bag)                         │   │
     │   │          │                                          │   │
-    │   │    ┌─────┴─────┐                                   │   │
-    │   │    │  Charger  │                                   │   │
-    │   │    └───────────┘                                   │   │
+    │   │    ┌─────┴─────┐                                    │   │
+    │   │    │  Charger  │                                    │   │
+    │   │    └───────────┘                                    │   │
     │   │          │                                          │   │
     │   │        Smoke detector above                         │   │
     │   │        Fire extinguisher nearby                     │   │
-    │   │                                                      │   │
+    │   │                                                     │   │
     │   └─────────────────────────────────────────────────────┘   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
@@ -927,19 +927,19 @@ LIPO STORAGE GUIDELINES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   LiPo MUST be stored at 3.75-3.85V (50-60% charge)        │
+    │   LiPo MUST be stored at 3.75-3.85V (50-60% charge)         │
     │                                                             │
-    │   Fully charged (4.20V) storage:                           │
-    │   ├── Causes swelling (gas generation)                     │
-    │   ├── Accelerates aging (capacity loss)                    │
-    │   ├── Increased internal resistance                        │
-    │   └── Fire risk increases                                  │
+    │   Fully charged (4.20V) storage:                            │
+    │   ├── Causes swelling (gas generation)                      │
+    │   ├── Accelerates aging (capacity loss)                     │
+    │   ├── Increased internal resistance                         │
+    │   └── Fire risk increases                                   │
     │                                                             │
-    │   Fully discharged (<3.3V) storage:                        │
-    │   ├── Copper dissolution (permanent damage)                │
-    │   ├── Cannot be recharged (reduced capacity)               │
-    │   ├── Increased internal resistance                        │
-    │   └── Risk of fire when recharging                        │
+    │   Fully discharged (<3.3V) storage:                         │
+    │   ├── Copper dissolution (permanent damage)                 │
+    │   ├── Cannot be recharged (reduced capacity)                │
+    │   ├── Increased internal resistance                         │
+    │   └── Risk of fire when recharging                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
