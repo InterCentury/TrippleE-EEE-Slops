@@ -18,12 +18,12 @@ NICKEL-CADMIUM CHEMISTRY
     DISCHARGE REACTION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Positive: 2NiOOH + 2H₂O + 2e⁻ → 2Ni(OH)₂ + 2OH⁻        │
-    │   Negative: Cd + 2OH⁻ → Cd(OH)₂ + 2e⁻                     │
-    │   Overall: 2NiOOH + Cd + 2H₂O → 2Ni(OH)₂ + Cd(OH)₂      │
+    │   Positive: 2NiOOH + 2H₂O + 2e⁻ → 2Ni(OH)₂ + 2OH⁻           │
+    │   Negative: Cd + 2OH⁻ → Cd(OH)₂ + 2e⁻                       │
+    │   Overall: 2NiOOH + Cd + 2H₂O → 2Ni(OH)₂ + Cd(OH)₂          │
     │                                                             │
-    │   Discharge consumes water, produces nickel and cadmium   │
-    │   hydroxides                                               │
+    │   Discharge consumes water, produces nickel and cadmium     │
+    │   hydroxides                                                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
