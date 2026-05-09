@@ -390,13 +390,13 @@ CURRENT NiCd APPLICATIONS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Aircraft batteries:                                       │
-    │   ├── Emergency lighting                                   │
-    │   ├── APU starting                                        │
-    │   ├── Backup instruments                                   │
-    │   ├── 28V NiCd packs (20 cells)                           │
-    │   └── Must work at -40°C to +60°C                         │
+    │   ├── Emergency lighting                                    │
+    │   ├── APU starting                                          │
+    │   ├── Backup instruments                                    │
+    │   ├── 28V NiCd packs (20 cells)                             │
+    │   └── Must work at -40°C to +60°C                           │
     │                                                             │
-    │   Why NiCd: Wide temperature range, proven reliability    │
+    │   Why NiCd: Wide temperature range, proven reliability      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -404,13 +404,13 @@ CURRENT NiCd APPLICATIONS
     INDUSTRIAL:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Emergency lighting systems                           │
-    │   ├── UPS for high temperature environments                │
-    │   ├── Railroad signaling                                   │
-    │   ├── Mining equipment (explosion-proof)                   │
-    │   ├── Electric forklifts (some)                           │
-    │   ├── Solar street lights (cold climates)                  │
-    │   └── Military equipment                                   │
+    │   ├── Emergency lighting systems                            │
+    │   ├── UPS for high temperature environments                 │
+    │   ├── Railroad signaling                                    │
+    │   ├── Mining equipment (explosion-proof)                    │
+    │   ├── Electric forklifts (some)                             │
+    │   ├── Solar street lights (cold climates)                   │
+    │   └── Military equipment                                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -418,10 +418,10 @@ CURRENT NiCd APPLICATIONS
     POWER TOOLS (older):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Older cordless drills (7.2V, 9.6V, 12V)             │
-    │   ├── Older power screwdrivers                             │
-    │   ├── Radio control vehicles (replaced by LiPo)           │
-    │   └── Most replaced by NiMH or Li-ion now                 │
+    │   ├── Older cordless drills (7.2V, 9.6V, 12V)               │
+    │   ├── Older power screwdrivers                              │
+    │   ├── Radio control vehicles (replaced by LiPo)             │
+    │   └── Most replaced by NiMH or Li-ion now                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -429,11 +429,11 @@ CURRENT NiCd APPLICATIONS
     CONSUMER (dying out):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ├── Cordless phones (older, before NiMH)                │
-    │   ├── Solar garden lights                                  │
-    │   ├── Emergency flashlights                                │
-    │   ├── Two-way radios                                       │
-    │   └── (Most replaced by NiMH now)                         │
+    │   ├── Cordless phones (older, before NiMH)                  │
+    │   ├── Solar garden lights                                   │
+    │   ├── Emergency flashlights                                 │
+    │   ├── Two-way radios                                        │
+    │   └── (Most replaced by NiMH now)                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -448,41 +448,40 @@ NiCd CHARGING METHODS
     METHOD 1: Standard (overnight) Charging (C/10):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: 0.1C (10-hour rate)                               │
-    │   Time: 14-16 hours                                        │
-    │   Termination: Timer (no -ΔV needed)                       │
-    │   Safe: Yes (can be left charging)                         │
-    │   Use: Old chargers, simple circuits                      │
+    │   Rate: 0.1C (10-hour rate)                                 │
+    │   Time: 14-16 hours                                         │
+    │   Termination: Timer (no -ΔV needed)                        │
+    │   Safe: Yes (can be left charging)                          │
+    │   Use: Old chargers, simple circuits                        │
     │                                                             │
-    │   Example (2000mAh cell): 200mA for 14-16 hours           │
+    │   Example (2000mAh cell): 200mA for 14-16 hours             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
-
 
     METHOD 2: Fast Charging (C/4 to 1C):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: 0.25C to 1C                                        │
-    │   Time: 1.2-5 hours                                        │
-    │   Termination: -ΔV detection (voltage drop)                │
-    │   Backup: Temperature cut-off (50°C)                       │
-    │   Use: Smart chargers                                      │
+    │   Rate: 0.25C to 1C                                         │
+    │   Time: 1.2-5 hours                                         │
+    │   Termination: -ΔV detection (voltage drop)                 │
+    │   Backup: Temperature cut-off (50°C)                        │
+    │   Use: Smart chargers                                       │
     │                                                             │
-    │   -ΔV detection:                                           │
-    │   Voltage                                                  │
-    │     │                                                     │
-    │   1.5 ┼──────────────────────●                             │
-    │     │                        ╲│                            │
-    │   1.4 ┼───────────────────────●                             │
-    │     │                          ╲                           │
-    │   1.3 ┼                           ●    ← Voltage drops!   │
-    │     │                             ╱                        │
-    │   1.2 ┼──────────────────────────●                         │
-    │     │                                                     │
-    │     └────────────────────────────────────► Time          │
-    │                                      │                    │
-    │                                      ▼                    │
-    │                              Stop charging here!          │
+    │   -ΔV detection:                                            │
+    │   Voltage                                                   │
+    │      │                                                      │
+    │  1.5 ┼─────────────────────●                                │
+    │      │                    ╱ ╲                               │
+    │  1.4 ┼                   ╱   ●                              │
+    │      │                  ╱     ╲                             │
+    │  1.3 ┼                 ╱       ●  ← Voltage drops!          │
+    │      │                ╱                                     │
+    │  1.2 ┼───────────────●                                      │
+    │      │                                                      │
+    │      └─────────────────────────────────────► Time           │
+    │                                     │                       │
+    │                                     ▼                       │
+    │                            Stop charging here!              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
