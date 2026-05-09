@@ -604,7 +604,7 @@ BMS PROTECTION FUNCTIONS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   PROTECTION              TRIGGER           ACTION         │
+    │   PROTECTION              TRIGGER           ACTION          │
     │   ──────────────────────────────────────────────────────────│
     │   Over-voltage            Cell >4.25V       Stop charge     │
     │   Under-voltage           Cell <2.5V        Stop discharge  │
@@ -622,24 +622,24 @@ BMS PROTECTION FUNCTIONS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Without balancing (dangerous!):                          │
+    │   Without balancing (dangerous!):                           │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │  Cell1: 4.20V  ✓                                    │   │
     │   │  Cell2: 4.20V  ✓                                    │   │
     │   │  Cell3: 4.15V  (undercharged)                       │   │
     │   └─────────────────────────────────────────────────────┘   │
-    │   Charger sees 4.18V average → continues charging          │
-    │   Cell3 reaches 4.20V, Cell1/Cell2 OVERCHARGE to 4.30V+   │
-    │   Result: Fire/explosion!                                 │
+    │   Charger sees 4.18V average → continues charging           │
+    │   Cell3 reaches 4.20V, Cell1/Cell2 OVERCHARGE to 4.30V+     │
+    │   Result: Fire/explosion!                                   │
     │                                                             │
-    │   With balancing (safe):                                   │
+    │   With balancing (safe):                                    │
     │   ┌─────────────────────────────────────────────────────┐   │
-    │   │  Cell1: 4.18V  (balancing resistor on)             │   │
-    │   │  Cell2: 4.18V  (balancing resistor on)             │   │
-    │   │  Cell3: 4.15V  (no balancing)                      │   │
+    │   │  Cell1: 4.18V  (balancing resistor on)              │   │
+    │   │  Cell2: 4.18V  (balancing resistor on)              │   │
+    │   │  Cell3: 4.15V  (no balancing)                       │   │
     │   └─────────────────────────────────────────────────────┘   │
-    │   BMS bleeds excess charge from Cell1/Cell2               │
-    │   All cells reach 4.20V together → safe!                  │
+    │   BMS bleeds excess charge from Cell1/Cell2                 │
+    │   All cells reach 4.20V together → safe!                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
