@@ -1011,19 +1011,19 @@ IF LIPO CATCHES FIRE:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   1. DO NOT PANIC                                           │
-    │      (but act quickly)                                     │
+    │      (but act quickly)                                      │
     │                                                             │
-    │   2. UNPLUG CHARGER (if safe)                              │
+    │   2. UNPLUG CHARGER (if safe)                               │
     │                                                             │
-    │   3. EVACUATE THE AREA                                     │
-    │      (toxic smoke)                                         │
+    │   3. EVACUATE THE AREA                                      │
+    │      (toxic smoke)                                          │
     │                                                             │
-    │   4. CALL 911 (fire department)                            │
+    │   4. CALL 911 (fire department)                             │
     │                                                             │
-    │   5. IF SAFE TO APPROACH:                                  │
-    │      ├── Move burning battery outdoors (with shovel)      │
-    │      ├── Smother with sand or Class D extinguisher        │
-    │      └── DO NOT use water (except large amounts cooling)  │
+    │   5. IF SAFE TO APPROACH:                                   │
+    │      ├── Move burning battery outdoors (with shovel)        │
+    │      ├── Smother with sand or Class D extinguisher          │
+    │      └── DO NOT use water (except large amounts cooling)    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -1032,15 +1032,15 @@ IF LIPO CATCHES FIRE:
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Always charge in LiPo safe bag                         │
-    │   ✓ Charge on non-flammable surface                        │
-    │   ✓ Never leave unattended                                 │
-    │   ✓ Monitor temperature                                    │
-    │   ✓ Use balance charger                                   │
-    │   ✓ Set correct cell count                                 │
-    │   ✓ Inspect battery before charging                        │
-    │   ✓ Keep fire extinguisher nearby                          │
-    │   ✓ Work in area with smoke detector                       │
+    │   ✓ Always charge in LiPo safe bag                          │
+    │   ✓ Charge on non-flammable surface                         │
+    │   ✓ Never leave unattended                                  │
+    │   ✓ Monitor temperature                                     │
+    │   ✓ Use balance charger                                     │
+    │   ✓ Set correct cell count                                  │
+    │   ✓ Inspect battery before charging                         │
+    │   ✓ Keep fire extinguisher nearby                           │
+    │   ✓ Work in area with smoke detector                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -1120,12 +1120,12 @@ LIPO END-OF-LIFE DISPOSAL
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☑ Swollen or puffed                                      │
-    │   ☑ Not holding charge (<50% original capacity)           │
-    │   ☑ High internal resistance (>2× new value)              │
-    │   ☑ Physical damage (dents, cuts, punctures)              │
-    │   ☑ Leaking or smell                                      │
-    │   ☑ Age >3-5 years (depending on usage)                   │
+    │   ☑ Swollen or puffed                                       │
+    │   ☑ Not holding charge (<50% original capacity)             │
+    │   ☑ High internal resistance (>2× new value)                │
+    │   ☑ Physical damage (dents, cuts, punctures)                │
+    │   ☑ Leaking or smell                                        │
+    │   ☑ Age >3-5 years (depending on usage)                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -1134,21 +1134,21 @@ LIPO END-OF-LIFE DISPOSAL
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. DISCHARGE to 0V (if safe)                            │
-    │      ├── Use resistor (1-10Ω) across terminals            │
-    │      ├── DO for swollen or damaged cells (skip – too risky)│
-    │      ├── Do outdoors, away from flammables                │
-    │      └── Leave overnight                                   │
+    │   1. DISCHARGE to 0V (if safe)                              │
+    │      ├── Use resistor (1-10Ω) across terminals              │
+    │      ├── DO for swollen or damaged cells (skip – too risky) │
+    │      ├── Do outdoors, away from flammables                  │
+    │      └── Leave overnight                                    │
     │                                                             │
-    │   2. TAPE TERMINALS                                        │
-    │      ├── Electrical tape over connectors                  │
-    │      ├── Prevents short circuits                          │
-    │      └── Do not cover labels (recycling info)             │
+    │   2. TAPE TERMINALS                                         │
+    │      ├── Electrical tape over connectors                    │
+    │      ├── Prevents short circuits                            │
+    │      └── Do not cover labels (recycling info)               │
     │                                                             │
-    │   3. PLACE IN PLASTIC BAG (separate)                      │
-    │      ├── Each battery in own bag                          │
-    │      ├── Prevents terminal contact                        │
-    │      └── Do not store in metal container                  │
+    │   3. PLACE IN PLASTIC BAG (separate)                        │
+    │      ├── Each battery in own bag                            │
+    │      ├── Prevents terminal contact                          │
+    │      └── Do not store in metal container                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -1157,20 +1157,20 @@ LIPO END-OF-LIFE DISPOSAL
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   US:                                                        │
-    │   ├── Call2Recycle: (800) 822-8837                         │
-    │   ├── Best Buy                                             │
-    │   ├── Home Depot                                           │
-    │   ├── Lowe's                                               │
-    │   ├── Staples                                              │
-    │   ├── Batteries Plus                                      │
-    │   └── Local hazardous waste facility                       │
+    │   US:                                                       │
+    │   ├── Call2Recycle: (800) 822-8837                          │
+    │   ├── Best Buy                                              │
+    │   ├── Home Depot                                            │
+    │   ├── Lowe's                                                │
+    │   ├── Staples                                               │
+    │   ├── Batteries Plus                                        │
+    │   └── Local hazardous waste facility                        │
     │                                                             │
     │   DO NOT:                                                   │
-    │   ✗ Throw in trash (fire hazard)                          │
-    │   ✗ Store for extended period (especially swollen)        │
-    │   ✗ Ship (dangerous goods regulations)                    │
-    │   ✗ Burn or incinerate                                    │
+    │   X Throw in trash (fire hazard)                            │
+    │   X Store for extended period (especially swollen)          │
+    │   X Ship (dangerous goods regulations)                      │
+    │   X Burn or incinerate                                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -1179,21 +1179,21 @@ LIPO END-OF-LIFE DISPOSAL
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ⚠ SWOLLEN LIPO = EXTREME DANGER                         │
+    │   !!! SWOLLEN LIPO = EXTREME DANGER                         │
     │                                                             │
     │   DO NOT:                                                   │
-    │   ├── Do not store indoors                                 │
-    │   ├── Do not try to discharge                              │
-    │   ├── Do not puncture                                      │
-    │   ├── Do not charge                                        │
-    │   └── Do not use                                           │
+    │   ├── Do not store indoors                                  │
+    │   ├── Do not try to discharge                               │
+    │   ├── Do not puncture                                       │
+    │   ├── Do not charge                                         │
+    │   └── Do not use                                            │
     │                                                             │
     │   DO:                                                       │
-    │   ├── Place in LiPo safe bag                               │
-    │   ├── Place bag in metal container with sand               │
-    │   ├── Store OUTDOORS (away from buildings)                 │
-    │   ├── Take to hazardous waste facility ASAP                │
-    │   └── Call ahead – some accept swollen batteries          │
+    │   ├── Place in LiPo safe bag                                │
+    │   ├── Place bag in metal container with sand                │
+    │   ├── Store OUTDOORS (away from buildings)                  │
+    │   ├── Take to hazardous waste facility ASAP                 │
+    │   └── Call ahead – some accept swollen batteries            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
