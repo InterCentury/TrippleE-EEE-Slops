@@ -40,13 +40,13 @@ LITHIUM-ION BATTERY CHEMISTRY (Generic)
     SIMPLIFIED ANALOGY:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Li-ions = Swing (rocking chair battery)                  │
-    │   Anode = Negative terminal (graphite)                     │
-    │   Cathode = Positive terminal (lithium metal oxide)        │
-    │   Electrolyte = Swimming pool (lithium salt in solvent)    │
+    │   Li-ions = Swing (rocking chair battery)                   │
+    │   Anode = Negative terminal (graphite)                      │
+    │   Cathode = Positive terminal (lithium metal oxide)         │
+    │   Electrolyte = Swimming pool (lithium salt in solvent)     │
     │                                                             │
-    │   Ions "swing" back and forth between electrodes           │
-    │   Hence nickname: "Rocking chair battery"                  │
+    │   Ions "swing" back and forth between electrodes            │
+    │   Hence nickname: "Rocking chair battery"                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
