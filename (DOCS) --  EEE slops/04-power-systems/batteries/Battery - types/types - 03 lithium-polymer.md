@@ -554,14 +554,14 @@ SELECTING THE RIGHT CONNECTOR
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ⚠ NEVER force incompatible connectors together!         │
+    │   !!! NEVER force incompatible connectors together!         │
     │                                                             │
-    │   XT30 does NOT fit XT60                                  │
-    │   Deans does NOT fit XT60                                 │
-    │   EC5 is NOT compatible with XT                           │
-    │   Wrong connector = poor contact = heat = fire            │
+    │   XT30 does NOT fit XT60                                    │
+    │   Deans does NOT fit XT60                                   │
+    │   EC5 is NOT compatible with XT                             │
+    │   Wrong connector = poor contact = heat = fire              │
     │                                                             │
-    │   Always use matching connectors (or adapters with caution)│
+    │   Always use matching connectors (or adapters with caution) │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -579,11 +579,11 @@ BALANCE LEAD CONFIGURATION
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   ┌─────────────────────────────────────────────────────┐   │
-    │   │  Pins:  1    2    3                                │   │
+    │   │  Pins:  1    2    3                                 │   │
     │   │         │    │    │                                 │   │
     │   │         B-   B1   B+  (3 pins)                      │   │
     │   │                                                     │   │
-    │   │   Wire colors: Black (B-), Red (B+), Yellow (mid)  │   │
+    │   │   Wire colors: Black (B-), Red (B+), Yellow (mid)   │   │
     │   │                                                     │   │
     │   └─────────────────────────────────────────────────────┘   │
     │                                                             │
