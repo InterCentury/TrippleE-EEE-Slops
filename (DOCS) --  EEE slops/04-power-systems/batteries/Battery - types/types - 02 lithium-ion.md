@@ -656,15 +656,15 @@ EV BATTERY REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Tesla Model 3 (Long Range):                              │
-    │   ├── Chemistry: NCA or NMC (varies by year)              │
-    │   ├── Cells: 4416 x 21700 (or 4680 for newer)            │
-    │   ├── Voltage: 350-400V (nominal)                         │
-    │   ├── Capacity: 75-82 kWh                                 │
-    │   ├── Weight: 480 kg (~1060 lbs)                          │
-    │   ├── Range: 350+ miles                                   │
-    │   ├── Fast charge: 15-30 minutes (250kW)                  │
-    │   └── Life: 300-500 cycles (150,000+ miles)              │
+    │   Tesla Model 3 (Long Range):                               │
+    │   ├── Chemistry: NCA or NMC (varies by year)                │
+    │   ├── Cells: 4416 x 21700 (or 4680 for newer)               │
+    │   ├── Voltage: 350-400V (nominal)                           │
+    │   ├── Capacity: 75-82 kWh                                   │
+    │   ├── Weight: 480 kg (~1060 lbs)                            │
+    │   ├── Range: 350+ miles                                     │
+    │   ├── Fast charge: 15-30 minutes (250kW)                    │
+    │   └── Life: 300-500 cycles (150,000+ miles)                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
