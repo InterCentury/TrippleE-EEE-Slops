@@ -780,68 +780,63 @@ PREVENTION:
 ```
 NiCd DISPOSAL REQUIREMENTS
 
-    TOXICITY:
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   Cadmium is HIGHLY TOXIC!                                 │
-    │                                                             │
-    │   Health effects:                                           │
-    │   ├── Carcinogenic (causes lung cancer)                    │
-    │   ├── Kidney damage                                        │
-    │   ├── Bone damage (Itai-itai disease)                     │
-    │   ├── Lung damage                                          │
-    │   └── Environmental persistence (50+ years)               │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
+TOXICITY:
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Cadmium is HIGHLY TOXIC!                                  │
+│                                                             │
+│   Health effects:                                           │
+│   ├── Carcinogenic (causes lung cancer)                     │
+│   ├── Kidney damage                                         │
+│   ├── Bone damage (Itai-itai disease)                       │
+│   ├── Lung damage                                           │
+│   └── Environmental persistence (50+ years)                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
+LEGAL STATUS:
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   EU: Banned in consumer products (NiCd Directive)          │
+│   USA: Must be recycled (Universal Waste)                   │
+│   Canada: Hazardous waste, banned from landfills            │
+│   Many countries: Illegal to throw in trash                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-    LEGAL STATUS:
+RECYCLING LOCATIONS:
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   US/Canada:                                                │
+│   ├── Call2Recycle (800-822-8837)                           │
+│   ├── Batteries Plus                                        │
+│   ├── Home Depot (some locations)                           │
+│   ├── Lowe's (some locations)                               │
+│   ├── Best Buy (some locations)                             │
+│   ├── Local hazardous waste facility                        │
+│   └── (Call ahead – not all accept NiCd)                    │
+│                                                             │
+│   Recycling process:                                        │
+│   ├── Cadmium recovered (99% recycled)                      │
+│   ├── Nickel recovered                                      │
+│   ├── Steel recovered                                       │
+│   └── Electrolyte neutralized                               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   EU: Banned in consumer products (NiCd Directive)        │
-    │   USA: Must be recycled (Universal Waste)                  │
-    │   Canada: Hazardous waste, banned from landfills          │
-    │   Many countries: Illegal to throw in trash               │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
+PREPARING FOR RECYCLING:
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ✓ Fully discharge (if possible – use resistor)            │
+│   ✓ Tape terminals (electrical tape)                        │
+│   ✓ Place in separate bag (prevent shorts)                  │
+│   ✓ Take to recycler within 30 days                         │
+│   ✗ Never throw in trash (illegal & toxic)                  │
+│   ✗ Never burn (toxic fumes)                                │
+│   ✗ Never landfill (groundwater contamination)              │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-
-    RECYCLING LOCATIONS:
-
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   US/Canada:                                                │
-    │   ├── Call2Recycle (800-822-8837)                         │
-    │   ├── Batteries Plus                                      │
-    │   ├── Home Depot (some locations)                         │
-    │   ├── Lowe's (some locations)                             │
-    │   ├── Best Buy (some locations)                           │
-    │   ├── Local hazardous waste facility                      │
-    │   └── (Call ahead – not all accept NiCd)                  │
-    │                                                             │
-    │   Recycling process:                                       │
-    │   ├── Cadmium recovered (99% recycled)                    │
-    │   ├── Nickel recovered                                    │
-    │   ├── Steel recovered                                     │
-    │   └── Electrolyte neutralized                             │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
-
-
-    PREPARING FOR RECYCLING:
-
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   ✓ Fully discharge (if possible – use resistor)          │
-    │   ✓ Tape terminals (electrical tape)                       │
-    │   ✓ Place in separate bag (prevent shorts)                │
-    │   ✓ Take to recycler within 30 days                       │
-    │   ✗ Never throw in trash (illegal & toxic)                │
-    │   ✗ Never burn (toxic fumes)                              │
-    │   ✗ Never landfill (groundwater contamination)            │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
 ```
 
 ## Quick Reference Table
