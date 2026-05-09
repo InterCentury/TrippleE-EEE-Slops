@@ -368,11 +368,11 @@ CONSUMER NiMH APPLICATIONS
     REMOTE CONTROLS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Best: LSD NiMH (Eneloop)                                 │
-    │   Reason: Low drain, needs long standby time               │
-    │   Runtime: 6-12 months (with LSD)                         │
-    │   Works: Yes (1.2V vs 1.5V usually fine)                  │
-    │   Recommendation: Recharge once per year                  │
+    │   Best: LSD NiMH (Eneloop)                                  │
+    │   Reason: Low drain, needs long standby time                │
+    │   Runtime: 6-12 months (with LSD)                           │
+    │   Works: Yes (1.2V vs 1.5V usually fine)                    │
+    │   Recommendation: Recharge once per year                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -380,11 +380,11 @@ CONSUMER NiMH APPLICATIONS
     FLASHLIGHTS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Best: LSD NiMH (Eneloop) or Standard (daily use)         │
-    │   Reason: High drain, frequent use                         │
-    │   Advantage: Works well in cold (better than alkaline)     │
-    │   Runtime: 1-4 hours (depending on brightness)             │
-    │   Warning: Some flashlights need 1.5V (test first)        │
+    │   Best: LSD NiMH (Eneloop) or Standard (daily use)          │
+    │   Reason: High drain, frequent use                          │
+    │   Advantage: Works well in cold (better than alkaline)      │
+    │   Runtime: 1-4 hours (depending on brightness)              │
+    │   Warning: Some flashlights need 1.5V (test first)          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -392,11 +392,11 @@ CONSUMER NiMH APPLICATIONS
     DIGITAL CAMERAS (High drain):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Best: High capacity (Eneloop Pro, 2550mAh)               │
-    │   Reason: Very high drain (flash, motor, screen)          │
-    │   Advantage: NiMH handles high current better than alkaline│
-    │   Runtime: 200-500 shots (vs 50-100 with alkaline)        │
-    │   Note: Standard LSD 2000mAh also works well              │
+    │   Best: High capacity (Eneloop Pro, 2550mAh)                │
+    │   Reason: Very high drain (flash, motor, screen)            │
+    │   Advantage: NiMH handles high current better than alkaline │
+    │   Runtime: 200-500 shots (vs 50-100 with alkaline)          │
+    │   Note: Standard LSD 2000mAh also works well                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -404,10 +404,10 @@ CONSUMER NiMH APPLICATIONS
     GAME CONTROLLERS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Best: LSD NiMH (Eneloop)                                 │
-    │   Reason: Moderate drain, wants long runtime              │
-    │   Runtime: 15-30 hours (Xbox/PlayStation)                  │
-    │   Advantage: Cheaper than buying batteries constantly     │
+    │   Best: LSD NiMH (Eneloop)                                  │
+    │   Reason: Moderate drain, wants long runtime                │
+    │   Runtime: 15-30 hours (Xbox/PlayStation)                   │
+    │   Advantage: Cheaper than buying batteries constantly       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -415,11 +415,11 @@ CONSUMER NiMH APPLICATIONS
     CLOCKS / LOW DRAIN DEVICES:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Best: LSD NiMH (Eneloop) or use disposable alkaline      │
-    │   Reason: Very low drain (1-10mA)                          │
-    │   LSD NiMH lasts 1-2 years between charges                │
-    │   Alkaline lasts 3-5 years                                │
-    │   Caution: Some clocks don't work on 1.2V                 │
+    │   Best: LSD NiMH (Eneloop) or use disposable alkaline       │
+    │   Reason: Very low drain (1-10mA)                           │
+    │   LSD NiMH lasts 1-2 years between charges                  │
+    │   Alkaline lasts 3-5 years                                  │
+    │   Caution: Some clocks don't work on 1.2V                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -434,14 +434,14 @@ HEV NiMH BATTERY PACKS
     TOYOTA PRIUS (Gen 1-4):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Chemistry: NiMH (Panasonic)                              │
-    │   Configuration: 28 modules x 6 cells = 168 cells          │
-    │   Voltage: 201.6V nominal (1.2V × 168)                    │
-    │   Capacity: 6.5Ah (Gen 3)                                 │
-    │   Energy: 1.3 kWh                                          │
-    │   Weight: 40-45 kg (88-100 lbs)                           │
-    │   Life: 10-15 years / 150,000-200,000 miles                │
-    │   Cycle life: 10,000+ shallow cycles (HEV use)            │
+    │   Chemistry: NiMH (Panasonic)                               │
+    │   Configuration: 28 modules x 6 cells = 168 cells           │
+    │   Voltage: 201.6V nominal (1.2V × 168)                      │
+    │   Capacity: 6.5Ah (Gen 3)                                   │
+    │   Energy: 1.3 kWh                                           │
+    │   Weight: 40-45 kg (88-100 lbs)                             │
+    │   Life: 10-15 years / 150,000-200,000 miles                 │
+    │   Cycle life: 10,000+ shallow cycles (HEV use)              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -477,14 +477,14 @@ NiMH CHARGING METHODS
     METHOD 1: Slow Charging (C/10, 10-16 hours):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: 0.1C (10-hour rate)                               │
-    │   Time: 14-16 hours                                        │
-    │   Termination: Timer (no -ΔV detection for NiMH)          │
-    │   Safe: Yes (can be left, but not recommended)            │
-    │   Use: General purpose, simple chargers                   │
+    │   Rate: 0.1C (10-hour rate)                                 │
+    │   Time: 14-16 hours                                         │
+    │   Termination: Timer (no -ΔV detection for NiMH)            │
+    │   Safe: Yes (can be left, but not recommended)              │
+    │   Use: General purpose, simple chargers                     │
     │                                                             │
-    │   Note: NiMH can tolerate C/10 overcharge (some heat)     │
-    │   Better than NiCd (less gas generation)                  │
+    │   Note: NiMH can tolerate C/10 overcharge (some heat)       │
+    │   Better than NiCd (less gas generation)                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -492,15 +492,15 @@ NiMH CHARGING METHODS
     METHOD 2: Fast Charging (0.3C to 1C):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: 0.3C to 1C                                         │
-    │   Time: 1-3 hours                                          │
-    │   Termination: -ΔV detection (smaller drop than NiCd)     │
-    │   Backup: dT/dt (temperature rise rate)                    │
-    │   Backup 2: Absolute temperature cut-off (50°C)           │
-    │   Use: Smart chargers                                     │
+    │   Rate: 0.3C to 1C                                          │
+    │   Time: 1-3 hours                                           │
+    │   Termination: -ΔV detection (smaller drop than NiCd)       │
+    │   Backup: dT/dt (temperature rise rate)                     │
+    │   Backup 2: Absolute temperature cut-off (50°C)             │
+    │   Use: Smart chargers                                       │
     │                                                             │
-    │   -ΔV for NiMH: 5-10mV per cell (NiCd: 10-30mV)          │
-    │   (Smaller drop – harder to detect)                        │
+    │   -ΔV for NiMH: 5-10mV per cell (NiCd: 10-30mV)             │
+    │   (Smaller drop – harder to detect)                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -508,11 +508,11 @@ NiMH CHARGING METHODS
     METHOD 3: dT/dt Termination (Best for NiMH):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   NiMH temperature rises sharply at full charge            │
-    │   Detect rate of change: dT/dt > 1°C per minute           │
-    │   More reliable than -ΔV for NiMH                         │
-    │   Requires temperature sensor (thermistor)                 │
-    │   Used in high-end chargers (Opus, SkyRC)                  │
+    │   NiMH temperature rises sharply at full charge             │
+    │   Detect rate of change: dT/dt > 1°C per minute             │
+    │   More reliable than -ΔV for NiMH                           │
+    │   Requires temperature sensor (thermistor)                  │
+    │   Used in high-end chargers (Opus, SkyRC)                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -520,11 +520,11 @@ NiMH CHARGING METHODS
     METHOD 4: Trickle Charge (Maintenance):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: C/20 to C/50 (very low)                           │
-    │   Safe for LSD NiMH: Yes (but not needed)                  │
-    │   Safe for standard NiMH: Possibly (monitor temperature)  │
-    │   Note: NiMH does NOT handle continuous trickle well      │
-    │   Better to charge when needed, not float                │
+    │   Rate: C/20 to C/50 (very low)                             │
+    │   Safe for LSD NiMH: Yes (but not needed)                   │
+    │   Safe for standard NiMH: Possibly (monitor temperature)    │
+    │   Note: NiMH does NOT handle continuous trickle well        │
+    │   Better to charge when needed, not float                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -537,13 +537,13 @@ NiMH CHARGING GUIDELINES
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use NiMH-specific charger (or smart charger)           │
-    │   ✓ Use slow charge (C/10) if unsure                      │
-    │   ✓ Use temperature monitoring for fast charging          │
-    │   ✓ Charge at room temperature (10-30°C)                   │
-    │   ✓ Use LSD NiMH for emergency applications               │
-    │   ✓ Store charged (unlike NiCd)                           │
-    │   ✓ Use smart charger with individual cell monitoring     │
+    │   ✓ Use NiMH-specific charger (or smart charger)            │
+    │   ✓ Use slow charge (C/10) if unsure                        │
+    │   ✓ Use temperature monitoring for fast charging            │
+    │   ✓ Charge at room temperature (10-30°C)                    │
+    │   ✓ Use LSD NiMH for emergency applications                 │
+    │   ✓ Store charged (unlike NiCd)                             │
+    │   ✓ Use smart charger with individual cell monitoring       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -551,13 +551,13 @@ NiMH CHARGING GUIDELINES
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Never trickle charge at >C/20 (causes damage)          │
-    │   ✗ Never charge frozen battery                            │
-    │   ✗ Never overcharge (causes heat, venting, capacity loss) │
-    │   ✗ Never use NiCd charger without -ΔV detection          │
-    │   ✗ Never charge at >1C unless battery rated              │
-    │   ✗ Don't leave on trickle for weeks (unlike NiCd)        │
-    │   ✗ Never reverse charge (destroy battery)                 │
+    │   X Never trickle charge at >C/20 (causes damage)           │
+    │   X Never charge frozen battery                             │
+    │   X Never overcharge (causes heat, venting, capacity loss)  │
+    │   X Never use NiCd charger without -ΔV detection            │
+    │   X Never charge at >1C unless battery rated                │
+    │   X Don't leave on trickle for weeks (unlike NiCd)          │
+    │   X Never reverse charge (destroy battery)                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
