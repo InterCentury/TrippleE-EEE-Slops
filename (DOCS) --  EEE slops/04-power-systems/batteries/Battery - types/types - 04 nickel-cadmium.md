@@ -489,10 +489,10 @@ NiCd CHARGING METHODS
     METHOD 3: Trickle Charge (Maintenance):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: C/20 to C/30 (very low)                           │
-    │   Use: Keeps battery topped up                             │
-    │   Safe: Yes, indefinitely                                  │
-    │   Example (2000mAh): 67-100mA continuous                   │
+    │   Rate: C/20 to C/30 (very low)                             │
+    │   Use: Keeps battery topped up                              │
+    │   Safe: Yes, indefinitely                                   │
+    │   Example (2000mAh): 67-100mA continuous                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -518,13 +518,13 @@ NiCd CHARGING GUIDELINES
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use NiCd-specific charger (or NiMH/NiCd dual)          │
-    │   ✓ Use correct charge rate for battery                    │
-    │   ✓ Fully discharge occasionally (prevents memory)         │
-    │   ✓ Charge at room temperature (10-30°C)                   │
-    │   ✓ Use temperature monitoring for fast charging           │
-    │   ✓ Ventilate area (hydrogen/oxygen gas possible)          │
-    │   ✓ Use trickle charge for storage (C/20-C/30)            │
+    │   ✓ Use NiCd-specific charger (or NiMH/NiCd dual)           │
+    │   ✓ Use correct charge rate for battery                     │
+    │   ✓ Fully discharge occasionally (prevents memory)          │
+    │   ✓ Charge at room temperature (10-30°C)                    │
+    │   ✓ Use temperature monitoring for fast charging            │
+    │   ✓ Ventilate area (hydrogen/oxygen gas possible)           │
+    │   ✓ Use trickle charge for storage (C/20-C/30)              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -532,12 +532,12 @@ NiCd CHARGING GUIDELINES
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Never trickle charge at >C/10 (damage)                 │
-    │   ✗ Never charge frozen battery                            │
-    │   ✗ Never overcharge continuously (gassing, dry-out)       │
-    │   ✗ Never reverse charge (destroy battery)                 │
-    │   ✗ Never charge at >1C unless battery rated              │
-    │   ✗ Don't use Li-ion charger (wrong algorithm)            │
+    │   X Never trickle charge at >C/10 (damage)                  │
+    │   X Never charge frozen battery                             │
+    │   X Never overcharge continuously (gassing, dry-out)        │
+    │   X Never reverse charge (destroy battery)                  │
+    │   X Never charge at >1C unless battery rated                │
+    │   X Don't use Li-ion charger (wrong algorithm)              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
