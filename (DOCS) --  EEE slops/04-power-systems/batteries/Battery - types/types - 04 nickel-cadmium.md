@@ -565,9 +565,9 @@ NiCd MAINTENANCE SCHEDULE
     EVERY 10-20 CYCLES:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ Full discharge (prevent memory effect)                 │
-    │   ☐ Run device until it stops                             │
-    │   ☐ Then full charge                                       │
+    │   ☐ Full discharge (prevent memory effect)                  │
+    │   ☐ Run device until it stops                               │
+    │   ☐ Then full charge                                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -575,11 +575,11 @@ NiCd MAINTENANCE SCHEDULE
     YEARLY:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ Recondition (deep discharge to 0.8V/cell)             │
-    │   ☐ Check capacity (if <60%, replace)                      │
-    │   ☐ Check for leaks (white powder)                         │
-    │   ☐ Clean terminals                                        │
-    │   ☐ Check for bulging or damage                           │
+    │   ☐ Recondition (deep discharge to 0.8V/cell)               │
+    │   ☐ Check capacity (if <60%, replace)                       │
+    │   ☐ Check for leaks (white powder)                          │
+    │   ☐ Clean terminals                                         │
+    │   ☐ Check for bulging or damage                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -587,11 +587,11 @@ NiCd MAINTENANCE SCHEDULE
     FOR STATIONARY (VENTED NiCd):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ Check electrolyte level (every 3-6 months)             │
-    │   ☐ Add distilled water                                    │
-    │   ☐ Check specific gravity                                │
-    │   ☐ Equalization charge                                   │
-    │   ☐ Clean vent caps                                       │
+    │   ☐ Check electrolyte level (every 3-6 months)              │
+    │   ☐ Add distilled water                                     │
+    │   ☐ Check specific gravity                                  │
+    │   ☐ Equalization charge                                     │
+    │   ☐ Clean vent caps                                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -604,15 +604,15 @@ NiCd STORAGE GUIDELINES
     BEST PRACTICES:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Storage temperature: 0-25°C (32-77°F)                    │
-    │   Storage state: DISCHARGED (0V-0.5V per cell)            │
-    │   (NiCd damaged by long-term full charge storage)          │
+    │   Storage temperature: 0-25°C (32-77°F)                     │
+    │   Storage state: DISCHARGED (0V-0.5V per cell)              │
+    │   (NiCd damaged by long-term full charge storage)           │
     │                                                             │
     │   Why discharged storage:                                   │
-    │   ├── Prevents memory effect                               │
-    │   ├── Reduces self-discharge                               │
-    │   ├── Extends calendar life                                │
-    │   └── Full charge storage degrades capacity               │
+    │   ├── Prevents memory effect                                │
+    │   ├── Reduces self-discharge                                │
+    │   ├── Extends calendar life                                 │
+    │   └── Full charge storage degrades capacity                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
