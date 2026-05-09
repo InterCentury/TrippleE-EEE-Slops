@@ -559,29 +559,29 @@ SAFETY DEVICES IN CYLINDRICAL CELLS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   PTC (Positive Temperature Coefficient)                   │
-    │   ├── Resettable fuse                                      │
-    │   ├── Resistance increases with temperature                │
-    │   ├── Limits current during overheat                       │
-    │   └── Resets when cooled                                   │
+    │   PTC (Positive Temperature Coefficient)                    │
+    │   ├── Resettable fuse                                       │
+    │   ├── Resistance increases with temperature                 │
+    │   ├── Limits current during overheat                        │
+    │   └── Resets when cooled                                    │
     │                                                             │
-    │   CID (Current Interrupt Device)                           │
-    │   ├── One-time permanent disconnect                        │
-    │   ├── Activates at high internal pressure                  │
-    │   ├── Physically breaks connection                         │
-    │   └── Cannot be reset (battery is dead)                    │
+    │   CID (Current Interrupt Device)                            │
+    │   ├── One-time permanent disconnect                         │
+    │   ├── Activates at high internal pressure                   │
+    │   ├── Physically breaks connection                          │
+    │   └── Cannot be reset (battery is dead)                     │
     │                                                             │
-    │   Safety Vent                                              │
+    │   Safety Vent                                               │
     │   ├── Last resort protection                                │
-    │   ├── Ruptures at extreme pressure                         │
-    │   ├── Releases gas (may be flammable)                      │
-    │   ├── Prevents explosion                                   │
-    │   └── Battery destroyed                                    │
+    │   ├── Ruptures at extreme pressure                          │
+    │   ├── Releases gas (may be flammable)                       │
+    │   ├── Prevents explosion                                    │
+    │   └── Battery destroyed                                     │
     │                                                             │
-    │   Separator                                                │
-    │   ├── Shuts down at high temperature (shutdown separator) │
-    │   ├── Pores close when hot (stops ion flow)               │
-    │   └── Prevents thermal runaway propagation                │
+    │   Separator                                                 │
+    │   ├── Shuts down at high temperature (shutdown separator)   │
+    │   ├── Pores close when hot (stops ion flow)                 │
+    │   └── Prevents thermal runaway propagation                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
