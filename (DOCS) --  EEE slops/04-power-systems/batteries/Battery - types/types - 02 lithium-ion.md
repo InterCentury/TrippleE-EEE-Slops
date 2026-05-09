@@ -29,10 +29,10 @@ LITHIUM-ION BATTERY CHEMISTRY (Generic)
     CHARGE REACTION (reverse):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   LiCoO₂ + C₆ → LiC₆ (anode) + CoO₂ (cathode)            │
+    │   LiCoO₂ + C₆ → LiC₆ (anode) + CoO₂ (cathode)               │
     │                                                             │
-    │   Lithium ions move from CATHODE (+) to ANODE (negative)   │
-    │   (electrons pushed by charger)                            │
+    │   Lithium ions move from CATHODE (+) to ANODE (negative)    │
+    │   (electrons pushed by charger)                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
