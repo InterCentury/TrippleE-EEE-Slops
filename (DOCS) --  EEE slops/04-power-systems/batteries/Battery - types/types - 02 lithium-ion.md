@@ -905,43 +905,45 @@ LI-ION CHARGING RULES
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Never leave charging unattended (especially LiPo)      │
-    │   ✗ Never charge below 0°C (irreversible damage)           │
-    │   ✗ Never charge swollen or damaged battery                │
-    │   ✗ Never exceed 4.20V per cell (4.2V for standard)        │
-    │   ✗ Never charge at >1C unless battery is rated for it     │
-    │   ✗ Never use "car charger" or "dumb" chargers             │
-    │   ✗ Never charge on flammable surface (wood, carpet)       │
-    │   ✗ Never charge in sealed container                       │
+    │   X Never leave charging unattended (especially LiPo)       │
+    │   X Never charge below 0°C (irreversible damage)            │
+    │   X Never charge swollen or damaged battery                 │
+    │   X Never exceed 4.20V per cell (4.2V for standard)         │
+    │   X Never charge at >1C unless battery is rated for it      │
+    │   X Never use "car charger" or "dumb" chargers              │
+    │   X Never charge on flammable surface (wood, carpet)        │
+    │   X Never charge in sealed container                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
 
-    OPTIMAL CHARGE PROFILE (NMC/LCO):
+   
+OPTIMAL CHARGE PROFILE (NMC/LCO):
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Current (A)    Voltage (V)                               │
-    │        │               │                                   │
-    │    1C ┼●             4.2 ┼                     ●            │
-    │        │ ╲                 │                   ╱│            │
-    │    0.8C┼  ╲               4.0 ┼                 ╱             │
-    │        │   ╲                 │               ╱               │
-    │    0.6C┼    ╲               3.8 ┼           ╱                 │
-    │        │     ╲               │         ╱                     │
-    │    0.4C┼      ╲             3.6 ┼     ╱                       │
-    │        │       ╲             │   ╱                           │
-    │    0.2C┼        ╲           3.4 ┼●                            │
-    │        │         ╲           │                               │
-    │    0.0C┼──────────●──────────3.2 ┼────────────────► Time     │
+    │   Current (A)     Voltage (V)                               │
+    │        │               │                                    │
+    │    1C  ┼●──────────────┼──────────┐ (Current drops in CV)   │
+    │        │               │ 4.2 ┼────┴─────────● (Voltage flat)│
+    │  0.8C  ┼               │     │        /                     │
+    │        │               │ 4.0 ┼       /                      │
+    │  0.6C  ┼               │     │      /                       │
+    │        │      / (V)    │ 3.8 ┼     / (Voltage rising in CC) │
+    │  0.4C  ┼     /         │     │    /                         │
+    │        │    /          │ 3.6 ┼   /                          │
+    │  0.2C  ┼   /           │     │  /                           │
+    │        │  /            │ 3.4 ┼● (Voltage start)             │
+    │  0.0C  ┼─●─────────────┴─3.2 ┼──────────────●─────► Time    │
     │                                                             │
-    │          CC phase          CV phase                         │
-    │      (Constant Current)  (Constant Voltage)                │
-    │                                   │                         │
-    │                                   ▼                         │
-    │                          Stop when current drops to C/10    │
+    │          CC phase              CV phase                     │
+    │      (Constant Current)    (Constant Voltage)               │
+    │                                │                            │
+    │                                ▼                            │
+    │                  Stop when current drops to C/10            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
+
 ```
 
 ## Storage and Disposal
