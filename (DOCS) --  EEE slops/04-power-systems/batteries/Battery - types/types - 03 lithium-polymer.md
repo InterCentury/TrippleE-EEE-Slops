@@ -691,25 +691,25 @@ RC LIPO PACK GUIDE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Racing drone (5-inch):                                    │
-    │   ├── 4S or 6S (14.8V or 22.2V)                           │
-    │   ├── 1300-1500mAh                                        │
-    │   ├── 100C+ rating (high discharge)                       │
-    │   ├── XT60 connector                                      │
-    │   └── Weight: 150-200g                                    │
+    │   ├── 4S or 6S (14.8V or 22.2V)                             │
+    │   ├── 1300-1500mAh                                          │
+    │   ├── 100C+ rating (high discharge)                         │
+    │   ├── XT60 connector                                        │
+    │   └── Weight: 150-200g                                      │
     │                                                             │
-    │   Long-range drone (7-10 inch):                            │
-    │   ├── 6S (22.2V)                                         │
-    │   ├── 3000-6000mAh                                       │
-    │   ├── 30-50C rating                                       │
-    │   ├── XT60 or XT90 connector                              │
-    │   └── Weight: 400-800g                                   │
+    │   Long-range drone (7-10 inch):                             │
+    │   ├── 6S (22.2V)                                            │
+    │   ├── 3000-6000mAh                                          │
+    │   ├── 30-50C rating                                         │
+    │   ├── XT60 or XT90 connector                                │
+    │   └── Weight: 400-800g                                      │
     │                                                             │
-    │   RC car (1/10 buggy):                                     │
-    │   ├── 2S or 3S (7.4V or 11.1V)                          │
-    │   ├── 5000-6000mAh                                       │
-    │   ├── Soft case or hard case                              │
-    │   ├── 50-100C rating                                     │
-    │   └── XT60 or Deans connector                            │
+    │   RC car (1/10 buggy):                                      │
+    │   ├── 2S or 3S (7.4V or 11.1V)                              │
+    │   ├── 5000-6000mAh                                          │
+    │   ├── Soft case or hard case                                │
+    │   ├── 50-100C rating                                        │
+    │   └── XT60 or Deans connector                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -721,30 +721,30 @@ LiPo pouch cells in everyday devices.
 ```
 CONSUMER DEVICE LIPO CELLS
 
-    Device              S count    Voltage    Capacity    Typical Size
-    ──────────────────────────────────────────────────────────────
-    Smartwatch          1S         3.85V      200-400mAh   3x30x40mm
-    Bluetooth earbuds   1S         3.7V       30-50mAh     3x10x20mm
-    Smartphone          1S         3.85V      3000-5000mAh 5x50x80mm
-    Tablet              1S-2S      3.85-7.7V  5000-10000mAh 6x100x150mm
-    Power bank (single) 1S         3.7V       5000-20000mAh multiple
-    Laptop (internal)   2S-4S      7.4-14.8V  40-99Wh      Custom shape
-    E-reader            1S         3.7V       1000-2000mAh 4x60x100mm
-    Fitness tracker     1S         3.7V       100-200mAh   3x20x30mm
+    Device              S count    Voltage    Capacity        Typical Size
+    ──────────────────────────────────────────────────────────────────────────
+    Smartwatch          1S         3.85V      200-400mAh      3x30x40mm
+    Bluetooth earbuds   1S         3.7V       30-50mAh        3x10x20mm
+    Smartphone          1S         3.85V      3000-5000mAh    5x50x80mm
+    Tablet              1S-2S      3.85-7.7V  5000-10000mAh   6x100x150mm
+    Power bank (single) 1S         3.7V       5000-20000mAh   multiple
+    Laptop (internal)   2S-4S      7.4-14.8V  40-99Wh         Custom shape
+    E-reader            1S         3.7V       1000-2000mAh    4x60x100mm
+    Fitness tracker     1S         3.7V       100-200mAh      3x20x30mm
 
 
     SPECIAL VOLTAGES (Smartphones):
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Standard Li-ion: 3.7V nominal, 4.2V full                │
-    │   High voltage Li-ion: 3.85V nominal, 4.35V-4.4V full    │
+    │   Standard Li-ion: 3.7V nominal, 4.2V full                  │
+    │   High voltage Li-ion: 3.85V nominal, 4.35V-4.4V full       │
     │                                                             │
-    │   High-voltage cells are used in phones for:               │
-    │   ├── Higher energy density (5-10% more)                  │
-    │   ├── Thinner devices                                     │
-    │   ├── Requires special charger (not compatible)           │
-    │   └── Shorter cycle life (300-500 cycles)                 │
+    │   High-voltage cells are used in phones for:                │
+    │   ├── Higher energy density (5-10% more)                    │
+    │   ├── Thinner devices                                       │
+    │   ├── Requires special charger (not compatible)             │
+    │   └── Shorter cycle life (300-500 cycles)                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -761,14 +761,14 @@ LIPO RISK ASSESSMENT
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   HAZARD LIKELIHOOD:                                        │
-    │   (Compared to cylindrical Li-ion)                         │
+    │   (Compared to cylindrical Li-ion)                          │
     │                                                             │
-    │   Puncture fire:      MUCH HIGHER (no steel case)         │
-    │   Swelling:           MUCH HIGHER (age, damage)           │
-    │   Thermal runaway:    HIGHER (less robust)                │
-    │   Fire severity:      HIGHER (vents with flame)           │
-    │   Physical damage:    MUCH HIGHER (delicate)              │
-    │   Manufacturing defect: HIGHER (less automation)          │
+    │   Puncture fire:      MUCH HIGHER (no steel case)           │
+    │   Swelling:           MUCH HIGHER (age, damage)             │
+    │   Thermal runaway:    HIGHER (less robust)                  │
+    │   Fire severity:      HIGHER (vents with flame)             │
+    │   Physical damage:    MUCH HIGHER (delicate)                │
+    │   Manufacturing defect: HIGHER (less automation)            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -777,26 +777,26 @@ LIPO RISK ASSESSMENT
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. NO STEEL CASE                                         │
-    │      ├── No mechanical protection                          │
-    │      ├── Easily punctured                                  │
-    │      └── No built-in CID or PTC                           │
+    │   1. NO STEEL CASE                                          │
+    │      ├── No mechanical protection                           │
+    │      ├── Easily punctured                                   │
+    │      └── No built-in CID or PTC                             │
     │                                                             │
-    │   2. SWELLING                                              │
-    │      ├── Normal end-of-life indication                     │
-    │      ├── Gas from electrolyte decomposition                │
-    │      └── Swollen cell = DANGER (stop using)               │
+    │   2. SWELLING                                               │
+    │      ├── Normal end-of-life indication                      │
+    │      ├── Gas from electrolyte decomposition                 │
+    │      └── Swollen cell = DANGER (stop using)                 │
     │                                                             │
-    │   3. PUNCTURE = IMMEDIATE FIRE                             │
-    │      ├── No vent mechanism                                 │
-    │      ├── Jet of flame (2-3 feet long)                     │
-    │      ├── Reaches 2000°C                                   │
-    │      └── Difficult to extinguish                          │
+    │   3. PUNCTURE = IMMEDIATE FIRE                              │
+    │      ├── No vent mechanism                                  │
+    │      ├── Jet of flame (2-3 feet long)                       │
+    │      ├── Reaches 2000°C                                     │
+    │      └── Difficult to extinguish                            │
     │                                                             │
-    │   4. DELICATE LEAD CONNECTIONS                             │
-    │      ├── Tabs can break internally                         │
-    │      ├── Broken tab = internal short                      │
-    │      └── Can cause fire during charging                   │
+    │   4. DELICATE LEAD CONNECTIONS                              │
+    │      ├── Tabs can break internally                          │
+    │      ├── Broken tab = internal short                        │
+    │      └── Can cause fire during charging                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
