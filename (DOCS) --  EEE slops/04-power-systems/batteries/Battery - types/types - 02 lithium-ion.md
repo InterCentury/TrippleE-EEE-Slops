@@ -955,10 +955,10 @@ STORAGE BEST PRACTICES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Ideal storage: 3.7-3.8V (50-60% charge)                 │
-    │   Temperature: 5-15°C (41-59°F) for best life              │
-    │   Acceptable: 0-25°C (32-77°F)                             │
-    │   Avoid: >30°C (>86°F) – accelerates aging                │
+    │   Ideal storage: 3.7-3.8V (50-60% charge)                   │
+    │   Temperature: 5-15°C (41-59°F) for best life               │
+    │   Acceptable: 0-25°C (32-77°F)                              │
+    │   Avoid: >30°C (>86°F) – accelerates aging                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -990,13 +990,13 @@ END-OF-LIFE INDICATORS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☑ Swollen or puffed (pouch cells) – IMMEDIATE disposal  │
-    │   ☑ Cracked or leaking case – DANGER – dispose immediately│
-    │   ☑ Capacity <60-70% of original – recycle                 │
+    │   ☑ Swollen or puffed (pouch cells) – IMMEDIATE disposal    │
+    │   ☑ Cracked or leaking case – DANGER – dispose immediately  │
+    │   ☑ Capacity <60-70% of original – recycle                  │
     │   ☑ Won't hold charge overnight – recycle                   │
     │   ☑ Visible corrosion or rust – recycle                     │
-    │   ☑ Age >5 years (consumer) or >10 years (EV) – recycle    │
-    │   ☑ Physical damage (dents, punctures) – recycle           │
+    │   ☑ Age >5 years (consumer) or >10 years (EV) – recycle     │
+    │   ☑ Physical damage (dents, punctures) – recycle            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
