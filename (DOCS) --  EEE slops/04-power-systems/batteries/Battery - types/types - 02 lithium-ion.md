@@ -18,9 +18,9 @@ LITHIUM-ION BATTERY CHEMISTRY (Generic)
     DISCHARGE REACTION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   LiC₆ (anode) + CoO₂ (cathode) → LiCoO₂ + C₆            │
+    │   LiC₆ (anode) + CoO₂ (cathode) → LiCoO₂ + C₆               │
     │                                                             │
-    │   Lithium ions move from ANODE (negative) to CATHODE (+)
+    │   Lithium ions move from ANODE (negative) to CATHODE (+)    │  
     │   Electrons flow through external circuit                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
