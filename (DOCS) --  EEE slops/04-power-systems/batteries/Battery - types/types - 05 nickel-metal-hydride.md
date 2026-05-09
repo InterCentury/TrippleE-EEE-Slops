@@ -568,9 +568,9 @@ NiMH CHARGING GUIDELINES
     ────────────────────────────────────────────────────────────────────
     C/10           14-16 hours      Timer                         Good
     C/5            6-8 hours        Timer or -ΔV                  Good
-    C/3 (0.33C)    3.5-4 hours      -ΔV + temperature            Good
-    0.5C           2-2.5 hours      -ΔV + temperature + timer    Fair
-    1C             1-1.5 hours      -ΔV + temperature + timer    Risky
+    C/3 (0.33C)    3.5-4 hours      -ΔV + temperature             Good
+    0.5C           2-2.5 hours      -ΔV + temperature + timer     Fair
+    1C             1-1.5 hours      -ΔV + temperature + timer     Risky
 
     For longest life: Charge at 0.3-0.5C (3-4 hours)
     For fastest charge: Use rated fast-charge cells only
@@ -753,13 +753,13 @@ NiMH DISPOSAL REQUIREMENTS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   NiMH is MUCH LESS TOXIC than NiCd                         │
-    │   No cadmium (carcinogen)                                  │
-    │   Contains nickel (allergy risk, but not toxic)            │
-    │   Contains rare earth metals (not hazardous)               │
-    │   Electrolyte (KOH) is caustic but not toxic               │
+    │   No cadmium (carcinogen)                                   │
+    │   Contains nickel (allergy risk, but not toxic)             │
+    │   Contains rare earth metals (not hazardous)                │
+    │   Electrolyte (KOH) is caustic but not toxic                │
     │                                                             │
-    │   Still should be recycled (valuable materials)            │
-    │   Not hazardous waste in most countries                    │
+    │   Still should be recycled (valuable materials)             │
+    │   Not hazardous waste in most countries                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -768,12 +768,12 @@ NiMH DISPOSAL REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   US: Not regulated as hazardous waste                     │
-    │   US: Encouraged to recycle (Call2Recycle)                 │
-    │   EU: Must recycle (Battery Directive)                     │
-    │   Some states: Can trash (not recommended)                 │
+    │   US: Not regulated as hazardous waste                      │
+    │   US: Encouraged to recycle (Call2Recycle)                  │
+    │   EU: Must recycle (Battery Directive)                      │
+    │   Some states: Can trash (not recommended)                  │
     │                                                             │
-    │   Best practice: ALWAYS recycle (recovers nickel)          │
+    │   Best practice: ALWAYS recycle (recovers nickel)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -783,18 +783,18 @@ NiMH DISPOSAL REQUIREMENTS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   US/Canada:                                                │
-    │   ├── Call2Recycle (800-822-8837) – FREE                   │
-    │   ├── Best Buy                                             │
-    │   ├── Home Depot                                           │
-    │   ├── Lowe's                                               │
-    │   ├── Staples                                              │
-    │   ├── Batteries Plus                                      │
-    │   └── Some local recycling centers                         │
+    │   ├── Call2Recycle (800-822-8837) – FREE                    │
+    │   ├── Best Buy                                              │
+    │   ├── Home Depot                                            │
+    │   ├── Lowe's                                                │
+    │   ├── Staples                                               │
+    │   ├── Batteries Plus                                        │
+    │   └── Some local recycling centers                          │
     │                                                             │
     │   PREPARATION:                                              │
-    │   ├── No need to discharge (safe to recycle charged)      │
-    │   ├── Tape terminals (prevent shorts)                      │
-    │   └── Place in separate bag                                │
+    │   ├── No need to discharge (safe to recycle charged)        │
+    │   ├── Tape terminals (prevent shorts)                       │
+    │   └── Place in separate bag                                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
