@@ -18,12 +18,12 @@ NICKEL-METAL HYDRIDE CHEMISTRY
     DISCHARGE REACTION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Positive: NiOOH + H₂O + e⁻ → Ni(OH)₂ + OH⁻              │
-    │   Negative: MH + OH⁻ → M + H₂O + e⁻                       │
-    │   Overall: NiOOH + MH → Ni(OH)₂ + M                       │
+    │   Positive: NiOOH + H₂O + e⁻ → Ni(OH)₂ + OH⁻                │
+    │   Negative: MH + OH⁻ → M + H₂O + e⁻                         │
+    │   Overall: NiOOH + MH → Ni(OH)₂ + M                         │
     │                                                             │
-    │   Where M = metal alloy (hydrogen storage)                │
-    │         MH = metal hydride (hydrogen absorbed)            │
+    │   Where M = metal alloy (hydrogen storage)                  │
+    │         MH = metal hydride (hydrogen absorbed)              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -31,10 +31,10 @@ NICKEL-METAL HYDRIDE CHEMISTRY
     CHARGE REACTION (reverse):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Ni(OH)₂ + M → NiOOH + MH                                │
+    │   Ni(OH)₂ + M → NiOOH + MH                                  │
     │                                                             │
-    │   Hydrogen moves from positive to negative electrode       │
-    │   (stored in metal alloy)                                 │
+    │   Hydrogen moves from positive to negative electrode        │
+    │   (stored in metal alloy)                                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -62,13 +62,13 @@ NiMH BATTERY CONSTRUCTION (Cylindrical)
     │   │  ┌─────────────────────────────────────────────┐    │   │
     │   │  │                                             │    │   │
     │   │  │   Positive terminal (+)                     │    │   │
-    │   │  │   (with safety vent)                       │    │   │
+    │   │  │   (with safety vent)                        │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
     │   │                                                     │   │
     │   │  ┌─────────────────────────────────────────────┐    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
-    │   │  │  ██   Sealing plate                     ██   │    │   │
-    │   │  │  ██   (safety vent)                     ██   │    │   │
+    │   │  │  ██   Sealing plate                    ██   │    │   │
+    │   │  │  ██   (safety vent)                    ██   │    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
     │   │                                                     │   │
@@ -82,7 +82,7 @@ NiMH BATTERY CONSTRUCTION (Cylindrical)
     │   │                                                     │   │
     │   │  ┌─────────────────────────────────────────────┐    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
-    │   │  │  ██   Separator (nylon/polypropylene) ██   │    │   │
+    │   │  │  ██   Separator (nylon/polypropylene)  ██   │    │   │
     │   │  │  ██   (soaked in KOH electrolyte)      ██   │    │   │
     │   │  │  ████████████████████████████████████████   │    │   │
     │   │  └─────────────────────────────────────────────┘    │   │
