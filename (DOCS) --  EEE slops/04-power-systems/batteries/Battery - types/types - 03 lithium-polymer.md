@@ -673,17 +673,17 @@ The most demanding application for LiPo batteries.
 ```
 RC LIPO PACK GUIDE
 
-    APPLICATION         S (cells)   Capacity    C-rating    Connector
-    ──────────────────────────────────────────────────────────────
-    Micro drone        1S          150-300mAh  30-50C      JST/PH2.0
-    Tiny whoop         1S          300-500mAh  30-50C      JST/PH2.0
-    ️ Mini drone        2S          450-800mAh  50-80C      XT30
-    ️ Racing drone      3S-4S       1300-1800mAh 80-120C     XT60
-    ️ Freestyle drone   4S-6S       1300-2200mAh 80-120C     XT60
-    ️ RC car (1/16)    2S           800-1200mAh 50C         Deans/XT60
-    ️ RC car (1/10)    2S-3S        4000-6000mAh 50-100C     XT60/Deans
-    ️ RC plane         3S-4S        2200-5000mAh 30-50C      XT60/Deans
-    ️ RC helicopter    6S-12S       5000-10000mAh 50-80C     XT90/EC5
+     APPLICATION        S (cells)   Capacity      C-rating    Connector
+    ───────────────────────────────────────────────────────────────────────
+     Micro drone        1S          150-300mAh    30-50C      JST/PH2.0
+     Tiny whoop         1S          300-500mAh    30-50C      JST/PH2.0
+    ️ Mini drone         2S          450-800mAh    50-80C      XT30
+    ️ Racing drone       3S-4S       1300-1800mAh  80-120C     XT60
+    ️ Freestyle drone    4S-6S       1300-2200mAh  80-120C     XT60
+    ️ RC car (1/16)      2S          800-1200mAh   50C         Deans/XT60
+    ️ RC car (1/10)      2S-3S       4000-6000mAh  50-100C     XT60/Deans
+    ️ RC plane           3S-4S       2200-5000mAh  30-50C      XT60/Deans
+    ️ RC helicopter      6S-12S      5000-10000mAh 50-80C      XT90/EC5
 
 
     RECOMMENDED CONFIGURATIONS:
