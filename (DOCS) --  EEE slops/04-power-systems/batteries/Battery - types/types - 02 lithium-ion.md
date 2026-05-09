@@ -712,13 +712,13 @@ POWER TOOL BATTERY REQUIREMENTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Common power tool voltages:                              │
-    │   ├── 12V: 3 cells in series (3S) – 10.8-12.6V            │
-    │   ├── 18V: 5 cells in series (5S) – 18-21V                │
-    │   ├── 20V: 5 cells in series (5S) – 18-21V (marketing)    │
-    │   ├── 24V: 6 cells in series (6S) – 21.6-25.2V            │
-    │   ├── 36V: 10 cells in series (10S) – 36-42V              │
-    │   └── 40V: 10 cells in series (10S) – 36-42V (marketing)  │
+    │   Common power tool voltages:                               │
+    │   ├── 12V: 3 cells in series (3S) – 10.8-12.6V              │
+    │   ├── 18V: 5 cells in series (5S) – 18-21V                  │
+    │   ├── 20V: 5 cells in series (5S) – 18-21V (marketing)      │
+    │   ├── 24V: 6 cells in series (6S) – 21.6-25.2V              │
+    │   ├── 36V: 10 cells in series (10S) – 36-42V                │
+    │   └── 40V: 10 cells in series (10S) – 36-42V (marketing)    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
