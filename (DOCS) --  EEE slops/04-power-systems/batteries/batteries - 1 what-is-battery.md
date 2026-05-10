@@ -76,19 +76,19 @@ BATTERY OPERATION PRINCIPLE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Anode reaction (oxidation):                               │
-    │   Zn → Zn²⁺ + 2e⁻                                          │
-    │   (zinc loses electrons, becomes positive ion)             │
+    │   Zn → Zn²⁺ + 2e⁻                                           │
+    │   (zinc loses electrons, becomes positive ion)              │
     │                                                             │
     │   Cathode reaction (reduction):                             │
-    │   2MnO₂ + 2H⁺ + 2e⁻ → Mn₂O₃ + H₂O                         │
+    │   2MnO₂ + 2H⁺ + 2e⁻ → Mn₂O₃ + H₂O                           │
     │   (manganese dioxide gains electrons)                       │
     │                                                             │
-    │   Electrolyte: Allows Zn²⁺ and OH⁻ ions to move            │
+    │   Electrolyte: Allows Zn²⁺ and OH⁻ ions to move             │
     │                                                             │
     │   Net effect:                                               │
-    │   ├── Electrons flow through external circuit (current)    │
-    │   ├── Ions flow through electrolyte (completes circuit)    │
-    │   └── Chemical energy → Electrical energy                  │
+    │   ├── Electrons flow through external circuit (current)     │
+    │   ├── Ions flow through electrolyte (completes circuit)     │
+    │   └── Chemical energy → Electrical energy                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
