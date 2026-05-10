@@ -251,15 +251,15 @@ GOOD APPLICATIONS FOR ALKALINE
     LOW DRAIN (<100mA):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Remote controls (TV, AC, stereo)                       │
-    │   ✓ Clocks (wall, alarm, desk)                             │
-    │   ✓ Smoke detectors (change every 6 months)                │
-    │   ✓ Thermostats                                            │
-    │   ✓ Wireless mice/keyboards                                │
-    │   ✓ Calculators                                            │
-    │   ✓ Digital scales                                         │
-    │   ✓ Blood pressure monitors                                │
-    │   ✓ Emergency flashlights (check regularly)                │
+    │   ✓ Remote controls (TV, AC, stereo)                        │
+    │   ✓ Clocks (wall, alarm, desk)                              │
+    │   ✓ Smoke detectors (change every 6 months)                 │
+    │   ✓ Thermostats                                             │
+    │   ✓ Wireless mice/keyboards                                 │
+    │   ✓ Calculators                                             │
+    │   ✓ Digital scales                                          │
+    │   ✓ Blood pressure monitors                                 │
+    │   ✓ Emergency flashlights (check regularly)                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
