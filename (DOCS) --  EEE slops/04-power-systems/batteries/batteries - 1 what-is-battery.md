@@ -346,9 +346,9 @@ C-RATE DEFINITION
     TYPICAL C-RATES BY CHEMISTRY:
 
     Chemistry               Max Charge C     Max Discharge C    Notes
-    ──────────────────────────────────────────────────────────────
-    Alkaline                N/A             0.2-0.5C           Poor high rate
-    Lead-acid               0.3C            3-5C (CCA)         Starting only
+    ────────────────────────────────────────────────────────────────────────────
+    Alkaline                N/A             0.2-0.5C            Poor high rate
+    Lead-acid               0.3C            3-5C (CCA)          Starting only
     NiCd                    1C              10-20C              Very good
     NiMH (standard)         1C              3-5C                Good
     NiMH (high power)       2-3C            10-15C              Power tools
@@ -388,7 +388,7 @@ CYCLE LIFE DEFINITION
     TYPICAL CYCLE LIFE BY CHEMISTRY (100% depth of discharge)
 
     Chemistry               Cycle Life (80% DoD)    Notes
-    ──────────────────────────────────────────────────────────────
+    ──────────────────────────────────────────────────────────────────────
     Lead-acid (starting)    50-100                   Not for deep cycle
     Lead-acid (deep cycle)  200-500                  Better
     NiCd                    500-1000                 Excellent
@@ -521,10 +521,10 @@ SERIES-PARALLEL (4S2P example)
     │                                                             │
     │   -││+   -││+   -││+   -││+                                 │
     │   Cell1   Cell2   Cell3   Cell4                             │
-    │     │       │       │       │                               │
-    │     │       │       │       │                               │
+    │       │       │     │      │                                │
+    │       │       │     │      │                                │
     │   -││+   -││+   -││+   -││+                                 │
-    │   Cell5   Cell6   Cell7   Cell8                             │
+    │    Cell5  Cell6  Cell7  Cell8                               │
     │                                                             │
     │   Configuration: 4 cells in series (4S)                     │
     │                 2 parallel strings (2P)                     │
