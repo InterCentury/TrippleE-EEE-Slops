@@ -463,15 +463,15 @@ SERIES CONFIGURATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   -││+   -││+   -││+                                       │
-    │   Cell 1  Cell 2  Cell 3                                   │
-    │                         │                                  │
-    │                         ▼                                  │
-    │   Total voltage = V₁ + V₂ + V₃                             │
-    │   Total capacity = Same as single cell                     │
-    │   (current same through all cells)                         │
+    │   -││+   -││+   -││+                                        │
+    │   Cell 1  Cell 2  Cell 3                                    │
+    │                        │                                    │
+    │                        ▼                                    │
+    │   Total voltage = V₁ + V₂ + V₃                              │
+    │   Total capacity = Same as single cell                      │
+    │   (current same through all cells)                          │
     │                                                             │
-    │   Example: 3 × 1.2V NiMH cells → 3.6V                     │
+    │   Example: 3 × 1.2V NiMH cells → 3.6V                       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
