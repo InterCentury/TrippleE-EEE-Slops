@@ -399,14 +399,14 @@ DEVICE-SPECIFIC RECOMMENDATIONS
 COMPLETE BATTERY COMPARISON TABLE
 
     Chemistry           Voltage    Energy (Wh/kg)   Cycle Life   Self-Discharge   Cost
-    ──────────────────────────────────────────────────────────────────────────────
+    ────────────────────────────────────────────────────────────────────────────────────────
     Alkaline            1.5V       130-150          N/A          1-2%/year        $
     (primary)
     
     Zinc-carbon         1.5V       60-80            N/A          5-10%/year       $
     (primary)
     
-    Lithium primary     1.5-3.6V  260-300          N/A          <1%/year         $$$
+    Lithium primary     1.5-3.6V   260-300          N/A          <1%/year         $$$
     (Li-FeS₂, etc.)
     
     NiCd                1.2V       40-60            500-1000     15-20%/month     $$
