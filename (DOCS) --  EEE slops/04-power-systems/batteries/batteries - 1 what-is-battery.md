@@ -201,26 +201,26 @@ PRIMARY BATTERIES (Non-rechargeable)
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Characteristics:                                          │
-    │   ├── Can be recharged hundreds/thousands of times         │
-    │   ├── Higher initial cost                                  │
-    │   ├── Lower energy density (Wh/kg)                         │
-    │   ├── Shorter shelf life (higher self-discharge)           │
-    │   ├── Requires charger                                     │
-    │   └── Lower cost per use (over lifetime)                   │
+    │   ├── Can be recharged hundreds/thousands of times          │
+    │   ├── Higher initial cost                                   │
+    │   ├── Lower energy density (Wh/kg)                          │
+    │   ├── Shorter shelf life (higher self-discharge)            │
+    │   ├── Requires charger                                      │
+    │   └── Lower cost per use (over lifetime)                    │
     │                                                             │
     │   Examples:                                                 │
-    │   ├── Lead-acid (car battery, UPS)                        │
-    │   ├── NiCd (power tools, aviation)                        │
-    │   ├── NiMH (AA/AAA rechargeable, hybrid cars)             │
-    │   ├── Li-ion (phones, laptops, EVs)                       │
-    │   ├── LiFePO₄ (solar storage, golf carts)                 │
-    │   └── LiPo (drones, RC)                                   │
+    │   ├── Lead-acid (car battery, UPS)                          │
+    │   ├── NiCd (power tools, aviation)                          │
+    │   ├── NiMH (AA/AAA rechargeable, hybrid cars)               │
+    │   ├── Li-ion (phones, laptops, EVs)                         │
+    │   ├── LiFePO₄ (solar storage, golf carts)                   │
+    │   └── LiPo (drones, RC)                                     │
     │                                                             │
     │   Best for:                                                 │
-    │   ├── High-drain devices (cameras, tools)                  │
-    │   ├── Frequently used devices (phones, laptops)           │
-    │   ├── High power applications (EVs)                        │
-    │   └── Where cost per use matters                          │
+    │   ├── High-drain devices (cameras, tools)                   │
+    │   ├── Frequently used devices (phones, laptops)             │
+    │   ├── High power applications (EVs)                         │
+    │   └── Where cost per use matters                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -253,7 +253,7 @@ VOLTAGE BY CHEMISTRY
     Primary Batteries:
 
     Chemistry               Nominal Voltage    Full (fresh)    Cutoff
-    ──────────────────────────────────────────────────────────────
+    ────────────────────────────────────────────────────────────────────
     Alkaline                1.5V               1.60-1.65V      0.8-1.0V
     Zinc-carbon             1.5V               1.55-1.60V      0.8-0.9V
     Lithium (Li-FeS₂)       1.5V               1.80V           0.8-1.0V
@@ -265,7 +265,7 @@ VOLTAGE BY CHEMISTRY
     Secondary Batteries:
 
     Chemistry               Nominal Voltage    Full (charged)  Cutoff
-    ──────────────────────────────────────────────────────────────
+    ────────────────────────────────────────────────────────────────────
     Lead-acid (per cell)    2.0-2.1V           2.40-2.45V      1.75V
     Lead-acid (12V)         12.0-12.6V         13.8-14.4V      10.5V
     NiCd                    1.2V               1.40-1.45V      1.0V
@@ -316,7 +316,7 @@ CAPACITY EXPLANATION
     TYPICAL CAPACITIES BY SIZE:
 
     Size/Format             Alkaline        NiMH            Li-ion
-    ──────────────────────────────────────────────────────────────
+    ──────────────────────────────────────────────────────────────────────
     AAA                     1000-1200 mAh   800-1100 mAh    -
     AA                      2500-3000 mAh   2000-2800 mAh   -
     C                       7000-8000 mAh   4500-6000 mAh   -
@@ -363,14 +363,14 @@ C-RATE DEFINITION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Higher C-rate → Higher current → More heat               │
-    │   More heat → Reduced efficiency → More losses             │
+    │   Higher C-rate → Higher current → More heat                │
+    │   More heat → Reduced efficiency → More losses              │
     │                                                             │
-    │   Example (2000mAh Li-ion at 25°C):                        │
-    │   0.2C (400mA):   2000mAh (100%) efficiency                │
-    │   1C (2000mA):    1950mAh (97.5%)                          │
-    │   2C (4000mA):    1800mAh (90%)                            │
-    │   5C (10000mA):   1500mAh (75%)                            │
+    │   Example (2000mAh Li-ion at 25°C):                         │
+    │   0.2C (400mA):   2000mAh (100%) efficiency                 │
+    │   1C (2000mA):    1950mAh (97.5%)                           │
+    │   2C (4000mA):    1800mAh (90%)                             │
+    │   5C (10000mA):   1500mAh (75%)                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
