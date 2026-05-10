@@ -96,12 +96,12 @@ BATTERY OPERATION PRINCIPLE
     CHARGE (rechargeable battery only):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   External power forces electrons back to anode            │
-    │   Chemical reactions reverse                               │
-    │   Electrical energy → Chemical energy (stored)             │
+    │   External power forces electrons back to anode             │
+    │   Chemical reactions reverse                                │
+    │   Electrical energy → Chemical energy (stored)              │
     │                                                             │
-    │   Anode: Zn²⁺ + 2e⁻ → Zn                                   │
-    │   Cathode: Mn₂O₃ + H₂O → 2MnO₂ + 2H⁺ + 2e⁻                │
+    │   Anode: Zn²⁺ + 2e⁻ → Zn                                    │
+    │   Cathode: Mn₂O₃ + H₂O → 2MnO₂ + 2H⁺ + 2e⁻                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
