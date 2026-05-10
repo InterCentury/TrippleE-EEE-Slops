@@ -512,17 +512,17 @@ TCO FACTORS TO CONSIDER
     │   └── Enclosure / holder                                    │
     │                                                             │
     │   Operating Cost:                                           │
-    │   ├── Electricity for charging (negligible)                │
+    │   ├── Electricity for charging (negligible)                 │
     │   ├── Replacement batteries                                 │
-    │   └── Maintenance (water for flooded lead-acid)            │
+    │   └── Maintenance (water for flooded lead-acid)             │
     │                                                             │
     │   Disposal Cost:                                            │
     │   ├── Recycling fees (NiCd, Li-ion)                         │
-    │   ├── Hazardous waste handling (lead-acid)                 │
+    │   ├── Hazardous waste handling (lead-acid)                  │
     │   └── Environmental compliance                              │
     │                                                             │
     │   Hidden Costs:                                             │
-    │   ├── Device damage from leaks (alkaline)                  │
+    │   ├── Device damage from leaks (alkaline)                   │
     │   ├── Fire risk (Li-ion without BMS)                        │
     │   ├── Downtime (battery failure)                            │
     │   └── Lost data / productivity                              │
@@ -622,18 +622,18 @@ EMERGENCY QUICK REFERENCE
     │   DEVICE TYPE              BEST GUESS                       │
     │   ──────────────────────────────────────────────────────────│
     │   TV Remote                Alkaline                         │
-    │   Wireless mouse           Alkaline or NiMH                │
+    │   Wireless mouse           Alkaline or NiMH                 │
     │   Wall clock               Alkaline                         │
-    │   Flashlight (LED)         Alkaline (or NiMH if used often)│
+    │   Flashlight (LED)         Alkaline (or NiMH if used often) │
     │   Digital camera           NiMH                             │
     │   Kids toy                 Alkaline (or NiMH if heavy use)  │
     │   Smoke detector           Alkaline (change yearly)         │
     │   Thermostat               Alkaline                         │
     │   Cordless phone           NiMH (built-in pack)             │
     │   Car key fob              Alkaline (CR2032 coin cell)      │
-    │   Portable radio           Alkaline or NiMH                │
+    │   Portable radio           Alkaline or NiMH                 │
     │   Medical device           Follow manual (often alkaline)   │
-    │   Power tool               NEEDS SPECIFIC (Li-ion pack)    │
+    │   Power tool               NEEDS SPECIFIC (Li-ion pack)     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -654,22 +654,22 @@ BATTERY QUICK SELECTION CARD
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   NEED:                     USE:                           │
+    │   NEED:                     USE:                            │
     │   ──────────────────────────────────────────────────────────│
-    │   Long shelf life           Alkaline or Lithium primary    │
-    │   High energy density       Li-ion (NMC)                   │
-    │   High power (drones)       LiPo (high C)                  │
-    │   Low cost                  Lead-acid or alkaline          │
-    │   Long cycle life           LiFePO₄ or NiCd                │
-    │   Safety critical           LiFePO₄ or NiMH                │
-    │   Cold weather (-40°C)      Lithium primary or NiCd        │
-    │   Hot weather (>50°C)       Lithium primary (special)      │
-    │   Small size (thin)         LiPo pouch                     │
-    │   Rechargeable AA/AAA       LSD NiMH (Eneloop)             │
-    │   Car starting              Lead-acid (AGM)                │
-    │   Solar storage             LiFePO₄                        │
-    │   UPS backup                Lead-acid (SLA)                │
-    │   Medical implant           Lithium primary (Li-SOCl₂)     │
+    │   Long shelf life           Alkaline or Lithium primary     │
+    │   High energy density       Li-ion (NMC)                    │
+    │   High power (drones)       LiPo (high C)                   │
+    │   Low cost                  Lead-acid or alkaline           │
+    │   Long cycle life           LiFePO₄ or NiCd                 │
+    │   Safety critical           LiFePO₄ or NiMH                 │
+    │   Cold weather (-40°C)      Lithium primary or NiCd         │
+    │   Hot weather (>50°C)       Lithium primary (special)       │
+    │   Small size (thin)         LiPo pouch                      │
+    │   Rechargeable AA/AAA       LSD NiMH (Eneloop)              │
+    │   Car starting              Lead-acid (AGM)                 │
+    │   Solar storage             LiFePO₄                         │
+    │   UPS backup                Lead-acid (SLA)                 │
+    │   Medical implant           Lithium primary (Li-SOCl₂)      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -679,7 +679,7 @@ BATTERY QUICK SELECTION CARD
     ┌─────────────────────────────────────────────────────────────┐
     │   USAGE PATTERN              BEST BATTERY                   │
     │   ──────────────────────────────────────────────────────────│
-    │   Emergency (unused for years)  Lithium primary            │
+    │   Emergency (unused for years)  Lithium primary             │
     │   Occasional (once a month)     Alkaline                    │
     │   Weekly use                     LSD NiMH (Eneloop)         │
     │   Daily use                      NiMH (Eneloop Pro)         │
