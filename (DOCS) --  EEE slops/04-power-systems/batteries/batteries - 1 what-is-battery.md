@@ -173,25 +173,25 @@ PRIMARY BATTERIES (Non-rechargeable)
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Characteristics:                                          │
-    │   ├── Cannot be recharged (chemical reaction irreversible) │
-    │   ├── Lower initial cost                                   │
-    │   ├── Higher energy density (Wh/kg)                        │
-    │   ├── Longer shelf life                                    │
-    │   ├── Lower self-discharge                                 │
-    │   └── Disposal after single use                            │
+    │   ├── Cannot be recharged (chemical reaction irreversible)  │
+    │   ├── Lower initial cost                                    │
+    │   ├── Higher energy density (Wh/kg)                         │
+    │   ├── Longer shelf life                                     │
+    │   ├── Lower self-discharge                                  │
+    │   └── Disposal after single use                             │
     │                                                             │
     │   Examples:                                                 │
-    │   ├── Alkaline (AA, AAA, C, D, 9V)                        │
-    │   ├── Zinc-carbon (old, cheap)                            │
-    │   ├── Lithium primary (CR2032, Energizer Ultimate)        │
-    │   ├── Silver oxide (watches, hearing aids)                │
-    │   └── Zinc-air (hearing aids)                             │
+    │   ├── Alkaline (AA, AAA, C, D, 9V)                          │
+    │   ├── Zinc-carbon (old, cheap)                              │
+    │   ├── Lithium primary (CR2032, Energizer Ultimate)          │
+    │   ├── Silver oxide (watches, hearing aids)                  │
+    │   └── Zinc-air (hearing aids)                               │
     │                                                             │
     │   Best for:                                                 │
-    │   ├── Low-drain devices (remotes, clocks)                  │
-    │   ├── Emergency equipment (must work after years)          │
-    │   ├── Devices with infrequent use                          │
-    │   └── Where recharging isn't practical                    │
+    │   ├── Low-drain devices (remotes, clocks)                   │
+    │   ├── Emergency equipment (must work after years)           │
+    │   ├── Devices with infrequent use                           │
+    │   └── Where recharging isn't practical                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
