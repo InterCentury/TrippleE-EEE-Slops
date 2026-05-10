@@ -18,11 +18,11 @@ ALKALINE BATTERY CHEMISTRY
     DISCHARGE REACTION:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Positive: 2MnO₂ + H₂O + 2e⁻ → Mn₂O₃ + 2OH⁻              │
-    │   Negative: Zn + 2OH⁻ → ZnO + H₂O + 2e⁻                   │
-    │   Overall: Zn + 2MnO₂ → ZnO + Mn₂O₃                       │
+    │   Positive: 2MnO₂ + H₂O + 2e⁻ → Mn₂O₃ + 2OH⁻                │
+    │   Negative: Zn + 2OH⁻ → ZnO + H₂O + 2e⁻                     │
+    │   Overall: Zn + 2MnO₂ → ZnO + Mn₂O₃                         │
     │                                                             │
-    │   Electrolyte: KOH (potassium hydroxide)                   │
+    │   Electrolyte: KOH (potassium hydroxide)                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
