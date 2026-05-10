@@ -330,7 +330,7 @@ BATTERY CHEMISTRY DECISION TREE
          │
          ▼
     ┌─────────────────────────────────────────────────────────────┐
-    │  Is the device rechargeable or single-use?                 │
+    │  Is the device rechargeable or single-use?                  │
     └─────────────────────────────────────────────────────────────┘
          │
          ├──► SINGLE-USE (Primary) ──────────────────────────────┐
@@ -398,32 +398,32 @@ DEVICE-SPECIFIC RECOMMENDATIONS
 ```
 COMPLETE BATTERY COMPARISON TABLE
 
-    Chemistry      Voltage    Energy (Wh/kg)   Cycle Life   Self-Discharge   Cost
+    Chemistry           Voltage    Energy (Wh/kg)   Cycle Life   Self-Discharge   Cost
     ──────────────────────────────────────────────────────────────────────────────
-    Alkaline       1.5V       130-150          N/A          1-2%/year        $
+    Alkaline            1.5V       130-150          N/A          1-2%/year        $
     (primary)
     
-    Zinc-carbon    1.5V       60-80            N/A          5-10%/year       $
+    Zinc-carbon         1.5V       60-80            N/A          5-10%/year       $
     (primary)
     
-    Lithium primary 1.5-3.6V  260-300          N/A          <1%/year         $$$
+    Lithium primary     1.5-3.6V  260-300          N/A          <1%/year         $$$
     (Li-FeS₂, etc.)
     
-    NiCd           1.2V       40-60            500-1000     15-20%/month     $$
+    NiCd                1.2V       40-60            500-1000     15-20%/month     $$
     
-    NiMH (std)     1.2V       80-120           300-500      20-30%/month     $$
+    NiMH (std)          1.2V       80-120           300-500      20-30%/month     $$
     
-    NiMH (LSD)     1.2V       60-100           500-1000+    10-15%/year      $$$
+    NiMH (LSD)          1.2V       60-100           500-1000+    10-15%/year      $$$
     
-    Li-ion (NMC)   3.6-3.7V   150-260          300-500      2-5%/month       $$$
+    Li-ion (NMC)        3.6-3.7V   150-260          300-500      2-5%/month       $$$
     
-    LiFePO₄        3.2-3.3V   90-140           2000-5000+   1-3%/month       $$$
+    LiFePO₄             3.2-3.3V   90-140           2000-5000+   1-3%/month       $$$
     
-    LiPo (pouch)   3.7V       230-280          300-500      2-5%/month       $$$
+    LiPo (pouch)        3.7V       230-280          300-500      2-5%/month       $$$
     
-    Lead-acid      2.1V/cell  30-50            200-500      3-20%/month      $
+    Lead-acid           2.1V/cell  30-50            200-500      3-20%/month      $
     
-    LTO            2.3-2.4V   50-80            10000-20000  1-2%/month       $$$$
+    LTO                 2.3-2.4V   50-80            10000-20000  1-2%/month       $$$$
 ```
 
 ## Safety and Regulatory Considerations
