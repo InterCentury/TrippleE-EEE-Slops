@@ -321,14 +321,14 @@ LEAKAGE CAUSES AND PREVENTION
     WHAT CAUSES LEAKS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Depleted battery (internal pressure builds)            │
-    │   ✓ Old battery (past expiration date)                     │
-    │   ✓ Mixed old and new batteries (reverse charging)         │
-    │   ✓ Leaving in device for years                            │
-    │   ✓ High temperature storage (hot car, attic)              │
-    │   ✓ Poor quality batteries (no-name brands)                │
-    │   ✓ Deep discharge (device left on)                        │
-    │   ✓ Attempting to recharge (extremely dangerous!)          │
+    │   ✓ Depleted battery (internal pressure builds)             │
+    │   ✓ Old battery (past expiration date)                      │
+    │   ✓ Mixed old and new batteries (reverse charging)          │
+    │   ✓ Leaving in device for years                             │
+    │   ✓ High temperature storage (hot car, attic)               │
+    │   ✓ Poor quality batteries (no-name brands)                 │
+    │   ✓ Deep discharge (device left on)                         │
+    │   ✓ Attempting to recharge (extremely dangerous!)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -336,14 +336,14 @@ LEAKAGE CAUSES AND PREVENTION
     PREVENTION TIPS:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Remove batteries from infrequently used devices        │
-    │   ✓ Replace all batteries at the same time                 │
-    │   ✓ Store in cool, dry place (not garage or attic)         │
-    │   ✓ Check expiration dates before buying                   │
-    │   ✓ Use brand-name batteries (Duracell, Energizer)         │
-    │   ✓ Remove before expiration date                          │
-    │   ✓ Don't mix old and new                                  │
-    │   ✓ Don't mix different brands                             │
+    │   ✓ Remove batteries from infrequently used devices         │
+    │   ✓ Replace all batteries at the same time                  │
+    │   ✓ Store in cool, dry place (not garage or attic)          │
+    │   ✓ Check expiration dates before buying                    │
+    │   ✓ Use brand-name batteries (Duracell, Energizer)          │
+    │   ✓ Remove before expiration date                           │
+    │   ✓ Don't mix old and new                                   │
+    │   ✓ Don't mix different brands                              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
