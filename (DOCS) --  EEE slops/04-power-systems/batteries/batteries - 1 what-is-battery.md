@@ -488,20 +488,20 @@ PARALLEL CONFIGURATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   -││+                                                     │
-    │   Cell 1  ─┐                                               │
-    │             │                                              │
-    │   -││+     │                                              │
-    │   Cell 2  ─┤                                              │
-    │             │                                              │
-    │   -││+     │                                              │
-    │   Cell 3  ─┘                                               │
+    │   -││+                                                      │
+    │   Cell 1  ─┐                                                │
+    │            │                                                │
+    │   -││+     │                                                │
+    │   Cell 2  ─┤                                                │
+    │            │                                                │
+    │   -││+     │                                                │
+    │   Cell 3  ─┘                                                │
     │                                                             │
     │   Total voltage = Same as single cell                       │
-    │   Total capacity = C₁ + C₂ + C₃                            │
+    │   Total capacity = C₁ + C₂ + C₃                             │
     │   (current divides among cells)                             │
     │                                                             │
-    │   Example: 3 × 2000mAh Li-ion → 6000mAh, 3.7V             │
+    │   Example: 3 × 2000mAh Li-ion → 6000mAh, 3.7V               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -519,23 +519,23 @@ SERIES-PARALLEL (4S2P example)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   -││+   -││+   -││+   -││+                               │
-    │   Cell1   Cell2   Cell3   Cell4                            │
-    │     │       │       │       │                              │
-    │     │       │       │       │                              │
-    │   -││+   -││+   -││+   -││+                               │
-    │   Cell5   Cell6   Cell7   Cell8                            │
+    │   -││+   -││+   -││+   -││+                                 │
+    │   Cell1   Cell2   Cell3   Cell4                             │
+    │     │       │       │       │                               │
+    │     │       │       │       │                               │
+    │   -││+   -││+   -││+   -││+                                 │
+    │   Cell5   Cell6   Cell7   Cell8                             │
     │                                                             │
-    │   Configuration: 4 cells in series (4S)                    │
-    │                 2 parallel strings (2P)                    │
+    │   Configuration: 4 cells in series (4S)                     │
+    │                 2 parallel strings (2P)                     │
     │                                                             │
-    │   Voltage = 4 × V_cell                                     │
-    │   Capacity = 2 × C_cell                                    │
+    │   Voltage = 4 × V_cell                                      │
+    │   Capacity = 2 × C_cell                                     │
     │                                                             │
-    │   Example: 4S2P Li-ion (2000mAh cells)                     │
-    │   Voltage = 4 × 3.7V = 14.8V                              │
-    │   Capacity = 2 × 2000 = 4000mAh (4Ah)                     │
-    │   Energy = 14.8V × 4Ah = 59.2Wh                           │
+    │   Example: 4S2P Li-ion (2000mAh cells)                      │
+    │   Voltage = 4 × 3.7V = 14.8V                                │
+    │   Capacity = 2 × 2000 = 4000mAh (4Ah)                       │
+    │   Energy = 14.8V × 4Ah = 59.2Wh                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -587,7 +587,7 @@ BATTERY HISTORY TIMELINE
 APPLICATION MATRIX
 
     Application                 Typical Battery          Why
-    ──────────────────────────────────────────────────────────────
+    ──────────────────────────────────────────────────────────────────────────────────
     Remote control              Alkaline                Long shelf life
     Wall clock                  Alkaline                Long life, cheap
     Smoke detector              Alkaline / Lithium      Reliability, long life
@@ -615,7 +615,7 @@ APPLICATION MATRIX
 COMMON BATTERY TERMS
 
     Term                    Meaning
-    ──────────────────────────────────────────────────────────────
+    ─────────────────────────────────────────────────────────────────────────────
     Ah (Ampere-hour)        Unit of charge capacity
     Anode                   Negative electrode (where oxidation occurs)
     BMS                     Battery Management System (protects Li-ion)
