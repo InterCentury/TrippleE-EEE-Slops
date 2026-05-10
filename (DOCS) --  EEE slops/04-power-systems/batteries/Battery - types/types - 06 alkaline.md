@@ -267,11 +267,11 @@ GOOD APPLICATIONS FOR ALKALINE
     MEDIUM DRAIN (100-300mA):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ~ Radio (portable)                                       │
-    │   ~ LED flashlight (low mode)                              │
-    │   ~ Electric pencil sharpener                              │
-    │   ~ Some toys (non-motorized)                              │
-    │   ~ Shaver (travel size)                                   │
+    │   ~ Radio (portable)                                        │
+    │   ~ LED flashlight (low mode)                               │
+    │   ~ Electric pencil sharpener                               │
+    │   ~ Some toys (non-motorized)                               │
+    │   ~ Shaver (travel size)                                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -281,14 +281,14 @@ GOOD APPLICATIONS FOR ALKALINE
     HIGH DRAIN (>300mA):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Digital cameras (flash and motor draw high current)    │
-    │   ✗ Motorized toys (RC cars, robots)                       │
-    │   ✗ High-power flashlights (over 200 lumens)               │
-    │   ✗ Portable gaming devices (Nintendo Switch, etc.)        │
-    │   ✗ Electric toothbrushes                                  │
-    │   ✗ Power tools (never – use NiMH or Li-ion)               │
-    │   ✗ Electronic cigarettes                                  │
-    │   ✗ Cold weather outdoors (use Lithium primary)            │
+    │   X Digital cameras (flash and motor draw high current)    │
+    │   X Motorized toys (RC cars, robots)                       │
+    │   X High-power flashlights (over 200 lumens)               │
+    │   X Portable gaming devices (Nintendo Switch, etc.)        │
+    │   X Electric toothbrushes                                  │
+    │   X Power tools (never – use NiMH or Li-ion)               │
+    │   X Electronic cigarettes                                  │
+    │   X Cold weather outdoors (use Lithium primary)            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
