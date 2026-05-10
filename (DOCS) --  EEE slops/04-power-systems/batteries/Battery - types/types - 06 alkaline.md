@@ -281,14 +281,14 @@ GOOD APPLICATIONS FOR ALKALINE
     HIGH DRAIN (>300mA):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   X Digital cameras (flash and motor draw high current)    │
-    │   X Motorized toys (RC cars, robots)                       │
-    │   X High-power flashlights (over 200 lumens)               │
-    │   X Portable gaming devices (Nintendo Switch, etc.)        │
-    │   X Electric toothbrushes                                  │
-    │   X Power tools (never – use NiMH or Li-ion)               │
-    │   X Electronic cigarettes                                  │
-    │   X Cold weather outdoors (use Lithium primary)            │
+    │   X Digital cameras (flash and motor draw high current)     │
+    │   X Motorized toys (RC cars, robots)                        │
+    │   X High-power flashlights (over 200 lumens)                │
+    │   X Portable gaming devices (Nintendo Switch, etc.)         │
+    │   X Electric toothbrushes                                   │
+    │   X Power tools (never – use NiMH or Li-ion)                │
+    │   X Electronic cigarettes                                   │
+    │   X Cold weather outdoors (use Lithium primary)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -297,14 +297,14 @@ GOOD APPLICATIONS FOR ALKALINE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Internal resistance increases at high current            │
-    │   Voltage drops below device cutoff (1.0-1.1V)             │
-    │   Battery still has 50-70% capacity!                       │
-    │   Device thinks battery is dead (but it's not)             │
+    │   Internal resistance increases at high current             │
+    │   Voltage drops below device cutoff (1.0-1.1V)              │
+    │   Battery still has 50-70% capacity!                        │
+    │   Device thinks battery is dead (but it's not)              │
     │                                                             │
-    │   Example: Digital camera takes 50 shots on alkaline       │
-    │            (battery still has 60% capacity but low voltage)│
-    │            Same camera: 200-300 shots on NiMH              │
+    │   Example: Digital camera takes 50 shots on alkaline        │
+    │            (battery still has 60% capacity but low voltage) │
+    │            Same camera: 200-300 shots on NiMH               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
