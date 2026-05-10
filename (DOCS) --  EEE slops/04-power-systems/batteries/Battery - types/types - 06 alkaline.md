@@ -365,18 +365,18 @@ DANGER: NEVER RECHARGE ALKALINE BATTERIES!
     │                                                             │
     │   ATTEMPTING TO RECHARGE ALKALINE CAN CAUSE:                │
     │                                                             │
-    │   ✗ Explosion (case rupture, shrapnel)                     │
-    │   ✗ Fire (internal short, heating)                         │
-    │   ✗ Toxic fumes (potassium hydroxide aerosol)              │
-    │   ✗ Leakage (corrosive electrolyte)                        │
-    │   ✗ Device damage (power supply or charger)                │
+    │   X Explosion (case rupture, shrapnel)                      │
+    │   X Fire (internal short, heating)                          │
+    │   X Toxic fumes (potassium hydroxide aerosol)               │
+    │   X Leakage (corrosive electrolyte)                         │
+    │   X Device damage (power supply or charger)                 │
     │                                                             │
     │   WHY IT'S DANGEROUS:                                       │
-    │   ├── Alkaline chemistry is NOT reversible                 │
-    │   ├── Hydrogen gas builds up (explosion risk)              │
-    │   ├── Internal pressure exceeds case strength              │
-    │   ├── No internal pressure relief                          │
-    │   └── Charging creates internal short (fire)               │
+    │   ├── Alkaline chemistry is NOT reversible                  │
+    │   ├── Hydrogen gas builds up (explosion risk)               │
+    │   ├── Internal pressure exceeds case strength               │
+    │   ├── No internal pressure relief                           │
+    │   └── Charging creates internal short (fire)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
