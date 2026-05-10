@@ -337,15 +337,15 @@ C-RATE DEFINITION
     1C = The current that would fully discharge the battery in 1 hour
 
     For a 2000mAh battery:
-    0.5C = 1000mA (discharge in 2 hours)
-    1C = 2000mA (discharge in 1 hour)
-    2C = 4000mA (discharge in 30 minutes)
-    5C = 10000mA (discharge in 12 minutes)
+     -> 0.5C = 1000mA  (discharge in 2 hours)
+     -> 1C   = 2000mA  (discharge in 1 hour)
+     -> 2C   = 4000mA  (discharge in 30 minutes)
+     -> 5C   = 10000mA (discharge in 12 minutes)
 
 
     TYPICAL C-RATES BY CHEMISTRY:
 
-    Chemistry               Max Charge C     Max Discharge C    Notes
+    Chemistry               Max Charge C    Max Discharge C     Notes
     ────────────────────────────────────────────────────────────────────────────
     Alkaline                N/A             0.2-0.5C            Poor high rate
     Lead-acid               0.3C            3-5C (CCA)          Starting only
