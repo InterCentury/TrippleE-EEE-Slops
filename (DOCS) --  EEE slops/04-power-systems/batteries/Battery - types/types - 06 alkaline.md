@@ -398,17 +398,17 @@ ALKALINE BATTERY TOXICITY
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Modern alkaline batteries (1996+ in US):                 │
-    │   ├── No added mercury (Mercury-Free)                      │
-    │   ├── Low toxicity compared to NiCd                        │
-    │   ├── Zinc, manganese, steel, paper, plastic              │
-    │   ├── KOH electrolyte (caustic but not toxic)              │
-    │   └── Many jurisdictions allow regular trash               │
+    │   Modern alkaline batteries (1996+ in US):                  │
+    │   ├── No added mercury (Mercury-Free)                       │
+    │   ├── Low toxicity compared to NiCd                         │
+    │   ├── Zinc, manganese, steel, paper, plastic                │
+    │   ├── KOH electrolyte (caustic but not toxic)               │
+    │   └── Many jurisdictions allow regular trash                │
     │                                                             │
-    │   OLD alkaline batteries (pre-1996):                       │
-    │   ├── Contained mercury (toxic)                            │
-    │   ├── Regulated hazardous waste                            │
-    │   └── Should be disposed of carefully                      │
+    │   OLD alkaline batteries (pre-1996):                        │
+    │   ├── Contained mercury (toxic)                             │
+    │   ├── Regulated hazardous waste                             │
+    │   └── Should be disposed of carefully                       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
