@@ -16,51 +16,51 @@ BATTERY SELECTION FRAMEWORK
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   1. VOLTAGE                                                │
-    │      ├── Required operating voltage                        │
-    │      ├── Number of cells in series                         │
-    │      └── Voltage tolerance of device                       │
+    │      ├── Required operating voltage                         │
+    │      ├── Number of cells in series                          │
+    │      └── Voltage tolerance of device                        │
     │                                                             │
-    │   2. CAPACITY (Ah / Wh)                                    │
-    │      ├── Desired runtime                                   │
-    │      ├── Average current draw                              │
-    │      └── Physical size constraints                         │
+    │   2. CAPACITY (Ah / Wh)                                     │
+    │      ├── Desired runtime                                    │
+    │      ├── Average current draw                               │
+    │      └── Physical size constraints                          │
     │                                                             │
-    │   3. DISCHARGE CURRENT (C-rate)                            │
-    │      ├── Peak current (startup, motors)                    │
-    │      ├── Continuous current (steady state)                 │
-    │      └── Current capability of chemistry                   │
+    │   3. DISCHARGE CURRENT (C-rate)                             │
+    │      ├── Peak current (startup, motors)                     │
+    │      ├── Continuous current (steady state)                  │
+    │      └── Current capability of chemistry                    │
     │                                                             │
-    │   4. RECHARGEABLE OR PRIMARY                               │
-    │      ├── Single use vs multiple uses                       │
-    │      ├── Cost per cycle                                    │
-    │      └── Access for charging                               │
+    │   4. RECHARGEABLE OR PRIMARY                                │
+    │      ├── Single use vs multiple uses                        │
+    │      ├── Cost per cycle                                     │
+    │      └── Access for charging                                │
     │                                                             │
-    │   5. CYCLE LIFE                                            │
-    │      ├── Expected number of charge/discharge cycles        │
-    │      ├── Depth of discharge (DoD) per cycle               │
-    │      └── Replacement cost and frequency                    │
+    │   5. CYCLE LIFE                                             │
+    │      ├── Expected number of charge/discharge cycles         │
+    │      ├── Depth of discharge (DoD) per cycle                 │
+    │      └── Replacement cost and frequency                     │
     │                                                             │
-    │   6. OPERATING TEMPERATURE                                 │
-    │      ├── Minimum temperature (cold start)                  │
-    │      ├── Maximum temperature (hot environment)             │
-    │      └── Ambient vs self-heating                           │
+    │   6. OPERATING TEMPERATURE                                  │
+    │      ├── Minimum temperature (cold start)                   │
+    │      ├── Maximum temperature (hot environment)              │
+    │      └── Ambient vs self-heating                            │
     │                                                             │
-    │   7. SHELF LIFE / SELF-DISCHARGE                           │
-    │      ├── Time between use (standby)                        │
-    │      ├── Storage conditions                                │
-    │      └── Need for maintenance charging                     │
+    │   7. SHELF LIFE / SELF-DISCHARGE                            │
+    │      ├── Time between use (standby)                         │
+    │      ├── Storage conditions                                 │
+    │      └── Need for maintenance charging                      │
     │                                                             │
-    │   8. SAFETY                                                │
-    │      ├── Thermal runaway risk                              │
-    │      ├── Leakage / toxicity                                │
-    │      ├── Protection circuit requirements                   │
-    │      └── Environmental regulations                         │
+    │   8. SAFETY                                                 │
+    │      ├── Thermal runaway risk                               │
+    │      ├── Leakage / toxicity                                 │
+    │      ├── Protection circuit requirements                    │
+    │      └── Environmental regulations                          │
     │                                                             │
-    │   9. COST                                                  │
-    │      ├── Initial purchase cost                             │
-    │      ├── Cost per cycle                                    │
-    │      ├── Charging equipment (if rechargeable)              │
-    │      └── Disposal / recycling fees                         │
+    │   9. COST                                                   │
+    │      ├── Initial purchase cost                              │
+    │      ├── Cost per cycle                                     │
+    │      ├── Charging equipment (if rechargeable)               │
+    │      └── Disposal / recycling fees                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
