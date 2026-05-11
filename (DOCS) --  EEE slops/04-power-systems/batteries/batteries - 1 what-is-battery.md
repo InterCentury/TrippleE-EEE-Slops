@@ -549,12 +549,12 @@ SERIES-PARALLEL (4S2P example)
 BATTERY HISTORY TIMELINE
 
     1800 ─── Voltaic Pile (Volta) - First true battery
-           Zinc and copper discs with brine electrolyte
+             Zinc and copper discs with brine electrolyte
     
     1836 ─── Daniell Cell - Improved, more stable voltage
     
-    1859 ─── Lead-acid battery (Planté) - First rechargeable
-           Still used today in cars!
+    1859 ─── Lead-acid battery (Planté) - First rechargeable 
+             Still used today in cars!
     
     1866 ─── Leclanché cell - Precursor to zinc-carbon
     
