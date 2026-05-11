@@ -1,6 +1,4 @@
-# what-is-battery
-
-## What is a Battery?
+# what-is-battery ?
 
 A battery is a device that converts chemical energy directly into electrical energy through an electrochemical reaction. It consists of one or more electrochemical cells, each containing two electrodes (anode and cathode) and an electrolyte. When connected to an external circuit, chemical reactions inside the battery produce a flow of electrons — electricity.
 
