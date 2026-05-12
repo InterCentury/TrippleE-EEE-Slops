@@ -210,17 +210,17 @@ OPEN CIRCUIT STATE
     │   │   Zn    │                                    │   MnO₂  ││
     │   │         │                                    │         ││
     │   │   Excess│                                    │ Deficit ││
-    │   │  e⁻ (少量)│                                    │ of e⁻    ││
+    │   │  e⁻     │                                    │ of e⁻   ││
     │   │         │                                    │         ││
     │   └────┬────┘                                    └────┬────┘│
     │        │                                              │     │
     │        └──────────────┬───────────────────────────────┘     │
-    │                       │                                    │
-    │                   ELECTROLYTE                              │
+    │                       │                                     │
+    │                   ELECTROLYTE                               │
     │                                                             │
-    │   No external circuit = No electron flow                  │
-    │   Reactions stop (or very slow self-discharge)            │
-    │   Voltage measured = Open Circuit Voltage (OCV)           │
+    │   No external circuit = No electron flow                    │
+    │   Reactions stop (or very slow self-discharge)              │
+    │   Voltage measured = Open Circuit Voltage (OCV)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
