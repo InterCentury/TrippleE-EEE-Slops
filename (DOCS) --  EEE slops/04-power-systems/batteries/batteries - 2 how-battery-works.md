@@ -361,17 +361,17 @@ FACTORS THAT CHANGE DISCHARGE BEHAVIOR
     TEMPERATURE EFFECT:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Cold temperature (-20°C):                                │
-    │   ├── Increased internal resistance                        │
-    │   ├── Lower voltage under load                             │
-    │   ├── Reduced usable capacity (alkaline: 20-40% left!)    │
-    │   └── Device may shut down early                           │
+    │   Cold temperature (-20°C):                                 │
+    │   ├── Increased internal resistance                         │
+    │   ├── Lower voltage under load                              │
+    │   ├── Reduced usable capacity (alkaline: 20-40% left!)      │
+    │   └── Device may shut down early                            │
     │                                                             │
-    │   Hot temperature (40°C):                                  │
-    │   ├── Decreased internal resistance                        │
-    │   ├── Higher initial voltage                               │
-    │   ├── Slightly increased capacity                          │
-    │   └── MUCH shorter cycle life (rechargeable)               │
+    │   Hot temperature (40°C):                                   │
+    │   ├── Decreased internal resistance                         │
+    │   ├── Higher initial voltage                                │
+    │   ├── Slightly increased capacity                           │
+    │   └── MUCH shorter cycle life (rechargeable)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
