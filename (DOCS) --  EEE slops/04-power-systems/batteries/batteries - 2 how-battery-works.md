@@ -17,13 +17,13 @@ OXIDATION AND REDUCTION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   OXIDATION (occurs at ANODE, negative terminal)           │
+    │   OXIDATION (occurs at ANODE, negative terminal)            │
     │                                                             │
-    │   "Loss of electrons"                                      │
-    │   LEO: Loss of Electrons = Oxidation                       │
+    │   "Loss of electrons"                                       │
+    │   LEO: Loss of Electrons = Oxidation                        │
     │                                                             │
-    │   Example: Zn → Zn²⁺ + 2e⁻                                 │
-    │   (Zinc metal loses 2 electrons, becomes zinc ion)        │
+    │   Example: Zn → Zn²⁺ + 2e⁻                                  │
+    │   (Zinc metal loses 2 electrons, becomes zinc ion)          │
     │                                                             │
     ├─────────────────────────────────────────────────────────────┤
     │                                                             │
