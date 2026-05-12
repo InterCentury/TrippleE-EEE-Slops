@@ -264,20 +264,20 @@ SOURCES OF INTERNAL RESISTANCE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Equivalent circuit:                                      │
+    │   Equivalent circuit:                                       │
     │                                                             │
-    │   ┌─────┬─────R_int─────┬─────┐                           │
-    │   │     │               │     │                           │
-    │   │  V  │               │     │                           │
-    │   │  ideal│               │     │                           │
-    │   │     │               │     │                           │
-    │   └─────┴───────────────┴─────┘                           │
-    │         │                     │                            │
-    │         │                     │                            │
-    │         ▼                     ▼                            │
-    │    Actual terminal        When current flows:             │
-    │    voltage = V_ideal       V_term = V_ideal - I × R_int    │
-    │    when I = 0                                             │
+    │   ┌─────┬─────R_int─────┬─────┐                             │
+    │   │     │               │     │                             │
+    │   │  V  │               │     │                             │
+    │   │ideal│               │     │                             │
+    │   │     │               │     │                             │
+    │   └─────┴───────────────┴─────┘                             │
+    │         │                     │                             │
+    │         │                     │                             │
+    │         ▼                     ▼                             │
+    │    Actual terminal        When current flows:               │
+    │    voltage = V_ideal       V_term = V_ideal - I × R_int     │
+    │    when I = 0                                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
