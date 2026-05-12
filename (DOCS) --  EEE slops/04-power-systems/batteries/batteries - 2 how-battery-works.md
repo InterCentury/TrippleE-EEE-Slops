@@ -37,9 +37,9 @@ OXIDATION AND REDUCTION
     │                                                             │
     ├─────────────────────────────────────────────────────────────┤
     │                                                             │
-    │   MEMORY AID: OIL RIG                                      │
-    │   Oxidation Is Loss (of electrons)                         │
-    │   Reduction Is Gain (of electrons)                         │
+    │   MEMORY AID: OIL RIG                                       │
+    │   Oxidation Is Loss (of electrons)                          │
+    │   Reduction Is Gain (of electrons)                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
