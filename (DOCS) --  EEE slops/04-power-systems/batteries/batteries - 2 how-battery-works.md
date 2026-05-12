@@ -81,22 +81,22 @@ ELECTROCHEMICAL SERIES (Reduction Potential)
 
     More likely to LOSE electrons (better ANODE materials)
     ┌─────────────────────────────────────────────────────────────┐
-    │   Lithium (Li)     -3.04V   ← Best anode (most negative)   │
-    │   Potassium (K)    -2.93V                                  │
-    │   Calcium (Ca)     -2.87V                                  │
-    │   Sodium (Na)      -2.71V                                  │
-    │   Magnesium (Mg)   -2.37V                                  │
-    │   Aluminum (Al)    -1.66V                                  │
-    │   Zinc (Zn)        -0.76V   ← Alkaline anode               │
-    │   Iron (Fe)        -0.44V                                  │
-    │   Cadmium (Cd)     -0.40V   ← NiCd anode                  │
-    │   Nickel (Ni)      -0.25V                                  │
-    │   Lead (Pb)        -0.13V   ← Lead-acid anode              │
-    │   Hydrogen (H)      0.00V   (reference)                    │
-    │   Copper (Cu)      +0.34V                                  │
-    │   Silver (Ag)      +0.80V                                  │
-    │   Oxygen (O₂)      +1.23V                                  │
-    │   Chlorine (Cl₂)   +1.36V                                  │
+    │   Lithium (Li)     -3.04V   ← Best anode (most negative)    │
+    │   Potassium (K)    -2.93V                                   │
+    │   Calcium (Ca)     -2.87V                                   │
+    │   Sodium (Na)      -2.71V                                   │
+    │   Magnesium (Mg)   -2.37V                                   │
+    │   Aluminum (Al)    -1.66V                                   │
+    │   Zinc (Zn)        -0.76V   ← Alkaline anode                │
+    │   Iron (Fe)        -0.44V                                   │
+    │   Cadmium (Cd)     -0.40V   ← NiCd anode                    │
+    │   Nickel (Ni)      -0.25V                                   │
+    │   Lead (Pb)        -0.13V   ← Lead-acid anode               │
+    │   Hydrogen (H)      0.00V   (reference)                     │
+    │   Copper (Cu)      +0.34V                                   │
+    │   Silver (Ag)      +0.80V                                   │
+    │   Oxygen (O₂)      +1.23V                                   │
+    │   Chlorine (Cl₂)   +1.36V                                   │
     └─────────────────────────────────────────────────────────────┘
     
     More likely to GAIN electrons (better CATHODE materials)
