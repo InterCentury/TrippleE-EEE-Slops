@@ -163,10 +163,10 @@ BATTERY OPERATION SEQUENCE
     STEP 4: Chemical reaction at cathode
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Cathode material gains electrons: N + ne⁻ → Nⁿ⁻          │
+    │   Cathode material gains electrons: N + ne⁻ → Nⁿ⁻           │
     │                                                             │
     │   Example (manganese dioxide):                              │
-    │   2MnO₂ + 2H₂O + 2e⁻ → Mn₂O₃ + 2OH⁻                       │
+    │   2MnO₂ + 2H₂O + 2e⁻ → Mn₂O₃ + 2OH⁻                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -174,10 +174,10 @@ BATTERY OPERATION SEQUENCE
     STEP 5: Ions flow through electrolyte
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Positive ions (Zn²⁺) move through electrolyte to         │
-    │   balance charge                                           │
+    │   Positive ions (Zn²⁺) move through electrolyte to          │
+    │   balance charge                                            │
     │                                                             │
-    │   Negative ions (OH⁻) move opposite direction              │
+    │   Negative ions (OH⁻) move opposite direction               │
     │                                                             │
     │   This completes the circuit internally                     │
     │                                                             │
