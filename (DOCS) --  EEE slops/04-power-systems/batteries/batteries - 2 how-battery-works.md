@@ -111,11 +111,11 @@ ELECTROCHEMICAL SERIES (Reduction Potential)
 
     Example (alkaline cell):
     ┌─────────────────────────────────────────────────────────────┐
-    │   Anode (Zinc):      -0.76V                               │
-    │   Cathode (MnO₂):    +0.34V                               │
-    │   Cell Voltage = 0.34 - (-0.76) = 1.10V (theoretical)    │
+    │   Anode (Zinc):      -0.76V                                 │
+    │   Cathode (MnO₂):    +0.34V                                 │
+    │   Cell Voltage = 0.34 - (-0.76) = 1.10V (theoretical)       │
     │                                                             │
-    │   Actual alkaline cell: 1.5V (with different cathode)     │
+    │   Actual alkaline cell: 1.5V (with different cathode)       │
     └─────────────────────────────────────────────────────────────┘
 ```
 
