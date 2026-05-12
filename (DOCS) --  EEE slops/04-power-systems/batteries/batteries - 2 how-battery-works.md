@@ -151,11 +151,11 @@ BATTERY OPERATION SEQUENCE
     STEP 3: Electrons flow through external circuit
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Electrons repel each other (like charges repel)          │
-    │   Electrons flow FROM anode (-) TO cathode (+)             │
-    │   through the external circuit                             │
+    │   Electrons repel each other (like charges repel)           │
+    │   Electrons flow FROM anode (-) TO cathode (+)              │
+    │   through the external circuit                              │
     │                                                             │
-    │   This electron flow is ELECTRIC CURRENT!                  │
+    │   This electron flow is ELECTRIC CURRENT!                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
