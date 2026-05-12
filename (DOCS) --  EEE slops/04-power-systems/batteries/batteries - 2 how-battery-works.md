@@ -131,7 +131,7 @@ BATTERY OPERATION SEQUENCE
     STEP 1: Connect load (light bulb, motor) to terminals
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Battery (-) ──► wire ──► load ──► wire ──► Battery (+)   │
+    │   Battery (-) ──► wire ──► load ──► wire ──► Battery (+)    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -141,9 +141,9 @@ BATTERY OPERATION SEQUENCE
     │                                                             │
     │   Anode metal oxidizes: M → Mⁿ⁺ + ne⁻                       │
     │                                                             │
-    │   Example (zinc): Zn → Zn²⁺ + 2e⁻                         │
+    │   Example (zinc): Zn → Zn²⁺ + 2e⁻                           │
     │                                                             │
-    │   Excess electrons build up on anode (-)                   │
+    │   Excess electrons build up on anode (-)                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
