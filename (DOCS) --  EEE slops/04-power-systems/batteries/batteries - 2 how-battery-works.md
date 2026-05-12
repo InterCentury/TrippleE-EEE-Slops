@@ -242,20 +242,20 @@ SOURCES OF INTERNAL RESISTANCE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. ELECTRODE RESISTANCE                                  │
-    │      └── The metal itself resists electron flow            │
+    │   1. ELECTRODE RESISTANCE                                   │
+    │      └── The metal itself resists electron flow             │
     │                                                             │
-    │   2. ELECTROLYTE RESISTANCE                                │
-    │      └── Ions move slowly through electrolyte              │
+    │   2. ELECTROLYTE RESISTANCE                                 │
+    │      └── Ions move slowly through electrolyte               │
     │                                                             │
-    │   3. SEPARATOR RESISTANCE                                  │
-    │      └── Porous material slows ion movement                │
+    │   3. SEPARATOR RESISTANCE                                   │
+    │      └── Porous material slows ion movement                 │
     │                                                             │
-    │   4. CONTACT RESISTANCE                                    │
-    │      └── Between materials (electrode/electrolyte)         │
+    │   4. CONTACT RESISTANCE                                     │
+    │      └── Between materials (electrode/electrolyte)          │
     │                                                             │
-    │   5. POLARIZATION RESISTANCE                               │
-    │      └── Concentration changes near electrodes             │
+    │   5. POLARIZATION RESISTANCE                                │
+    │      └── Concentration changes near electrodes              │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
