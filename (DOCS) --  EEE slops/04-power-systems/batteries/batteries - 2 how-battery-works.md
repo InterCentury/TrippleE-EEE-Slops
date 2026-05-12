@@ -323,18 +323,18 @@ TYPICAL DISCHARGE CURVES (AA size, 500mA load)
     1.4 ┼    ╲
         │     ╲        ┌─────────────────────────────────────────┐
     1.3 ┼      ╲       │  ALKALINE  - Sloping curve              │
-        │       ╲      │  Voltage gradually drops               │
-    1.2 ┼        ╲     │  Many devices stop at 1.0V             │
-        │         ╲    │  (leaves 20-30% capacity unused)       │
+        │       ╲      │  Voltage gradually drops                │
+    1.2 ┼        ╲     │  Many devices stop at 1.0V              │
+        │         ╲    │  (leaves 20-30% capacity unused)        │
     1.1 ┼          ╲   │                                         │
-        │           ╲  │  NiMH  - Flat curve                    │
+        │           ╲  │  NiMH  - Flat curve                     │
     1.0 ┼            ●─┼─────────────────────────────────────────│
-        │             │\                                        │
-    0.9 ┼             │ ╲                                       │
-        │             │  ╲                                      │
-    0.8 ┼             │   ●─────────────────────────────────────│
-        │             │                                         │
-        └─────────────┴────────────────────────────────────► Time
+        │            │\                                        │
+    0.9 ┼            │ ╲                                       │
+        │            │  ╲                                      │
+    0.8 ┼            │   ●─────────────────────────────────────│
+        │            │                                         │
+        └────────────┴──────────────────────────────────────────────► Time
          0%     25%     50%     75%     100%  120% (alkaline)
                                             (capacity)
 
