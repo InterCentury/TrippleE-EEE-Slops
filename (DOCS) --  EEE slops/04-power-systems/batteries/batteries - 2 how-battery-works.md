@@ -27,13 +27,13 @@ OXIDATION AND REDUCTION
     │                                                             │
     ├─────────────────────────────────────────────────────────────┤
     │                                                             │
-    │   REDUCTION (occurs at CATHODE, positive terminal)         │
+    │   REDUCTION (occurs at CATHODE, positive terminal)          │
     │                                                             │
-    │   "Gain of electrons"                                      │
-    │   GER: Gain of Electrons = Reduction                       │
+    │   "Gain of electrons"                                       │
+    │   GER: Gain of Electrons = Reduction                        │
     │                                                             │
-    │   Example: 2MnO₂ + 2H⁺ + 2e⁻ → Mn₂O₃ + H₂O                │
-    │   (Manganese dioxide gains electrons, reduced)            │
+    │   Example: 2MnO₂ + 2H⁺ + 2e⁻ → Mn₂O₃ + H₂O                  │
+    │   (Manganese dioxide gains electrons, reduced)              │
     │                                                             │
     ├─────────────────────────────────────────────────────────────┤
     │                                                             │
