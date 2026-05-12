@@ -101,7 +101,7 @@ ELECTROCHEMICAL SERIES (Reduction Potential)
     
     More likely to GAIN electrons (better CATHODE materials)
     ┌─────────────────────────────────────────────────────────────┐
-    │   Fluorine (F₂)    +2.87V   ← Best cathode (most positive) │
+    │   Fluorine (F₂)    +2.87V   ← Best cathode (most positive)  │
     └─────────────────────────────────────────────────────────────┘
 
 
