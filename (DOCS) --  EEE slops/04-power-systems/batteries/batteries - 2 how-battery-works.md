@@ -665,20 +665,20 @@ EXAMPLE: BATTERY POWERING AN LED
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Fresh battery: 9.6V (open circuit)                       │
-    │   Under load:    9.2V (drops due to internal resistance)   │
+    │   Fresh battery: 9.6V (open circuit)                        │
+    │   Under load:    9.2V (drops due to internal resistance)    │
     │                                                             │
-    │   Current:       I = V / R = 9.2V / 220Ω = 42mA            │
+    │   Current:       I = V / R = 9.2V / 220Ω = 42mA             │
     │                                                             │
-    │   Power:         P = V × I = 9.2V × 0.042A = 0.39W         │
+    │   Power:         P = V × I = 9.2V × 0.042A = 0.39W          │
     │                                                             │
-    │   Battery capacity: 500mAh                                 │
-    │   Theoretical runtime: 500mAh / 42mA ≈ 12 hours            │
+    │   Battery capacity: 500mAh                                  │
+    │   Theoretical runtime: 500mAh / 42mA ≈ 12 hours             │
     │                                                             │
-    │   Actual runtime less due to:                              │
-    │   ├── Voltage drops as battery discharges                  │
-    │   ├── Internal resistance increases                        │
-    │   └── Less efficient at high current                       │
+    │   Actual runtime less due to:                               │
+    │   ├── Voltage drops as battery discharges                   │
+    │   ├── Internal resistance increases                         │
+    │   └── Less efficient at high current                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
