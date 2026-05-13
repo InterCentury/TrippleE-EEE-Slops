@@ -420,11 +420,11 @@ CHARGING PROCESS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   External power source (charger) pushes electrons         │
-    │   back into the anode                                      │
+    │   External power source (charger) pushes electrons          │
+    │   back into the anode                                       │
     │                                                             │
-    │   DISCHARGE:    Zn → Zn²⁺ + 2e⁻                           │
-    │   CHARGE:       Zn²⁺ + 2e⁻ → Zn                           │
+    │   DISCHARGE:    Zn → Zn²⁺ + 2e⁻                             │
+    │   CHARGE:       Zn²⁺ + 2e⁻ → Zn                             │
     │                                                             │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │                                                     │   │
