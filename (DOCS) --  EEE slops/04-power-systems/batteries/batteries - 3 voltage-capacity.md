@@ -387,12 +387,12 @@ CAPACITY TESTING
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. Fully charge battery (if rechargeable)                │
-    │   2. Let rest for 1-2 hours                                │
-    │   3. Connect constant current load                         │
-    │   4. Discharge at 0.2C until cutoff voltage                │
-    │   5. Measure time to cutoff                                │
-    │   6. Calculate capacity = I × t                            │
+    │   1. Fully charge battery (if rechargeable)                 │
+    │   2. Let rest for 1-2 hours                                 │
+    │   3. Connect constant current load                          │
+    │   4. Discharge at 0.2C until cutoff voltage                 │
+    │   5. Measure time to cutoff                                 │
+    │   6. Calculate capacity = I × t                             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
