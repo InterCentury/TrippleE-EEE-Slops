@@ -17,7 +17,7 @@ VOLTAGE ANALOGY
 
     Water System                      Electrical System
     ──────────────────────────────────────────────────────────────
-    Water pressure (PSI)         =    Voltage (Volts)
+    Water pressure (PSI)          =    Voltage (Volts)
     Water flow (gallons/minute)   =    Current (Amperes)
     Pipe restriction              =    Resistance (Ohms)
     Water wheel                   =    Motor / Load
@@ -27,14 +27,14 @@ VOLTAGE ANALOGY
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Low Voltage (1.5V)         High Voltage (12V)            │
+    │   Low Voltage (1.5V)         High Voltage (12V)             │
     │                                                             │
-    │   ┌─────┐                    ┌─────┐                       │
-    │   │ 1.5V│                    │ 12V │                       │
-    │   └──┬──┘                    └──┬──┘                       │
-    │      │                          │                          │
-    │      ▼                          ▼                          │
-    │   💧💧💧 (trickle)            💧💧💧💧💧💧💧💧 (strong flow)  │
+    │   ┌─────┐                    ┌─────┐                        │
+    │   │ 1.5V│                    │ 12V │                        │
+    │   └──┬──┘                    └──┬──┘                        │
+    │      │                          │                           │
+    │      ▼                          ▼                           │
+    │    (trickle)             (strong flow)                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
