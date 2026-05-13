@@ -601,23 +601,23 @@ SIGNS OF BATTERY FAILURE
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   VISUAL INDICATORS:                                        │
-    │   ├── Swelling (pouch cells)                              │
-    │   ├── Leaking (white/green crust)                         │
-    │   ├── Corrosion on terminals                               │
-    │   ├── Cracking or deformation                              │
-    │   └── Discoloration (brown/black)                         │
+    │   ├── Swelling (pouch cells)                                │
+    │   ├── Leaking (white/green crust)                           │
+    │   ├── Corrosion on terminals                                │
+    │   ├── Cracking or deformation                               │
+    │   └── Discoloration (brown/black)                           │
     │                                                             │
     │   PERFORMANCE INDICATORS:                                   │
-    │   ├── Runtime significantly reduced                        │
-    │   ├── Device shuts down early (voltage sag)               │
-    │   ├── Battery gets hot during use/charging                │
-    │   ├── Doesn't hold charge (self-discharge high)           │
-    │   └── Can't reach full voltage (rechargeable)             │
+    │   ├── Runtime significantly reduced                         │
+    │   ├── Device shuts down early (voltage sag)                 │
+    │   ├── Battery gets hot during use/charging                  │
+    │   ├── Doesn't hold charge (self-discharge high)             │
+    │   └── Can't reach full voltage (rechargeable)               │
     │                                                             │
     │   MEASUREMENT INDICATORS:                                   │
-    │   ├── Internal resistance >2× new value                    │
-    │   ├── Capacity <80% of rated                              │
-    │   └── Voltage < cutoff (primary)                          │
+    │   ├── Internal resistance >2× new value                     │
+    │   ├── Capacity <80% of rated                                │
+    │   └── Voltage < cutoff (primary)                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
