@@ -355,16 +355,16 @@ Ah vs Wh EXPLANATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Comparing a 2500mAh NiMH (1.2V) with a 2000mAh Li-ion    │
-    │   (3.7V):                                                  │
+    │   Comparing a 2500mAh NiMH (1.2V) with a 2000mAh Li-ion     │
+    │   (3.7V):                                                   │
     │                                                             │
-    │   NiMH energy = 2.5Ah × 1.2V = 3.0Wh                       │
-    │   Li-ion energy = 2.0Ah × 3.7V = 7.4Wh                     │
+    │   NiMH energy = 2.5Ah × 1.2V = 3.0Wh                        │
+    │   Li-ion energy = 2.0Ah × 3.7V = 7.4Wh                      │
     │                                                             │
-    │   Li-ion has LOWER mAh rating but HIGHER energy!           │
-    │   Li-ion will run device 2.5× longer!                      │
+    │   Li-ion has LOWER mAh rating but HIGHER energy!            │
+    │   Li-ion will run device 2.5× longer!                       │
     │                                                             │
-    │   Always compare Wh for true capacity comparison.         │
+    │   Always compare Wh for true capacity comparison.           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
