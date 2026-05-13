@@ -539,10 +539,10 @@ SELF-DISCHARGE MECHANISMS
     │   Self-discharge rate DOUBLES every 10°C rise               │
     │                                                             │
     │   Example (NiMH standard):                                  │
-    │   0°C:   5-10% per month                                   │
-    │   20°C:  20-30% per month                                  │
-    │   30°C:  40-60% per month                                  │
-    │   40°C:  80-120% per month (dead in weeks!)                │
+    │   0°C:   5-10% per month                                    │
+    │   20°C:  20-30% per month                                   │
+    │   30°C:  40-60% per month                                   │
+    │   40°C:  80-120% per month (dead in weeks!)                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -557,17 +557,17 @@ BATTERY FAILURE MECHANISMS
     PRIMARY BATTERIES (non-rechargeable):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. REACTANTS EXHAUSTED                                   │
-    │      └── All active material consumed                      │
+    │   1. REACTANTS EXHAUSTED                                    │
+    │      └── All active material consumed                       │
     │                                                             │
-    │   2. ELECTROLYTE DRIED OUT                                 │
-    │      └── Seals fail, liquid evaporates                     │
+    │   2. ELECTROLYTE DRIED OUT                                  │
+    │      └── Seals fail, liquid evaporates                      │
     │                                                             │
-    │   3. PASSIVATION LAYER                                     │
-    │      └── Insulating layer forms on electrode               │
+    │   3. PASSIVATION LAYER                                      │
+    │      └── Insulating layer forms on electrode                │
     │                                                             │
-    │   4. INTERNAL RESISTANCE INCREASE                          │
-    │      └── Voltage drops below useful level                  │
+    │   4. INTERNAL RESISTANCE INCREASE                           │
+    │      └── Voltage drops below useful level                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
