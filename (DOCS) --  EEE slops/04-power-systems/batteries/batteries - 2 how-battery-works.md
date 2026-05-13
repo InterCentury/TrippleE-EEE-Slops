@@ -502,17 +502,17 @@ SELF-DISCHARGE MECHANISMS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. INTERNAL CHEMICAL REACTIONS                           │
-    │      └── Spontaneous reactions between materials          │
+    │   1. INTERNAL CHEMICAL REACTIONS                            │
+    │      └── Spontaneous reactions between materials            │
     │                                                             │
-    │   2. MICRO-SHORT CIRCUITS                                  │
-    │      └── Tiny conductive paths through separator          │
+    │   2. MICRO-SHORT CIRCUITS                                   │
+    │      └── Tiny conductive paths through separator            │
     │                                                             │
-    │   3. SIDE REACTIONS                                        │
-    │      └── Unwanted chemical reactions                       │
+    │   3. SIDE REACTIONS                                         │
+    │      └── Unwanted chemical reactions                        │
     │                                                             │
-    │   4. ELECTROLYTE DECOMPOSITION                             │
-    │      └── Electrolyte breaks down over time                 │
+    │   4. ELECTROLYTE DECOMPOSITION                              │
+    │      └── Electrolyte breaks down over time                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
