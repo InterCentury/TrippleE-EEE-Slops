@@ -536,13 +536,13 @@ SELF-DISCHARGE MECHANISMS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Self-discharge rate DOUBLES every 10°C rise              │
+    │   Self-discharge rate DOUBLES every 10°C rise               │
     │                                                             │
-    │   Example (NiMH standard):                                 │
-    │   0°C:   5-10% per month                                  │
-    │   20°C:  20-30% per month                                 │
-    │   30°C:  40-60% per month                                 │
-    │   40°C:  80-120% per month (dead in weeks!)               │
+    │   Example (NiMH standard):                                  │
+    │   0°C:   5-10% per month                                   │
+    │   20°C:  20-30% per month                                  │
+    │   30°C:  40-60% per month                                  │
+    │   40°C:  80-120% per month (dead in weeks!)                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
