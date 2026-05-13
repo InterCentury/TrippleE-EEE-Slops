@@ -627,16 +627,16 @@ RUNTIME CALCULATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Actual runtime is ALWAYS less than calculated:           │
+    │   Actual runtime is ALWAYS less than calculated:            │
     │                                                             │
-    │   ├── Voltage drops (lower voltage = less power)          │
-    │   ├── Temperature effects (cold reduces capacity)          │
-    │   ├── Peukert effect (high current = lower capacity)       │
-    │   ├── Age (old batteries have less capacity)               │
-    │   ├── Device cutoff (voltage too low, battery remains)     │
-    │   └── Self-discharge (idle loss)                          │
+    │   ├── Voltage drops (lower voltage = less power)            │
+    │   ├── Temperature effects (cold reduces capacity)           │
+    │   ├── Peukert effect (high current = lower capacity)        │
+    │   ├── Age (old batteries have less capacity)                │
+    │   ├── Device cutoff (voltage too low, battery remains)      │
+    │   └── Self-discharge (idle loss)                            │
     │                                                             │
-    │   Safety margin: Calculate 60-80% of theoretical          │
+    │   Safety margin: Calculate 60-80% of theoretical            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
