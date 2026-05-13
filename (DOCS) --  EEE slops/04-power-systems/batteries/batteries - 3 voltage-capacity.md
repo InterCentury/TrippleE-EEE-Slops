@@ -249,7 +249,7 @@ CUTOFF VOLTAGE EXPLANATION
 NOMINAL VOLTAGES COMPARISON
 
     Chemistry               Nominal V    Full V    Cutoff V    Notes
-    ──────────────────────────────────────────────────────────────────────────────────
+    ───────────────────────────────────────────────────────────────────────────────
     Alkaline                1.5V         1.65V     0.8-1.0V    Primary
     Zinc-carbon             1.5V         1.60V     0.8-0.9V    Primary (obsolete)
     Lithium primary (1.5V)  1.5V         1.80V     0.8-1.0V    Primary
@@ -267,7 +267,7 @@ NOMINAL VOLTAGES COMPARISON
     SERIES VOLTAGES (common battery packs):
 
     Cells in series    Alkaline    NiMH/NiCd    Li-ion    Lead-acid
-    ──────────────────────────────────────────────────────────────
+    ──────────────────────────────────────────────────────────────────────
     1                  1.5V        1.2V         3.7V      2.1V
     2                  3.0V        2.4V         7.4V      4.2V
     3                  4.5V        3.6V         11.1V     6.3V
