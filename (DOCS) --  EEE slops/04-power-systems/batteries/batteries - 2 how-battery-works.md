@@ -575,20 +575,20 @@ BATTERY FAILURE MECHANISMS
     SECONDARY BATTERIES (rechargeable):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. CYCLE LIFE EXCEEDED                                   │
-    │      └── Capacity drops below 80%                          │
+    │   1. CYCLE LIFE EXCEEDED                                    │
+    │      └── Capacity drops below 80%                           │
     │                                                             │
-    │   2. INTERNAL SHORT CIRCUIT (dendrites)                    │
-    │      └── Lithium plating (Li-ion) or crystal growth       │
+    │   2. INTERNAL SHORT CIRCUIT (dendrites)                     │
+    │      └── Lithium plating (Li-ion) or crystal growth         │
     │                                                             │
-    │   3. ELECTROLYTE DECOMPOSITION                             │
-    │      └── Chemical breakdown from overcharge/heat          │
+    │   3. ELECTROLYTE DECOMPOSITION                              │
+    │      └── Chemical breakdown from overcharge/heat            │
     │                                                             │
-    │   4. ELECTRODE DEGRADATION                                 │
-    │      └── Physical breakdown (cracking, shedding)          │
+    │   4. ELECTRODE DEGRADATION                                  │
+    │      └── Physical breakdown (cracking, shedding)            │
     │                                                             │
-    │   5. SEAL FAILURE (leakage)                                │
-    │      └── Gas pressure ruptures seal                        │
+    │   5. SEAL FAILURE (leakage)                                 │
+    │      └── Gas pressure ruptures seal                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
