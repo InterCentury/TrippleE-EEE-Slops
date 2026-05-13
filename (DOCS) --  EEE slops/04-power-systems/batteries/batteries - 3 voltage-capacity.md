@@ -216,8 +216,8 @@ CUTOFF VOLTAGE EXPLANATION
 
     TYPICAL CUTOFF VOLTAGES:
 
-    Device Type                 Cutoff Voltage (per cell)    Notes
-    ──────────────────────────────────────────────────────────────
+    Device Type                 Cutoff Voltage (per cell)   Notes
+    ────────────────────────────────────────────────────────────────────────────────────────
     TV remote                   1.0-1.1V                    Works well with alkaline
     LED flashlight              0.9-1.0V                    Some work with NiMH
     Digital camera              1.0-1.1V                    NiMH recommended
