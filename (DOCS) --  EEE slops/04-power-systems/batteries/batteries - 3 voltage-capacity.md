@@ -231,14 +231,14 @@ CUTOFF VOLTAGE EXPLANATION
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Alkaline battery in a device with 1.2V cutoff:           │
-    │   ├── Battery still has 30-40% capacity                    │
-    │   ├── But voltage dropped to 1.2V                          │
-    │   ├── Device thinks battery is dead                        │
-    │   └── Battery discarded with usable energy remaining!      │
+    │   Alkaline battery in a device with 1.2V cutoff:            │
+    │   ├── Battery still has 30-40% capacity                     │
+    │   ├── But voltage dropped to 1.2V                           │
+    │   ├── Device thinks battery is dead                         │
+    │   └── Battery discarded with usable energy remaining!       │
     │                                                             │
-    │   Solution: Use NiMH (holds 1.2V for most of discharge)    │
-    │   or use device with lower cutoff.                         │
+    │   Solution: Use NiMH (holds 1.2V for most of discharge)     │
+    │   or use device with lower cutoff.                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
@@ -249,7 +249,7 @@ CUTOFF VOLTAGE EXPLANATION
 NOMINAL VOLTAGES COMPARISON
 
     Chemistry               Nominal V    Full V    Cutoff V    Notes
-    ──────────────────────────────────────────────────────────────
+    ──────────────────────────────────────────────────────────────────────────────────
     Alkaline                1.5V         1.65V     0.8-1.0V    Primary
     Zinc-carbon             1.5V         1.60V     0.8-0.9V    Primary (obsolete)
     Lithium primary (1.5V)  1.5V         1.80V     0.8-1.0V    Primary
