@@ -76,21 +76,21 @@ OPEN CIRCUIT VOLTAGE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Voltmeter                                                │
-    │   ┌─────┐                                                  │
-    │   │  V  │                                                  │
-    │   └──┬──┘                                                  │
-    │      │                                                     │
-    │    ┌─┴─┐ ┌─┴─┐                                            │
-    │    │ + │ │ - │                                            │
-    │    └───┘ └───┘                                            │
-    │      │     │                                              │
-    │   ┌──┴─────┴──┐                                           │
-    │   │  BATTERY  │  (no load connected)                      │
-    │   └───────────┘                                           │
+    │   Voltmeter                                                 │
+    │   ┌─────┐                                                   │
+    │   │  V  │                                                   │
+    │   └──┬──┘                                                   │
+    │      │                                                      │
+    │    ┌─┴─┐ ┌─┴─┐                                              │
+    │    │ + │ │ - │                                              │
+    │    └───┘ └───┘                                              │
+    │      │     │                                                │
+    │   ┌──┴─────┴──┐                                             │
+    │   │  BATTERY  │  (no load connected)                        │
+    │   └───────────┘                                             │
     │                                                             │
-    │   OCV = Highest possible voltage from battery              │
-    │   OCV decreases as battery discharges                      │
+    │   OCV = Highest possible voltage from battery               │
+    │   OCV decreases as battery discharges                       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
