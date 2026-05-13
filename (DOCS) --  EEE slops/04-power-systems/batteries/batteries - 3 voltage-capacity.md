@@ -520,11 +520,11 @@ PRIMARY BATTERIES (Alkaline, 25°C, low drain)
     AA (NiMH standard)       2000-2500 mAh    -
     AA (NiMH LSD/Eneloop)    1900-2000 mAh    -
     AA (NiMH high capacity)  2700-2800 mAh    -
-    18650 Li-ion              -               2000-3500 mAh
-    21700 Li-ion              -               4000-5000 mAh
-    26650 Li-ion              -               5000-6000 mAh
-    LiPo pouch (500mAh)       -               500 mAh
-    LiPo pouch (2000mAh)      -               2000 mAh
+    18650 Li-ion             -                2000-3500 mAh
+    21700 Li-ion             -                4000-5000 mAh
+    26650 Li-ion             -                5000-6000 mAh
+    LiPo pouch (500mAh)      -                500 mAh
+    LiPo pouch (2000mAh)     -                2000 mAh
 
 
     LEAD-ACID BATTERIES (Ah, not mAh!)
