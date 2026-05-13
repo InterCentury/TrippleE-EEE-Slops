@@ -456,23 +456,23 @@ ENERGY LOSSES DURING CHARGE/DISCHARGE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Charge energy in (Wh)                                    │
-    │          │                                                │
-    │          ▼                                                │
+    │   Charge energy in (Wh)                                     │
+    │          │                                                  │
+    │          ▼                                                  │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │                                                     │   │
     │   │   ENERGY LOSSES:                                    │   │
-    │   │   ├── Heat (I²R losses)                            │   │
+    │   │   ├── Heat (I²R losses)                             │   │
     │   │   ├── Overpotential (voltage inefficiency)          │   │
     │   │   ├── Side reactions (gas generation)               │   │
-    │   │   └── Self-discharge                               │   │
+    │   │   └── Self-discharge                                │   │
     │   │                                                     │   │
     │   └─────────────────────────────────────────────────────┘   │
-    │          │                                                │
-    │          ▼                                                │
-    │   Discharge energy out (Wh)                              │
+    │          │                                                  │
+    │          ▼                                                  │
+    │   Discharge energy out (Wh)                                 │
     │                                                             │
-    │   Round-trip efficiency = Energy out / Energy in × 100%    │
+    │   Round-trip efficiency = Energy out / Energy in × 100%     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
