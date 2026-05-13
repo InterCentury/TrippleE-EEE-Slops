@@ -456,18 +456,18 @@ TEMPERATURE EFFECTS
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Higher current = Lower effective capacity                │
+    │   Higher current = Lower effective capacity                 │
     │                                                             │
-    │   Capacity (AA alkaline) vs Discharge Rate:                │
+    │   Capacity (AA alkaline) vs Discharge Rate:                 │
     │                                                             │
-    │   10mA   :  3000mAh (100%)                                 │
-    │   100mA  :  2700mAh (90%)                                  │
-    │   500mA  :  1800mAh (60%)                                  │
-    │   1000mA :  1000mAh (33%)                                  │
-    │   2000mA :   400mAh (13%)                                  │
+    │   10mA   :  3000mAh (100%)                                  │
+    │   100mA  :  2700mAh (90%)                                   │
+    │   500mA  :  1800mAh (60%)                                   │
+    │   1000mA :  1000mAh (33%)                                   │
+    │   2000mA :   400mAh (13%)                                   │
     │                                                             │
-    │   Peukert's Law: Iⁿ × t = constant                         │
-    │   n (Peukert exponent): Alkaline = 1.1-1.4, Lead-acid = 1.2│
+    │   Peukert's Law: Iⁿ × t = constant                          │
+    │   n (Peukert exponent): Alkaline = 1.1-1.4, Lead-acid = 1.2 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -480,18 +480,18 @@ TEMPERATURE EFFECTS
     │                                                             │
     │   Rechargeable battery capacity vs cycles:                  │
     │                                                             │
-    │   0 cycles:  100% (2000mAh)                                │
-    │   100 cycles: 95% (1900mAh)                                │
-    │   300 cycles: 85% (1700mAh)                                │
-    │   500 cycles: 75% (1500mAh) - end of useful life           │
+    │   0 cycles:  100% (2000mAh)                                 │
+    │   100 cycles: 95% (1900mAh)                                 │
+    │   300 cycles: 85% (1700mAh)                                 │
+    │   500 cycles: 75% (1500mAh) - end of useful life            │
     │                                                             │
     │   Primary battery capacity vs storage time:                 │
     │                                                             │
-    │   New:        100%                                         │
-    │   1 year:     95-97%                                       │
-    │   3 years:    85-90%                                       │
-    │   5 years:    75-85%                                       │
-    │   10 years:   50-60%                                       │
+    │   New:        100%                                          │
+    │   1 year:     95-97%                                        │
+    │   3 years:    85-90%                                        │
+    │   5 years:    75-85%                                        │
+    │   10 years:   50-60%                                        │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
