@@ -381,15 +381,15 @@ FACTORS THAT CHANGE DISCHARGE BEHAVIOR
     │                                                             │
     │   Higher current = Lower effective capacity (Peukert effect)│
     │                                                             │
-    │   Example (AA alkaline, 25°C):                             │
-    │   10mA:   3000mAh (100%)                                   │
-    │   100mA:  2700mAh (90%)                                    │
-    │   500mA:  1800mAh (60%)                                    │
-    │   1000mA: 1000mAh (33%)                                    │
-    │   2000mA:  400mAh (13%)                                    │
+    │   Example (AA alkaline, 25°C):                              │
+    │   10mA:   3000mAh (100%)                                    │
+    │   100mA:  2700mAh (90%)                                     │
+    │   500mA:  1800mAh (60%)                                     │
+    │   1000mA: 1000mAh (33%)                                     │
+    │   2000mA:  400mAh (13%)                                     │
     │                                                             │
     │   NiMH handles high current much better:                    │
-    │   1000mA: 2400mAh (95% of 1C rate)                         │
+    │   1000mA: 2400mAh (95% of 1C rate)                          │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -397,14 +397,14 @@ FACTORS THAT CHANGE DISCHARGE BEHAVIOR
     AGE EFFECT:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   As battery ages:                                         │
-    │   ├── Internal resistance increases                        │
-    │   ├── Capacity decreases                                   │
+    │   As battery ages:                                          │
+    │   ├── Internal resistance increases                         │
+    │   ├── Capacity decreases                                    │
     │   ├── Voltage drops more under load                         │
-    │   └── Self-discharge increases                             │
+    │   └── Self-discharge increases                              │
     │                                                             │
-    │   New battery:  2000mAh, 50mΩ                             │
-    │   Old battery:  1500mAh, 150mΩ (75% capacity)             │
+    │   New battery:  2000mAh, 50mΩ                               │
+    │   Old battery:  1500mAh, 150mΩ (75% capacity)               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
