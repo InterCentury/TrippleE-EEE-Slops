@@ -409,11 +409,11 @@ CAPACITY TESTING
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Lower discharge rates = higher measured capacity         │
-    │   Higher discharge rates = lower measured capacity         │
+    │   Lower discharge rates = higher measured capacity          │
+    │   Higher discharge rates = lower measured capacity          │
     │                                                             │
-    │   0.2C gives consistent, comparable measurements           │
-    │   across different battery types                           │
+    │   0.2C gives consistent, comparable measurements            │
+    │   across different battery types                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
