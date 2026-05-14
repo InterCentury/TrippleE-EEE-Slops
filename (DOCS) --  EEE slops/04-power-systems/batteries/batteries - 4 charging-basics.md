@@ -510,21 +510,21 @@ SMART CHARGER
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Features:                                                 │
-    │   ├── Microprocessor control                               │
-    │   ├── Automatic charge termination                         │
-    │   ├── Multiple chemistries (NiMH/Li-ion/Lead-acid)         │
-    │   ├── Individual cell monitoring (balance)                │
-    │   ├── Temperature monitoring (thermistor)                 │
-    │   ├── LCD display (voltage, current, capacity)            │
-    │   ├── Refresh / recondition mode                          │
-    │   ├── Automatic trickle / storage charge                  │
-    │   └── Safety timers                                       │
+    │   ├── Microprocessor control                                │
+    │   ├── Automatic charge termination                          │
+    │   ├── Multiple chemistries (NiMH/Li-ion/Lead-acid)          │
+    │   ├── Individual cell monitoring (balance)                  │
+    │   ├── Temperature monitoring (thermistor)                   │
+    │   ├── LCD display (voltage, current, capacity)              │
+    │   ├── Refresh / recondition mode                            │
+    │   ├── Automatic trickle / storage charge                    │
+    │   └── Safety timers                                         │
     │                                                             │
     │   Examples:                                                 │
-    │   ├── Opus BT-C3100 (AA/AAA NiMH/Li-ion)                  │
-    │   ├── SkyRC MC3000 (professional)                         │
-    │   ├── Nitecore D4 (consumer)                             │
-    │   └── Liitokala Lii-500 (budget)                          │
+    │   ├── Opus BT-C3100 (AA/AAA NiMH/Li-ion)                    │
+    │   ├── SkyRC MC3000 (professional)                           │
+    │   ├── Nitecore D4 (consumer)                                │
+    │   └── Liitokala Lii-500 (budget)                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
