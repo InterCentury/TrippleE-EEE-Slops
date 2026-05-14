@@ -600,15 +600,15 @@ CHARGING SAFETY RULES
     DON'T:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✗ Never leave charging unattended (especially Li-ion)    │
-    │   ✗ Never use damaged or swollen battery                   │
-    │   ✗ Never overcharge >4.25V per cell (Li-ion)             │
-    │   ✗ Never charge Li-ion below 0°C (32°F)                  │
-    │   ✗ Never charge on flammable surface (wood, carpet)       │
-    │   ✗ Never mix old/new batteries in same charger            │
-    │   ✗ Never use NiCd/NiMH charger on Li-ion                  │
-    │   ✗ Never reverse polarity (charger to battery)            │
-    │   ✗ Never block charger ventilation                        │
+    │   X Never leave charging unattended (especially Li-ion)     │
+    │   X Never use damaged or swollen battery                    │
+    │   X Never overcharge >4.25V per cell (Li-ion)               │
+    │   X Never charge Li-ion below 0°C (32°F)                    │
+    │   X Never charge on flammable surface (wood, carpet)        │
+    │   X Never mix old/new batteries in same charger             │
+    │   X Never use NiCd/NiMH charger on Li-ion                   │
+    │   X Never reverse polarity (charger to battery)             │
+    │   X Never block charger ventilation                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
