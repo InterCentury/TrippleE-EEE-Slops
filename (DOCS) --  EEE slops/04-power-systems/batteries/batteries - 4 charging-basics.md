@@ -409,14 +409,14 @@ RAPID CHARGING (1C to 3C+)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: 1C to 3C (or higher for special cells)            │
-    │   Time: 15-60 minutes                                      │
+    │   Rate: 1C to 3C (or higher for special cells)              │
+    │   Time: 15-60 minutes                                       │
     │   Termination: Sophisticated detection (dT/dt + -ΔV + timer)│
-    │   Safety: Requires careful monitoring                     │
-    │   Use: High-end chargers, RC/aviation                      │
+    │   Safety: Requires careful monitoring                       │
+    │   Use: High-end chargers, RC/aviation                       │
     │                                                             │
-    │   Example: 2000mAh Li-ion                                 │
-    │   Charge at 4000mA (2C) for 30 minutes (if rated)        │
+    │   Example: 2000mAh Li-ion                                   │
+    │   Charge at 4000mA (2C) for 30 minutes (if rated)           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
