@@ -622,13 +622,13 @@ WARNING SIGNS DURING CHARGING
     │                                                             │
     │   UNPLUG IMMEDIATELY if you observe:                        │
     │                                                             │
-    │   ☐ Battery too hot (>50°C / 122°F)                        │
-    │   ☐ Swelling or puffing (Li-ion/LiPo)                      │
-    │   ☐ Hissing or clicking sounds                             │
-    │   ☐ Smoke or unusual smell (sweet, rotten eggs)            │
-    │   ☐ Charger won't stop (endless charging)                  │
-    │   ☐ Battery case cracking or deforming                     │
-    │   ☐ Sparking or arcing                                     │
+    │   ☐ Battery too hot (>50°C / 122°F)                         │
+    │   ☐ Swelling or puffing (Li-ion/LiPo)                       │
+    │   ☐ Hissing or clicking sounds                              │
+    │   ☐ Smoke or unusual smell (sweet, rotten eggs)             │
+    │   ☐ Charger won't stop (endless charging)                   │
+    │   ☐ Battery case cracking or deforming                      │
+    │   ☐ Sparking or arcing                                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
