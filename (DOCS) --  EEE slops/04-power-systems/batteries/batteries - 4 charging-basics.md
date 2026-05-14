@@ -584,15 +584,15 @@ CHARGING SAFETY RULES
     DO:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ✓ Use correct charger for battery chemistry              │
-    │   ✓ Charge on non-flammable surface (concrete, ceramic)    │
-    │   ✓ Stay nearby (especially Li-ion/LiPo)                   │
-    │   ✓ Monitor temperature                                    │
-    │   ✓ Disconnect when fully charged                          │
-    │   ✓ Use LiPo safety bag for pouch cells                    │
-    │   ✓ Ventilate area (lead-acid hydrogen gas)                │
-    │   ✓ Check battery for damage before charging               │
-    │   ✓ Use charger with automatic termination                 │
+    │   ✓ Use correct charger for battery chemistry               │
+    │   ✓ Charge on non-flammable surface (concrete, ceramic)     │
+    │   ✓ Stay nearby (especially Li-ion/LiPo)                    │
+    │   ✓ Monitor temperature                                     │
+    │   ✓ Disconnect when fully charged                           │
+    │   ✓ Use LiPo safety bag for pouch cells                     │
+    │   ✓ Ventilate area (lead-acid hydrogen gas)                 │
+    │   ✓ Check battery for damage before charging                │
+    │   ✓ Use charger with automatic termination                  │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
