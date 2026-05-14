@@ -60,24 +60,24 @@ ROUND-TRIP EFFICIENCY
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Energy in (from charger)                                 │
-    │          │                                                 │
-    │          ▼                                                 │
+    │   Energy in (from charger)                                  │
+    │          │                                                  │
+    │          ▼                                                  │
     │   ┌─────────────────────────────────────────────────────┐   │
     │   │                                                     │   │
     │   │   LOSSES:                                           │   │
-    │   │   ├── Heat (I²R losses)                            │   │
+    │   │   ├── Heat (I²R losses)                             │   │
     │   │   ├── Overpotential (voltage inefficiency)          │   │
     │   │   ├── Side reactions (gas, heat)                    │   │
     │   │   └── Self-discharge during charge                  │   │
     │   │                                                     │   │
     │   └─────────────────────────────────────────────────────┘   │
-    │          │                                                 │
-    │          ▼                                                 │
-    │   Energy out (during discharge)                           │
+    │          │                                                  │
+    │          ▼                                                  │
+    │   Energy out (during discharge)                             │
     │                                                             │
     │                                                             │
-    │   Round-trip efficiency = Energy_out / Energy_in × 100%    │
+    │   Round-trip efficiency = Energy_out / Energy_in × 100%     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
