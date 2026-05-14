@@ -382,14 +382,14 @@ FAST CHARGING (0.3C to 1C)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: 0.3C to 1C                                         │
-    │   Time: 1-3 hours                                          │
-    │   Termination: -ΔV, dT/dt, or voltage (CV stage)          │
-    │   Safety: Good (requires smart charger)                   │
-    │   Use: Smart chargers                                      │
+    │   Rate: 0.3C to 1C                                          │
+    │   Time: 1-3 hours                                           │
+    │   Termination: -ΔV, dT/dt, or voltage (CV stage)            │
+    │   Safety: Good (requires smart charger)                     │
+    │   Use: Smart chargers                                       │
     │                                                             │
-    │   Example: 2000mAh NiMH                                   │
-    │   Charge at 1000mA (0.5C) for 2.5 hours                   │
+    │   Example: 2000mAh NiMH                                     │
+    │   Charge at 1000mA (0.5C) for 2.5 hours                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
