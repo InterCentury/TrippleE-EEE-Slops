@@ -450,14 +450,14 @@ TERMINATION METHODS BY CHEMISTRY
     NiMH / NiCd:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Primary: -ΔV (voltage drop)                             │
-    │   NiCd: 10-30mV per cell drop                             │
-    │   NiMH: 5-10mV per cell drop                              │
+    │   Primary: -ΔV (voltage drop)                               │
+    │   NiCd: 10-30mV per cell drop                               │
+    │   NiMH: 5-10mV per cell drop                                │
     │                                                             │
-    │   Backup 1: dT/dt (temperature rise >1°C/min)            │
-    │   Backup 2: Absolute temperature (>50°C)                  │
-    │   Backup 3: Timer (1.5× expected time)                    │
-    │   Backup 4: Maximum voltage (1.6V per cell)               │
+    │   Backup 1: dT/dt (temperature rise >1°C/min)               │
+    │   Backup 2: Absolute temperature (>50°C)                    │
+    │   Backup 3: Timer (1.5× expected time)                      │
+    │   Backup 4: Maximum voltage (1.6V per cell)                 │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
