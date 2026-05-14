@@ -41,12 +41,12 @@ DISCHARGE VS CHARGE
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Charger (+) ──────► Battery (+)  (higher voltage forces  │
-    │                            │        current backward)      │
+    │   Charger (+) ──────► Battery (+)  (higher voltage forces   │
+    │                            │        current backward)       │
     │   Charger (-) ◄────── Battery (-)                           │
     │                                                             │
-    │   Charger voltage must be HIGHER than battery voltage      │
-    │   for current to flow INTO the battery                     │
+    │   Charger voltage must be HIGHER than battery voltage       │
+    │   for current to flow INTO the battery                      │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
