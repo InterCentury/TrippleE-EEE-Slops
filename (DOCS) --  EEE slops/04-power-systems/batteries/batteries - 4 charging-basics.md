@@ -18,8 +18,8 @@ DISCHARGE VS CHARGE
     DISCHARGE (battery powering device):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Anode:  Zn  →  Zn²⁺ + 2e⁻  (oxidation, loses electrons)  │
-    │   Cathode: MnO₂ + e⁻ → MnOOH  (reduction, gains electrons) │
+    │   Anode:  Zn  →  Zn²⁺ + 2e⁻  (oxidation, loses electrons)   │
+    │   Cathode: MnO₂ + e⁻ → MnOOH  (reduction, gains electrons)  │
     │                                                             │
     │   Chemical energy → Electrical energy                       │
     │                                                             │
@@ -29,8 +29,8 @@ DISCHARGE VS CHARGE
     CHARGE (charger restoring energy):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Anode:  Zn²⁺ + 2e⁻ → Zn   (reduction, gains electrons)   │
-    │   Cathode: MnOOH → MnO₂ + e⁻  (oxidation, loses electrons) │
+    │   Anode:  Zn²⁺ + 2e⁻ → Zn   (reduction, gains electrons)    │
+    │   Cathode: MnOOH → MnO₂ + e⁻  (oxidation, loses electrons)  │
     │                                                             │
     │   Electrical energy → Chemical energy (stored)              │
     │                                                             │
