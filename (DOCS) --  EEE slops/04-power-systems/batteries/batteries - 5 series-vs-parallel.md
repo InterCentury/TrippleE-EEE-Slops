@@ -90,20 +90,20 @@ ADVANTAGES OF SERIES:
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. WEAKEST CELL limits the entire pack                   │
-    │      └── One bad cell = entire pack fails                 │
+    │   1. WEAKEST CELL limits the entire pack                    │
+    │      └── One bad cell = entire pack fails                   │
     │                                                             │
-    │   2. IMBALANCE is dangerous (Li-ion)                       │
-    │      └── One cell overcharges while others are charging   │
+    │   2. IMBALANCE is dangerous (Li-ion)                        │
+    │      └── One cell overcharges while others are charging     │
     │                                                             │
-    │   3. CELL MATCHING critical                               │
-    │      └── Same capacity, age, internal resistance          │
+    │   3. CELL MATCHING critical                                 │
+    │      └── Same capacity, age, internal resistance            │
     │                                                             │
-    │   4. BMS REQUIRED for multi-cell Li-ion                    │
-    │      └── Balancing and protection circuit necessary        │
+    │   4. BMS REQUIRED for multi-cell Li-ion                     │
+    │      └── Balancing and protection circuit necessary         │
     │                                                             │
-    │   5. ONE OPEN CELL kills entire pack                       │
-    │      └── Series = single point of failure                  │
+    │   5. ONE OPEN CELL kills entire pack                        │
+    │      └── Series = single point of failure                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
