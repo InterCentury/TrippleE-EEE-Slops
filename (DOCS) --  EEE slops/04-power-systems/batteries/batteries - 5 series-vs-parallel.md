@@ -17,23 +17,23 @@ SERIES CONNECTION DIAGRAM
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Battery 1      Battery 2      Battery 3                  │
-    │   ┌─────┐        ┌─────┐        ┌─────┐                   │
-    │   │  +  │        │  +  │        │  +  │                   │
-    │   │     │        │     │        │     │                   │
-    │   │  -  │────────│  +  │────────│  -  │                   │
-    │   └──┬──┘        └──┬──┘        └──┬──┘                   │
-    │      │              │              │                       │
-    │      │              │              │                       │
-    │   ┌──┴──┐        ┌──┴──┐        ┌──┴──┐                   │
-    │   │  -  │        │  +  │        │  -  │                   │
-    │   └─────┘        └─────┘        └─────┘                   │
+    │   Battery 1      Battery 2      Battery 3                   │
+    │   ┌─────┐        ┌─────┐        ┌─────┐                     │
+    │   │  +  │        │  +  │        │  +  │                     │
+    │   │     │        │     │        │     │                     │
+    │   │  -  │────────│  +  │────────│  -  │                     │
+    │   └──┬──┘        └──┬──┘        └──┬──┘                     │
+    │      │              │              │                        │
+    │      │              │              │                        │
+    │   ┌──┴──┐        ┌──┴──┐        ┌──┴──┐                     │
+    │   │  -  │        │  +  │        │  -  │                     │
+    │   └─────┘        └─────┘        └─────┘                     │
     │                                                             │
-    │   Negative output ───┘        └─── Positive output        │
+    │   Negative output ───┘        └─── Positive output          │
     │                                                             │
-    │   Total Voltage = V₁ + V₂ + V₃                             │
-    │   Total Capacity = Same as single battery                  │
-    │   Total Current = Same as single battery                   │
+    │   Total Voltage = V₁ + V₂ + V₃                              │
+    │   Total Capacity = Same as single battery                   │
+    │   Total Current = Same as single battery                    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
