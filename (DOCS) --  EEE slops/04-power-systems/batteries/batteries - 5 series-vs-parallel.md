@@ -66,24 +66,24 @@ SERIES CONNECTION DIAGRAM
 ```
 ADVANTAGES OF SERIES:
 
-    ┌─────────────────────────────────────────────────────────────┐
-    │                                                             │
-    │   1. HIGHER VOLTAGE for devices requiring more power       │
-    │                                                             │
-    │   2. LOWER CURRENT for same power (P = V × I)             │
-    │      └── Less I²R loss = more efficient                   │
-    │                                                             │
-    │   3. THINNER WIRES possible (lower current = smaller gauge)│
-    │                                                             │
-    │   4. STANDARD VOLTAGES achieved                           │
-    │      ├── 2 cells (1.2V) = 2.4V (older electronics)        │
-    │      ├── 3 cells (1.2V) = 3.6V (early electronics)        │
-    │      ├── 4 cells (1.2V) = 4.8V (some power tools)         │
-    │      ├── 6 cells (1.2V) = 7.2V (cordless tools)           │
-    │      ├── 10 cells (3.7V) = 37V (e-bikes)                  │
-    │      └── 96 cells (3.7V) = 355V (EV batteries)            │
-    │                                                             │
-    └─────────────────────────────────────────────────────────────┘
+    ┌───────────────────────────────────────────────────────────────────┐
+    │                                                                   │
+    │   1. HIGHER VOLTAGE for devices requiring more power              │
+    │                                                                   │
+    │   2. LOWER CURRENT for same power (P = V × I)                     │
+    │      └── Less I²R loss = more efficient                           │
+    │                                                                   │
+    │   3. THINNER WIRES possible (lower current = smaller gauge)       │
+    │                                                                   │
+    │   4. STANDARD VOLTAGES achieved                                   │
+    │      ├── 2 cells (1.2V) = 2.4V (older electronics)                │
+    │      ├── 3 cells (1.2V) = 3.6V (early electronics)                │
+    │      ├── 4 cells (1.2V) = 4.8V (some power tools)                 │
+    │      ├── 6 cells (1.2V) = 7.2V (cordless tools)                   │
+    │      ├── 10 cells (3.7V) = 37V (e-bikes)                          │
+    │      └── 96 cells (3.7V) = 355V (EV batteries)                    │
+    │                                                                   │
+    └───────────────────────────────────────────────────────────────────┘
 
 
     DISADVANTAGES OF SERIES:
