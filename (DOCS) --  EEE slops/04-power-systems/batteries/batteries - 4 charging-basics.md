@@ -465,9 +465,9 @@ TERMINATION METHODS BY CHEMISTRY
     Lead-Acid:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Primary: Voltage reaches absorption setpoint             │
-    │   Secondary: Current drops to C/20 (enter float)          │
-    │   Float: Maintain 13.5-13.8V indefinitely                 │
+    │   Primary: Voltage reaches absorption setpoint              │
+    │   Secondary: Current drops to C/20 (enter float)            │
+    │   Float: Maintain 13.5-13.8V indefinitely                   │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
