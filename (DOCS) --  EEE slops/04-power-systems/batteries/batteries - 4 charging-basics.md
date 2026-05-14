@@ -349,14 +349,14 @@ SLOW CHARGING (C/10 rate)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Rate: 0.1C (10-hour rate)                               │
-    │   Time: 14-16 hours                                        │
-    │   Termination: Timer only (no voltage detection needed)   │
-    │   Safety: Very safe                                        │
-    │   Use: Overnight chargers, simple circuits                 │
+    │   Rate: 0.1C (10-hour rate)                                 │
+    │   Time: 14-16 hours                                         │
+    │   Termination: Timer only (no voltage detection needed)     │
+    │   Safety: Very safe                                         │
+    │   Use: Overnight chargers, simple circuits                  │
     │                                                             │
-    │   Example: 2000mAh NiMH                                   │
-    │   Charge at 200mA for 14-16 hours                         │
+    │   Example: 2000mAh NiMH                                     │
+    │   Charge at 200mA for 14-16 hours                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
