@@ -438,11 +438,11 @@ TERMINATION METHODS BY CHEMISTRY
     Li-ion / LiFePO₄:
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Method: CC/CV with current threshold                     │
-    │   Termination: Current drops to C/10 or C/20               │
-    │   Example: 2000mAh cell, 1C charge (2000mA)               │
-    │            Stop when current <200mA (C/10)                │
-    │   Backup: Timer (3 hours maximum)                          │
+    │   Method: CC/CV with current threshold                      │
+    │   Termination: Current drops to C/10 or C/20                │
+    │   Example: 2000mAh cell, 1C charge (2000mA)                 │
+    │            Stop when current <200mA (C/10)                  │
+    │   Backup: Timer (3 hours maximum)                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
