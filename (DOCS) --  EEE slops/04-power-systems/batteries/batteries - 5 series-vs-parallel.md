@@ -42,11 +42,11 @@ SERIES CONNECTION DIAGRAM
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Battery 1    Battery 2    Battery 3      Output         │
-    │   1.2V         1.2V         1.2V           3.6V           │
-    │   2000mAh      2000mAh      2000mAh        2000mAh        │
+    │   Battery 1    Battery 2    Battery 3      Output           │
+    │   1.2V         1.2V         1.2V           3.6V             │
+    │   2000mAh      2000mAh      2000mAh        2000mAh          │
     │                                                             │
-    │   3.6V × 2000mAh = 7.2Wh                                   │
+    │   3.6V × 2000mAh = 7.2Wh                                    │
     │   (Same Wh as 3 batteries individually)                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
