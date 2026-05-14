@@ -484,18 +484,18 @@ BASIC CHARGER
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Features:                                                 │
-    │   ├── Fixed voltage (e.g., 12V for car battery)           │
-    │   ├── Fixed current (e.g., 500mA)                         │
-    │   ├── No charge termination                               │
-    │   ├── No monitoring                                       │
-    │   └── User must time charging manually                     │
+    │   ├── Fixed voltage (e.g., 12V for car battery)             │
+    │   ├── Fixed current (e.g., 500mA)                           │
+    │   ├── No charge termination                                 │
+    │   ├── No monitoring                                         │
+    │   └── User must time charging manually                      │
     │                                                             │
-    │   Uses:                                                    │
-    │   ├── Overnight NiMH chargers (wall warts)                │
-    │   ├── Simple lead-acid chargers (timer)                   │
-    │   └── NOT for Li-ion (dangerous!)                        │
+    │   Uses:                                                     │
+    │   ├── Overnight NiMH chargers (wall warts)                  │
+    │   ├── Simple lead-acid chargers (timer)                     │
+    │   └── NOT for Li-ion (dangerous!)                           │
     │                                                             │
-    │   Risk: Overcharge if left too long                       │
+    │   Risk: Overcharge if left too long                         │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
