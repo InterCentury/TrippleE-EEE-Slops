@@ -315,13 +315,13 @@ LEAD-ACID CHARGING SPECIFICATIONS (12V battery)
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Temperature compensation: -0.03V per cell per 10°C       │
+    │   Temperature compensation: -0.03V per cell per 10°C        │
     │                                                             │
-    │   For 12V battery (6 cells):                               │
-    │   25°C:  14.4V (baseline)                                 │
-    │   35°C:  14.4V - 0.18V = 14.22V                           │
-    │   45°C:  14.4V - 0.36V = 14.04V                           │
-    │    5°C:  14.4V + 0.54V = 14.94V (cold needs higher V)     │
+    │   For 12V battery (6 cells):                                │
+    │   25°C:  14.4V (baseline)                                   │
+    │   35°C:  14.4V - 0.18V = 14.22V                             │
+    │   45°C:  14.4V - 0.36V = 14.04V                             │
+    │    5°C:  14.4V + 0.54V = 14.94V (cold needs higher V)       │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
@@ -329,11 +329,11 @@ LEAD-ACID CHARGING SPECIFICATIONS (12V battery)
     WARNING: Lead-acid produces HYDROGEN GAS during charging!
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ⚠ VENTILATION REQUIRED!                                  │
+    │   !!! VENTILATION REQUIRED!                                 │
     │                                                             │
-    │   Hydrogen is EXPLOSIVE (4-75% concentration in air)      │
-    │   NO sparks, flames, or smoking near charging battery     │
-    │   Charge in well-ventilated area (garage with door open)  │
+    │   Hydrogen is EXPLOSIVE (4-75% concentration in air)        │
+    │   NO sparks, flames, or smoking near charging battery       │
+    │   Charge in well-ventilated area (garage with door open)    │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
