@@ -354,18 +354,18 @@ BALANCING EXPLANATION
     WITHOUT BALANCING (Dangerous):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   3S Li-ion pack (12.6V full):                             │
+    │   3S Li-ion pack (12.6V full):                              │
     │                                                             │
-    │   Cell 1: 4.20V (full)                                    │
-    │   Cell 2: 4.15V (90%)                                     │
-    │   Cell 3: 4.05V (80%)                                     │
+    │   Cell 1: 4.20V (full)                                      │
+    │   Cell 2: 4.15V (90%)                                       │
+    │   Cell 3: 4.05V (80%)                                       │
     │                                                             │
-    │   Charger sees 12.40V (not yet 12.6V)                     │
-    │   Charger continues charging!                              │
+    │   Charger sees 12.40V (not yet 12.6V)                       │
+    │   Charger continues charging!                               │
     │                                                             │
-    │   Cell 1 overcharges: 4.20 → 4.30 → 4.40V                 │
+    │   Cell 1 overcharges: 4.20 → 4.30 → 4.40V                   │
     │                                                             │
-    │   RESULT: FIRE or EXPLOSION!                               │
+    │   RESULT: FIRE or EXPLOSION!                                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
