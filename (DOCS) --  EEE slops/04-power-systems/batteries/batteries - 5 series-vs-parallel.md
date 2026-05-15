@@ -328,16 +328,16 @@ CELL MATCHING REQUIREMENTS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   During discharge:                                         │
-    │   ├── 1000mAh cell empties FIRST                          │
-    │   ├── 2000mAh cell still has 1000mAh left                 │
-    │   ├── 1000mAh cell gets reverse charged                   │
-    │   └── Damage or explosion!                                │
+    │   ├── 1000mAh cell empties FIRST                            │
+    │   ├── 2000mAh cell still has 1000mAh left                   │
+    │   ├── 1000mAh cell gets reverse charged                     │
+    │   └── Damage or explosion!                                  │
     │                                                             │
-    │   During charge (Li-ion):                                  │
-    │   ├── 1000mAh cell fills FIRST                           │
-    │   ├── 2000mAh cell still charging                         │
-    │   ├── 1000mAh cell OVERCHARGES (>4.2V)                    │
-    │   └── FIRE / EXPLOSION!                                   │
+    │   During charge (Li-ion):                                   │
+    │   ├── 1000mAh cell fills FIRST                              │
+    │   ├── 2000mAh cell still charging                           │
+    │   ├── 1000mAh cell OVERCHARGES (>4.2V)                      │
+    │   └── FIRE / EXPLOSION!                                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
