@@ -171,20 +171,20 @@ ADVANTAGES OF PARALLEL:
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. HIGHER CAPACITY for longer runtime                    │
+    │   1. HIGHER CAPACITY for longer runtime                     │
     │                                                             │
-    │   2. HIGHER CURRENT CAPABILITY                             │
-    │      └── More cells in parallel = can supply more current │
+    │   2. HIGHER CURRENT CAPABILITY                              │
+    │      └── More cells in parallel = can supply more current   │
     │                                                             │
-    │   3. REDUNDANCY (one cell can fail, pack still works)      │
-    │      └── If one cell opens, others continue               │
+    │   3. REDUNDANCY (one cell can fail, pack still works)       │
+    │      └── If one cell opens, others continue                 │
     │                                                             │
-    │   4. LOWER INTERNAL RESISTANCE                             │
-    │      └── Parallel reduces overall resistance              │
-    │      └── I/R_total = 1/R₁ + 1/R₂ + 1/R₃                   │
+    │   4. LOWER INTERNAL RESISTANCE                              │
+    │      └── Parallel reduces overall resistance                │
+    │      └── I/R_total = 1/R₁ + 1/R₂ + 1/R₃                     │
     │                                                             │
-    │   5. BALANCING OCCURS NATURALLY (for same chemistry)      │
-    │      └── Cells self-balance if connected directly         │
+    │   5. BALANCING OCCURS NATURALLY (for same chemistry)        │
+    │      └── Cells self-balance if connected directly           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
