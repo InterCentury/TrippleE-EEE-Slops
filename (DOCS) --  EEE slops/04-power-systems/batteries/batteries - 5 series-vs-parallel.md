@@ -540,18 +540,18 @@ PARALLEL CONNECTION SAFETY RULES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ Voltage must be equal BEFORE connecting                │
-    │      (within 0.05V for Li-ion, 0.1V for NiMH)              │
+    │   ☐ Voltage must be equal BEFORE connecting                 │
+    │      (within 0.05V for Li-ion, 0.1V for NiMH)               │
     │                                                             │
-    │   ☐ Use pre-charge resistor if voltages differ            │
-    │      (prevents high inrush current)                        │
+    │   ☐ Use pre-charge resistor if voltages differ              │
+    │      (prevents high inrush current)                         │
     │                                                             │
-    │   ☐ Use fuses on each parallel string                     │
-    │      (prevents catastrophic failure if one string shorts)  │
+    │   ☐ Use fuses on each parallel string                       │
+    │      (prevents catastrophic failure if one string shorts)   │
     │                                                             │
-    │   ☐ Same chemistry only                                   │
+    │   ☐ Same chemistry only                                     │
     │                                                             │
-    │   ☐ Similar capacity recommended                          │
+    │   ☐ Similar capacity recommended                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
