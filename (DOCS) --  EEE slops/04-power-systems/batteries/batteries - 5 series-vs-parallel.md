@@ -369,8 +369,7 @@ BALANCING EXPLANATION
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
-
-    WITH BALANCING (Safe):
+   WITH BALANCING (Safe):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   Balance charger or BMS:                                   │
@@ -385,22 +384,22 @@ BALANCING EXPLANATION
     │   RESULT: Safe, balanced pack                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
-
-
-    BALANCING METHODS:
-
-    Method              Description                     Best For
-    ──────────────────────────────────────────────────────────────
-    Passive balancing   Bleed resistors burn excess     Low-cost BMS
-                        energy as heat
-    
-    Active balancing    Transfers energy from high to   High-end BMS
-                        low cells (efficient)
-    
-    Top balancing       Balances at full charge         Consumer packs
-                        (most common)
-    
-    Bottom balancing    Balances near empty             Industrial
+  
+   BALANCING METHODS:
+   ────────────────────────────────────────────────────────────────────────
+   │Method             │ Description                    │ Best For        │  
+   │───────────────────│────────────────────────────────│─────────────────│ 
+   │Passive balancing  │ Bleed resistors burn excess    │ Low-cost BMS    │ 
+   │                   │ energy as heat                 │                 │                      
+   │                   │                                │                 │ 
+   │Active balancing   │ Transfers energy from high to  │ High-end BMS    │       
+   │                   │ low cells (efficient)          │                 │ 
+   │                   │                                │                 │ 
+   │Top balancing      │ Balances at full charge        │ Consumer packs  │          
+   │                   │ (most common)                  │                 │    
+   │                   │                                │                 │ 
+   │Bottom balancing   │ Balances near empty            │ Industrial      │
+   ────────────────────────────────────────────────────────────────────────
 ```
 
 ## Practical Applications
