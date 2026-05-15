@@ -522,13 +522,13 @@ SERIES CONNECTION SAFETY RULES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Over-discharge:      Cell reversed polarity (damage)     │
-    │   Overcharge:          FIRE or EXPLOSION!                  │
-    │   Imbalance:           Overcharge of strong cell → FIRE    │
-    │   Over-current:        Overheating, thermal runaway        │
-    │   Short circuit:       Fire, explosion                     │
+    │   Over-discharge:      Cell reversed polarity (damage)      │
+    │   Overcharge:          FIRE or EXPLOSION!                   │
+    │   Imbalance:           Overcharge of strong cell → FIRE     │
+    │   Over-current:        Overheating, thermal runaway         │
+    │   Short circuit:       Fire, explosion                      │
     │                                                             │
-    │   BMS is NOT optional for multi-cell Li-ion!              │
+    │   BMS is NOT optional for multi-cell Li-ion!                │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
