@@ -252,14 +252,14 @@ SERIES-PARALLEL (2S2P) DIAGRAM
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Series strings: 2 cells in series (2S)                  │
-    │   Parallel strings: 2 strings (2P)                         │
+    │   Series strings: 2 cells in series (2S)                    │
+    │   Parallel strings: 2 strings (2P)                          │
     │                                                             │
-    │   Voltage = 2 × 3.7V = 7.4V                               │
-    │   Capacity = 2 × 2000mAh = 4000mAh (4Ah)                   │
-    │   Energy = 7.4V × 4Ah = 29.6Wh                            │
+    │   Voltage = 2 × 3.7V = 7.4V                                 │
+    │   Capacity = 2 × 2000mAh = 4000mAh (4Ah)                    │
+    │   Energy = 7.4V × 4Ah = 29.6Wh                              │
     │                                                             │
-    │   Total cells = 2S × 2P = 4 cells                         │
+    │   Total cells = 2S × 2P = 4 cells                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
