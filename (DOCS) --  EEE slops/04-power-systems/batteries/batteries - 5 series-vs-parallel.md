@@ -373,16 +373,16 @@ BALANCING EXPLANATION
     WITH BALANCING (Safe):
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Balance charger or BMS:                                  │
+    │   Balance charger or BMS:                                   │
     │                                                             │
-    │   Cell 1: 4.20V → Bleed resistor turns on (shunt)         │
-    │   Cell 2: 4.15V → No bleeding                             │
-    │   Cell 3: 4.05V → No bleeding                             │
+    │   Cell 1: 4.20V → Bleed resistor turns on (shunt)           │
+    │   Cell 2: 4.15V → No bleeding                               │
+    │   Cell 3: 4.05V → No bleeding                               │
     │                                                             │
-    │   Cell 1 voltage held at 4.20V while others catch up      │
-    │   All cells reach 4.20V together                          │
+    │   Cell 1 voltage held at 4.20V while others catch up        │
+    │   All cells reach 4.20V together                            │
     │                                                             │
-    │   RESULT: Safe, balanced pack                             │
+    │   RESULT: Safe, balanced pack                               │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
