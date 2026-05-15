@@ -506,14 +506,14 @@ SERIES CONNECTION SAFETY RULES
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   ☐ ALWAYS use Battery Management System (BMS)             │
-    │   ☐ Use balance charger for charging                       │
-    │   ☐ Monitor individual cell voltages                       │
-    │   ☐ Match cells carefully (same capacity, age, IR)        │
-    │   ☐ Never mix different chemistries                       │
-    │   ☐ Never mix different capacities                        │
-    │   ☐ Never mix old and new cells                           │
-    │   ☐ Check cell balance regularly                          │
+    │   ☐ ALWAYS use Battery Management System (BMS)              │
+    │   ☐ Use balance charger for charging                        │
+    │   ☐ Monitor individual cell voltages                        │
+    │   ☐ Match cells carefully (same capacity, age, IR)          │
+    │   ☐ Never mix different chemistries                         │
+    │   ☐ Never mix different capacities                          │
+    │   ☐ Never mix old and new cells                             │
+    │   ☐ Check cell balance regularly                            │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
