@@ -193,18 +193,18 @@ ADVANTAGES OF PARALLEL:
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   1. VOLTAGE SAME as single cell (no increase)             │
+    │   1. VOLTAGE SAME as single cell (no increase)              │
     │                                                             │
-    │   2. CELL MATCHING still important                         │
-    │      └── Different voltages cause high circulating current│
+    │   2. CELL MATCHING still important                          │
+    │      └── Different voltages cause high circulating current  │
     │                                                             │
-    │   3. HIGH CIRCULATING CURRENT if cells at different SoC   │
-    │      └── Can damage cells or cause fire (Li-ion)          │
+    │   3. HIGH CIRCULATING CURRENT if cells at different SoC     │
+    │      └── Can damage cells or cause fire (Li-ion)            │
     │                                                             │
-    │   4. SHORTED CELL drags down entire pack                   │
-    │      └── One shorted cell = all cells discharge into it   │
+    │   4. SHORTED CELL drags down entire pack                    │
+    │      └── One shorted cell = all cells discharge into it     │
     │                                                             │
-    │   5. MORE COMPLEX WIRING (multiple connections)           │
+    │   5. MORE COMPLEX WIRING (multiple connections)             │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 ```
