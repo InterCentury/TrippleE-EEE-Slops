@@ -145,11 +145,11 @@ PARALLEL CONNECTION DIAGRAM
 
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
-    │   Battery 1    Battery 2    Battery 3      Output         │
-    │   1.2V         1.2V         1.2V           1.2V           │
-    │   2000mAh      2000mAh      2000mAh        6000mAh        │
+    │   Battery 1    Battery 2    Battery 3      Output           │
+    │   1.2V         1.2V         1.2V           1.2V             │
+    │   2000mAh      2000mAh      2000mAh        6000mAh          │
     │                                                             │
-    │   1.2V × 6000mAh = 7.2Wh                                   │
+    │   1.2V × 6000mAh = 7.2Wh                                    │
     │   (Same Wh as 3 batteries individually)                     │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
