@@ -311,12 +311,12 @@ CELL MATCHING REQUIREMENTS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   MUST match:                                               │
-    │   ├── Chemistry (same type)                               │
-    │   ├── Voltage BEFORE connecting (within 0.05V)             │
-    │   └── Capacity (similar preferred)                        │
+    │   ├── Chemistry (same type)                                 │
+    │   ├── Voltage BEFORE connecting (within 0.05V)              │
+    │   └── Capacity (similar preferred)                          │
     │                                                             │
-    │   Why: Different voltages = high circulating current      │
-    │         Can damage cells, cause overheating, fire         │
+    │   Why: Different voltages = high circulating current        │
+    │         Can damage cells, cause overheating, fire           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
