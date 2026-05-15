@@ -30,7 +30,7 @@ VOLTAGE ANALOGY
     │   Low Voltage (1.5V)         High Voltage (12V)             │
     │                                                             │
     │   ┌─────┐                    ┌─────┐                        │
-    │   │ 1.5V│                    │ 12V │                        │
+    │   │1.5V │                    │ 12V │                        │
     │   └──┬──┘                    └──┬──┘                        │
     │      │                          │                           │
     │      ▼                          ▼                           │
