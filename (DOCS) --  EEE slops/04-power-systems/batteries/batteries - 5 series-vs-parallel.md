@@ -293,16 +293,16 @@ CELL MATCHING REQUIREMENTS
     ┌─────────────────────────────────────────────────────────────┐
     │                                                             │
     │   MUST match:                                               │
-    │   ├── Capacity (Ah / mAh)                                  │
-    │   ├── Chemistry (same type)                               │
-    │   ├── Brand and model (ideally)                           │
-    │   ├── Age (same batch/cycles)                             │
-    │   ├── Internal resistance                                  │
-    │   └── State of charge (before connecting)                 │
+    │   ├── Capacity (Ah / mAh)                                   │
+    │   ├── Chemistry (same type)                                 │
+    │   ├── Brand and model (ideally)                             │
+    │   ├── Age (same batch/cycles)                               │
+    │   ├── Internal resistance                                   │
+    │   └── State of charge (before connecting)                   │
     │                                                             │
-    │   Why: Weakest cell limits entire pack                    │
-    │         Imbalance leads to overcharge/over-discharge      │
-    │         Li-ion: OVERCHARGE = FIRE                         │
+    │   Why: Weakest cell limits entire pack                      │
+    │         Imbalance leads to overcharge/over-discharge        │
+    │         Li-ion: OVERCHARGE = FIRE                           │
     │                                                             │
     └─────────────────────────────────────────────────────────────┘
 
