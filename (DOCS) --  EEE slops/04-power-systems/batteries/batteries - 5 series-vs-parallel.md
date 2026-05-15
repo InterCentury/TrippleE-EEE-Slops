@@ -409,20 +409,20 @@ BALANCING EXPLANATION
 ```
 DEVICE-SPECIFIC CONFIGURATIONS
 
-    DEVICE                  CONFIGURATION          REASON
-    ──────────────────────────────────────────────────────────────
-    TV Remote               2S alkaline (3V)       2 cells in series
-    LED flashlight          1S or 2S Li-ion        Voltage depends on LED
-    Cordless drill (12V)    5S Li-ion (18V)        5 cells in series
-    Cordless drill (18V)    5S Li-ion (18V)        5 cells in series
-    Cordless drill (20V)    5S Li-ion (18V)        5 cells (marketing)
-    Laptop battery          3S or 4S Li-ion        11.1V or 14.8V
-    Power tool pack         5S2P Li-ion (18V, 4Ah) 10 cells
-    E-bike battery          10S4P Li-ion (36V, 8Ah) 40 cells
-    Car battery             6S lead-acid (12V)      6 cells in series
-    Golf cart (36V)         18S lead-acid (36V)     18 cells (6V×6)
-    Solar storage           4S LiFePO₄ (12.8V)      4 cells in series
-    Tesla Model 3           96S46P (355V, 217Ah)    4416 cells!
+    DEVICE                  CONFIGURATION             REASON
+    ──────────────────────────────────────────────────────────────────────────
+    TV Remote               2S alkaline (3V)          2 cells in series
+    LED flashlight          1S or 2S Li-ion           Voltage depends on LED
+    Cordless drill (12V)    5S Li-ion (18V)           5 cells in series
+    Cordless drill (18V)    5S Li-ion (18V)           5 cells in series
+    Cordless drill (20V)    5S Li-ion (18V)           5 cells (marketing)
+    Laptop battery          3S or 4S Li-ion           11.1V or 14.8V
+    Power tool pack         5S2P Li-ion (18V, 4Ah)    10 cells
+    E-bike battery          10S4P Li-ion (36V, 8Ah)   40 cells
+    Car battery             6S lead-acid (12V)        6 cells in series
+    Golf cart (36V)         18S lead-acid (36V)       18 cells (6V×6)
+    Solar storage           4S LiFePO₄ (12.8V)        4 cells in series
+    Tesla Model 3           96S46P (355V, 217Ah)      4416 cells!
 ```
 
 ### Designing a Battery Pack
