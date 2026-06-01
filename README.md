@@ -157,8 +157,8 @@ Root path: h:\programming\git_and_github\TrippleE-EEE-Slops\(DOCS) --  EEE slops
 └── 📁 13-cheatsheets/
     ├── 📕 13.01 formulas.md
     ├── 📕 13.02 symbols.md
-    ├── 📕 13.03 units.md
-    └── 📕 13.04 quick-guide.md
+    └── 📕 13.03 units.md
+     
 
 
 
